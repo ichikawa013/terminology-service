@@ -1,0 +1,4641 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "icd11-tm2",
+  "url": "http://id.who.int/icd/entity/1147241349",
+  "version": "2025-09",
+  "name": "ICD11_TM2",
+  "status": "active",
+  "caseSensitive": true,
+  "content": "complete",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns='http://www.w3.org/1999/xhtml'>ICD-11 TM2 CodeSystem generated from WHO API</div>"
+  },
+  "concept": [
+    {
+      "code": "1147241349",
+      "display": "Traditional medicine disorders (TM2)",
+      "definition": "Traditional medicine disorders (TM2)"
+    },
+    {
+      "code": "627880448",
+      "display": "Head, brain, nerve and movement disorders (TM2)",
+      "definition": "Head, brain, nerve and movement disorders (TM2)"
+    },
+    {
+      "code": "1896371070",
+      "display": "Headache disorders (TM2)",
+      "definition": "Headache disorders (TM2)"
+    },
+    {
+      "code": "1477455511",
+      "display": "Splitting pain of forehead disorder (TM2)",
+      "definition": "Splitting pain of forehead disorder (TM2)"
+    },
+    {
+      "code": "1488428775",
+      "display": "Cephalalgia disorder (TM2)",
+      "definition": "Cephalalgia disorder (TM2)"
+    },
+    {
+      "code": "316699522",
+      "display": "Heaviness of head disorder (TM2)",
+      "definition": "Heaviness of head disorder (TM2)"
+    },
+    {
+      "code": "1209404767",
+      "display": "Scalp pain disorder (TM2)",
+      "definition": "Scalp pain disorder (TM2)"
+    },
+    {
+      "code": "2065018174",
+      "display": "Aiya aggravation and headache disorder (TM2)",
+      "definition": "Aiya aggravation and headache disorder (TM2)"
+    },
+    {
+      "code": "633060687",
+      "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+      "definition": "Mukkuṟṟam aggravation and headache disorder (TM2)"
+    },
+    {
+      "code": "792074787",
+      "display": "Vaḷi aggravation and headache disorder (TM2)",
+      "definition": "Vaḷi aggravation and headache disorder (TM2)"
+    },
+    {
+      "code": "1410801524",
+      "display": "Cluster headache disorder (TM2)",
+      "definition": "Cluster headache disorder (TM2)"
+    },
+    {
+      "code": "507572759",
+      "display": "Circumferential headache disorder (TM2)",
+      "definition": "Circumferential headache disorder (TM2)"
+    },
+    {
+      "code": "1907443904",
+      "display": "Catarrhal headache disorder (TM2)",
+      "definition": "Catarrhal headache disorder (TM2)"
+    },
+    {
+      "code": "190561487",
+      "display": "Headache due to weakness of brain disorder (TM2)",
+      "definition": "Headache due to weakness of brain disorder (TM2)"
+    },
+    {
+      "code": "1370341906",
+      "display": "Occipital headache due to hypertension disorder (TM2)",
+      "definition": "Occipital headache due to hypertension disorder (TM2)"
+    },
+    {
+      "code": "880177063",
+      "display": "Head disorder due to depletion of fundamental structural components disorder (TM2)",
+      "definition": "Head disorder due to depletion of fundamental structural components disorder (TM2)"
+    },
+    {
+      "code": "262008259",
+      "display": "Temporal headache disorder (TM2)",
+      "definition": "Temporal headache disorder (TM2)"
+    },
+    {
+      "code": "84953775",
+      "display": "Throbbing headache disorder (TM2)",
+      "definition": "Throbbing headache disorder (TM2)"
+    },
+    {
+      "code": "28171409",
+      "display": "Headache due to smell disorder (TM2)",
+      "definition": "Headache due to smell disorder (TM2)"
+    },
+    {
+      "code": "2068261090",
+      "display": "Trigeminal neuralgia disorder (TM2)",
+      "definition": "Trigeminal neuralgia disorder (TM2)"
+    },
+    {
+      "code": "1865426792",
+      "display": "Referred headache due to the involvement of the liver disorder (TM2)",
+      "definition": "Referred headache due to the involvement of the liver disorder (TM2)"
+    },
+    {
+      "code": "183208669",
+      "display": "Referred headache due to the involvement of the peritoneum disorder (TM2)",
+      "definition": "Referred headache due to the involvement of the peritoneum disorder (TM2)"
+    },
+    {
+      "code": "633371261",
+      "display": "Referred headache due to the involvement of the stomach disorder (TM2)",
+      "definition": "Referred headache due to the involvement of the stomach disorder (TM2)"
+    },
+    {
+      "code": "793632017",
+      "display": "Headache due to derangement of Ṣafrā’ disorder (TM2)",
+      "definition": "Headache due to derangement of Ṣafrā’ disorder (TM2)"
+    },
+    {
+      "code": "98365649",
+      "display": "Headache due to derangement of Balgham disorder (TM2)",
+      "definition": "Headache due to derangement of Balgham disorder (TM2)"
+    },
+    {
+      "code": "256989117",
+      "display": "Inflammatory headache disorder (TM2)",
+      "definition": "Inflammatory headache disorder (TM2)"
+    },
+    {
+      "code": "267839437",
+      "display": "Headache due to external Bukhārāt disorder (TM2)",
+      "definition": "Headache due to external Bukhārāt disorder (TM2)"
+    },
+    {
+      "code": "1550804057",
+      "display": "Headache due to excessive coldness disorder (TM2)",
+      "definition": "Headache due to excessive coldness disorder (TM2)"
+    },
+    {
+      "code": "1923491639",
+      "display": "Headache due to excessive hotness disorder (TM2)",
+      "definition": "Headache due to excessive hotness disorder (TM2)"
+    },
+    {
+      "code": "139252550",
+      "display": "Headache due to external Rīḥ disorder (TM2)",
+      "definition": "Headache due to external Rīḥ disorder (TM2)"
+    },
+    {
+      "code": "473685200",
+      "display": "Headache due to derangement of Dam disorder (TM2)",
+      "definition": "Headache due to derangement of Dam disorder (TM2)"
+    },
+    {
+      "code": "2044752251",
+      "display": "Headache due to derangement of Sawdā’ disorder (TM2)",
+      "definition": "Headache due to derangement of Sawdā’ disorder (TM2)"
+    },
+    {
+      "code": "1456177627",
+      "display": "Headache due to internal Bukhārāt disorder (TM2)",
+      "definition": "Headache due to internal Bukhārāt disorder (TM2)"
+    },
+    {
+      "code": "1548101303",
+      "display": "Headache due to internal Rīḥ disorder (TM2)",
+      "definition": "Headache due to internal Rīḥ disorder (TM2)"
+    },
+    {
+      "code": "1993804663",
+      "display": "Sunshine induced cephalalgia disorder (TM2)",
+      "definition": "Sunshine induced cephalalgia disorder (TM2)"
+    },
+    {
+      "code": "2086317083",
+      "display": "Headache due to infestation disorder (TM2)",
+      "definition": "Headache due to infestation disorder (TM2)"
+    },
+    {
+      "code": "2096962667",
+      "display": "Migraine disorder (TM2)",
+      "definition": "Migraine disorder (TM2)"
+    },
+    {
+      "code": "651630068",
+      "display": "Acute migraine disorder (TM2)",
+      "definition": "Acute migraine disorder (TM2)"
+    },
+    {
+      "code": "577405900",
+      "display": "Chronic migraine disorder (TM2)",
+      "definition": "Chronic migraine disorder (TM2)"
+    },
+    {
+      "code": "2072376338",
+      "display": "Nervous system disorders (TM2)",
+      "definition": "Nervous system disorders (TM2)"
+    },
+    {
+      "code": "691174964",
+      "display": "Vertigo and giddiness disorder (TM2)",
+      "definition": "Vertigo and giddiness disorder (TM2)"
+    },
+    {
+      "code": "1212870157",
+      "display": "Vertigo and giddiness due to Balgham disorder (TM2)",
+      "definition": "Vertigo and giddiness due to Balgham disorder (TM2)"
+    },
+    {
+      "code": "1120356705",
+      "display": "Vertigo and giddiness due to Dam disorder (TM2)",
+      "definition": "Vertigo and giddiness due to Dam disorder (TM2)"
+    },
+    {
+      "code": "1113651473",
+      "display": "Vertigo and giddiness due to Ṣafrā’ disorder (TM2)",
+      "definition": "Vertigo and giddiness due to Ṣafrā’ disorder (TM2)"
+    },
+    {
+      "code": "137827444",
+      "display": "Vertigo and giddiness due to Sawdā’ disorder (TM2)",
+      "definition": "Vertigo and giddiness due to Sawdā’ disorder (TM2)"
+    },
+    {
+      "code": "1388407465",
+      "display": "Secondary vertigo and giddiness disorder (TM2)",
+      "definition": "Secondary vertigo and giddiness disorder (TM2)"
+    },
+    {
+      "code": "623633507",
+      "display": "Paralysis disorders (TM2)",
+      "definition": "Paralysis disorders (TM2)"
+    },
+    {
+      "code": "673947354",
+      "display": "Facial palsy disorder (TM2)",
+      "definition": "Facial palsy disorder (TM2)"
+    },
+    {
+      "code": "1205478513",
+      "display": "Deviation of one side of face due to spasm of muscles disorder (TM2)",
+      "definition": "Deviation of one side of face due to spasm of muscles disorder (TM2)"
+    },
+    {
+      "code": "570526148",
+      "display": "Deviation of one side of face due to flaccidity of muscles disorder (TM2)",
+      "definition": "Deviation of one side of face due to flaccidity of muscles disorder (TM2)"
+    },
+    {
+      "code": "1338037818",
+      "display": "Paraplegia disorder (TM2)",
+      "definition": "Paraplegia disorder (TM2)"
+    },
+    {
+      "code": "1162703190",
+      "display": "Lameness (unilateral) disorder (TM2)",
+      "definition": "Lameness (unilateral) disorder (TM2)"
+    },
+    {
+      "code": "559754689",
+      "display": "Hemiplegia disorder (TM2)",
+      "definition": "Hemiplegia disorder (TM2)"
+    },
+    {
+      "code": "735087277",
+      "display": "Incomplete hemiplegia disorder (TM2)",
+      "definition": "Incomplete hemiplegia disorder (TM2)"
+    },
+    {
+      "code": "729234141",
+      "display": "Hemiplegia in children disorder (TM2)",
+      "definition": "Hemiplegia in children disorder (TM2)"
+    },
+    {
+      "code": "1629542330",
+      "display": "Monoplegia disorder (TM2)",
+      "definition": "Monoplegia disorder (TM2)"
+    },
+    {
+      "code": "1003923813",
+      "display": "Total body paralysis disorder (TM2)",
+      "definition": "Total body paralysis disorder (TM2)"
+    },
+    {
+      "code": "1094475028",
+      "display": "Tongue paralysis disorder (TM2)",
+      "definition": "Tongue paralysis disorder (TM2)"
+    },
+    {
+      "code": "799425295",
+      "display": "Paroxysmal disorders (TM2)",
+      "definition": "Paroxysmal disorders (TM2)"
+    },
+    {
+      "code": "462864539",
+      "display": "Seizure disorder (TM2)",
+      "definition": "Seizure disorder (TM2)"
+    },
+    {
+      "code": "785246141",
+      "display": "Whole body stiffness with immobility disorder (TM2)",
+      "definition": "Whole body stiffness with immobility disorder (TM2)"
+    },
+    {
+      "code": "1259751946",
+      "display": "Post-traumatic convulsion disorder (TM2)",
+      "definition": "Post-traumatic convulsion disorder (TM2)"
+    },
+    {
+      "code": "1336663094",
+      "display": "Irremediable opisthotonos disorder (TM2)",
+      "definition": "Irremediable opisthotonos disorder (TM2)"
+    },
+    {
+      "code": "531113391",
+      "display": "Opisthotonos disorder (TM2)",
+      "definition": "Opisthotonos disorder (TM2)"
+    },
+    {
+      "code": "199174695",
+      "display": "Orthotonus disorder (TM2)",
+      "definition": "Orthotonus disorder (TM2)"
+    },
+    {
+      "code": "1899355736",
+      "display": "Orthotonus with rod like stiffness disorder (TM2)",
+      "definition": "Orthotonus with rod like stiffness disorder (TM2)"
+    },
+    {
+      "code": "516187391",
+      "display": "Emprosthotonus disorder (TM2)",
+      "definition": "Emprosthotonus disorder (TM2)"
+    },
+    {
+      "code": "2065680714",
+      "display": "Convulsive fit disorder (TM2)",
+      "definition": "Convulsive fit disorder (TM2)"
+    },
+    {
+      "code": "1630797216",
+      "display": "Epilepsy disorder (TM2)",
+      "definition": "Epilepsy disorder (TM2)"
+    },
+    {
+      "code": "1807637236",
+      "display": "Epilepsy due to Aiyam disorder (TM2)",
+      "definition": "Epilepsy due to Aiyam disorder (TM2)"
+    },
+    {
+      "code": "1948824392",
+      "display": "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+      "definition": "Epilepsy due to derangement of Sawdā’ disorder (TM2)"
+    },
+    {
+      "code": "2124747820",
+      "display": "Grandmal epilepsy disorder (TM2)",
+      "definition": "Grandmal epilepsy disorder (TM2)"
+    },
+    {
+      "code": "1952938548",
+      "display": "Scalp affliction disorder (TM2)",
+      "definition": "Scalp affliction disorder (TM2)"
+    },
+    {
+      "code": "1060789661",
+      "display": "Scalp tumour disorder (TM2)",
+      "definition": "Scalp tumour disorder (TM2)"
+    },
+    {
+      "code": "1638777406",
+      "display": "Neurotrophic ulcer disorder (TM2)",
+      "definition": "Neurotrophic ulcer disorder (TM2)"
+    },
+    {
+      "code": "1977273780",
+      "display": "Numbness over scalp disorder (TM2)",
+      "definition": "Numbness over scalp disorder (TM2)"
+    },
+    {
+      "code": "254818757",
+      "display": "Brain disease disorder (TM2)",
+      "definition": "Brain disease disorder (TM2)"
+    },
+    {
+      "code": "1623294828",
+      "display": "Infection of palate disorder (TM2)",
+      "definition": "Infection of palate disorder (TM2)"
+    },
+    {
+      "code": "1637220901",
+      "display": "Delirium caused by diseases of head disorder (TM2)",
+      "definition": "Delirium caused by diseases of head disorder (TM2)"
+    },
+    {
+      "code": "85602009",
+      "display": "Cervicobrachial pain disorder (TM2)",
+      "definition": "Cervicobrachial pain disorder (TM2)"
+    },
+    {
+      "code": "364625249",
+      "display": "Peripheral neuritis disorder (TM2)",
+      "definition": "Peripheral neuritis disorder (TM2)"
+    },
+    {
+      "code": "170742997",
+      "display": "Three humours affected leading to seizure disorder (TM2)",
+      "definition": "Three humours affected leading to seizure disorder (TM2)"
+    },
+    {
+      "code": "10548153",
+      "display": "Tetanus disorder (TM2)",
+      "definition": "Tetanus disorder (TM2)"
+    },
+    {
+      "code": "1640417330",
+      "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+      "definition": "Aggrevation of Aẕal causing neuralgia disorder (TM2)"
+    },
+    {
+      "code": "749069122",
+      "display": "Peripheral neuralgia disorder (TM2)",
+      "definition": "Peripheral neuralgia disorder (TM2)"
+    },
+    {
+      "code": "640173102",
+      "display": "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)",
+      "definition": "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)"
+    },
+    {
+      "code": "968797594",
+      "display": "Tremor disorder (TM2)",
+      "definition": "Tremor disorder (TM2)"
+    },
+    {
+      "code": "858983158",
+      "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+      "definition": "Aggrevation of Aẕal causing tremors disorder (TM2)"
+    },
+    {
+      "code": "110329586",
+      "display": "Head tremor disorder (TM2)",
+      "definition": "Head tremor disorder (TM2)"
+    },
+    {
+      "code": "1287951255",
+      "display": "Tremor due to cold impaired temperament disorder (TM2)",
+      "definition": "Tremor due to cold impaired temperament disorder (TM2)"
+    },
+    {
+      "code": "590686526",
+      "display": "Stiffness disorder (TM2)",
+      "definition": "Stiffness disorder (TM2)"
+    },
+    {
+      "code": "1507843407",
+      "display": "Tremor neck disorder (TM2)",
+      "definition": "Tremor neck disorder (TM2)"
+    },
+    {
+      "code": "1997970977",
+      "display": "Head and neck rigidity disorder (TM2)",
+      "definition": "Head and neck rigidity disorder (TM2)"
+    },
+    {
+      "code": "1386218705",
+      "display": "Incoherent speech disorder (TM2)",
+      "definition": "Incoherent speech disorder (TM2)"
+    },
+    {
+      "code": "1203456521",
+      "display": "Foot drop disorder (TM2)",
+      "definition": "Foot drop disorder (TM2)"
+    },
+    {
+      "code": "1295445349",
+      "display": "Lathyrism disorder (TM2)",
+      "definition": "Lathyrism disorder (TM2)"
+    },
+    {
+      "code": "2023135585",
+      "display": "Lock-jaw disorder (TM2)",
+      "definition": "Lock-jaw disorder (TM2)"
+    },
+    {
+      "code": "851538950",
+      "display": "Twitching eyebrow disorder (TM2)",
+      "definition": "Twitching eyebrow disorder (TM2)"
+    },
+    {
+      "code": "1563479725",
+      "display": "Cerebrasthenia disorder (TM2)",
+      "definition": "Cerebrasthenia disorder (TM2)"
+    },
+    {
+      "code": "668613342",
+      "display": "Stammering disorder (TM2)",
+      "definition": "Stammering disorder (TM2)"
+    },
+    {
+      "code": "593997026",
+      "display": "Numbness disorder (TM2)",
+      "definition": "Numbness disorder (TM2)"
+    },
+    {
+      "code": "604428330",
+      "display": "Obsession disorder (TM2)",
+      "definition": "Obsession disorder (TM2)"
+    },
+    {
+      "code": "1881501495",
+      "display": "Stroke disorder (TM2)",
+      "definition": "Stroke disorder (TM2)"
+    },
+    {
+      "code": "1315700352",
+      "display": "Stroke due to Balgham disorder (TM2)",
+      "definition": "Stroke due to Balgham disorder (TM2)"
+    },
+    {
+      "code": "71045915",
+      "display": "Stroke due to Sawdā ' disorder (TM2)",
+      "definition": "Stroke due to Sawdā ' disorder (TM2)"
+    },
+    {
+      "code": "2057881691",
+      "display": "Ethmoid obstruction disorder (TM2)",
+      "definition": "Ethmoid obstruction disorder (TM2)"
+    },
+    {
+      "code": "769185840",
+      "display": "Morbid temperament of nerve disorder (TM2)",
+      "definition": "Morbid temperament of nerve disorder (TM2)"
+    },
+    {
+      "code": "18972171",
+      "display": "Nerve weakness disorder (TM2)",
+      "definition": "Nerve weakness disorder (TM2)"
+    },
+    {
+      "code": "1426245910",
+      "display": "Muscle distension disorder (TM2)",
+      "definition": "Muscle distension disorder (TM2)"
+    },
+    {
+      "code": "1603235450",
+      "display": "Cold nerve disorder (TM2)",
+      "definition": "Cold nerve disorder (TM2)"
+    },
+    {
+      "code": "1647929877",
+      "display": "Weakness of thighs due to vata disorder (TM2)",
+      "definition": "Weakness of thighs due to vata disorder (TM2)"
+    },
+    {
+      "code": "1756679545",
+      "display": "Intractable stiff-thigh disorder (TM2)",
+      "definition": "Intractable stiff-thigh disorder (TM2)"
+    },
+    {
+      "code": "823901578",
+      "display": "Eye, ear, nose, throat and neck disorders (TM2)",
+      "definition": "Eye, ear, nose, throat and neck disorders (TM2)"
+    },
+    {
+      "code": "1249767098",
+      "display": "Eye disorders (TM2)",
+      "definition": "Eye disorders (TM2)"
+    },
+    {
+      "code": "244158019",
+      "display": "Ocular hyperemia disorder (TM2)",
+      "definition": "Ocular hyperemia disorder (TM2)"
+    },
+    {
+      "code": "399613849",
+      "display": "Episcleritis disorder (TM2)",
+      "definition": "Episcleritis disorder (TM2)"
+    },
+    {
+      "code": "1064158914",
+      "display": "Prolapse iris disorder (TM2)",
+      "definition": "Prolapse iris disorder (TM2)"
+    },
+    {
+      "code": "1704704031",
+      "display": "Blepharitis disorder (TM2)",
+      "definition": "Blepharitis disorder (TM2)"
+    },
+    {
+      "code": "527518832",
+      "display": "Chronic blepharitis disorder (TM2)",
+      "definition": "Chronic blepharitis disorder (TM2)"
+    },
+    {
+      "code": "1887499975",
+      "display": "Blindness due to excess intake of food substances that produce burning sensation disorder (TM2)",
+      "definition": "Blindness due to excess intake of food substances that produce burning sensation disorder (TM2)"
+    },
+    {
+      "code": "358308722",
+      "display": "Corneal eye disease with blindness and increased lacrimation disorder (TM2)",
+      "definition": "Corneal eye disease with blindness and increased lacrimation disorder (TM2)"
+    },
+    {
+      "code": "300338510",
+      "display": "Day blindness disorder (TM2)",
+      "definition": "Day blindness disorder (TM2)"
+    },
+    {
+      "code": "1332826861",
+      "display": "Night blindness disorder (TM2)",
+      "definition": "Night blindness disorder (TM2)"
+    },
+    {
+      "code": "1527143781",
+      "display": "Night-blindness due to dosha disorder (TM2)",
+      "definition": "Night-blindness due to dosha disorder (TM2)"
+    },
+    {
+      "code": "569157910",
+      "display": "Cataract disorder (TM2)",
+      "definition": "Cataract disorder (TM2)"
+    },
+    {
+      "code": "1310528445",
+      "display": "Partial or total blindness disorder (TM2)",
+      "definition": "Partial or total blindness disorder (TM2)"
+    },
+    {
+      "code": "1047219329",
+      "display": "Cataract due to kapha disorder (TM2)",
+      "definition": "Cataract due to kapha disorder (TM2)"
+    },
+    {
+      "code": "1538318644",
+      "display": "Cararact due to three dosha disorder (TM2)",
+      "definition": "Cararact due to three dosha disorder (TM2)"
+    },
+    {
+      "code": "734445064",
+      "display": "Conjunctivitis disorder (TM2)",
+      "definition": "Conjunctivitis disorder (TM2)"
+    },
+    {
+      "code": "837454558",
+      "display": "Allergic conjunctivitis disorder (TM2)",
+      "definition": "Allergic conjunctivitis disorder (TM2)"
+    },
+    {
+      "code": "996617650",
+      "display": "Conjunctivitis with eye lid inflammation disorder (TM2)",
+      "definition": "Conjunctivitis with eye lid inflammation disorder (TM2)"
+    },
+    {
+      "code": "619824134",
+      "display": "Mucopurulent conjunctivitis disorder (TM2)",
+      "definition": "Mucopurulent conjunctivitis disorder (TM2)"
+    },
+    {
+      "code": "779903850",
+      "display": "Ulcerative conjunctivitis disorder (TM2)",
+      "definition": "Ulcerative conjunctivitis disorder (TM2)"
+    },
+    {
+      "code": "1877158623",
+      "display": "Conjunctivitis due to derangement of Balgham disorder (TM2)",
+      "definition": "Conjunctivitis due to derangement of Balgham disorder (TM2)"
+    },
+    {
+      "code": "644256033",
+      "display": "Conjunctivitis derangement of Dam disorder (TM2)",
+      "definition": "Conjunctivitis derangement of Dam disorder (TM2)"
+    },
+    {
+      "code": "840015529",
+      "display": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)",
+      "definition": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)"
+    },
+    {
+      "code": "1224436440",
+      "display": "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)",
+      "definition": "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)"
+    },
+    {
+      "code": "655020145",
+      "display": "Phlyctenular conjunctivitis disorder (TM2)",
+      "definition": "Phlyctenular conjunctivitis disorder (TM2)"
+    },
+    {
+      "code": "1121025478",
+      "display": "Corneal eye disease with fleshy growth disorder (TM2)",
+      "definition": "Corneal eye disease with fleshy growth disorder (TM2)"
+    },
+    {
+      "code": "1492994320",
+      "display": "Conjunctival tumor disorder (TM2)",
+      "definition": "Conjunctival tumor disorder (TM2)"
+    },
+    {
+      "code": "1383132796",
+      "display": "Corneal disorder (TM2)",
+      "definition": "Corneal disorder (TM2)"
+    },
+    {
+      "code": "1138943420",
+      "display": "Shrinking of cornea disorder (TM2)",
+      "definition": "Shrinking of cornea disorder (TM2)"
+    },
+    {
+      "code": "1306920904",
+      "display": "Corneal ulcers disorder (TM2)",
+      "definition": "Corneal ulcers disorder (TM2)"
+    },
+    {
+      "code": "2008084300",
+      "display": "Keratitis disorder (TM2)",
+      "definition": "Keratitis disorder (TM2)"
+    },
+    {
+      "code": "1198235812",
+      "display": "Vascular keratitis disorder (TM2)",
+      "definition": "Vascular keratitis disorder (TM2)"
+    },
+    {
+      "code": "1138112156",
+      "display": "Corneal vascularisation disorder (TM2)",
+      "definition": "Corneal vascularisation disorder (TM2)"
+    },
+    {
+      "code": "638425903",
+      "display": "Tear sac swelling disorder (TM2)",
+      "definition": "Tear sac swelling disorder (TM2)"
+    },
+    {
+      "code": "1775532044",
+      "display": "Chronic dacrocystitis disorder (TM2)",
+      "definition": "Chronic dacrocystitis disorder (TM2)"
+    },
+    {
+      "code": "1666834280",
+      "display": "Eyelid cyst disorder (TM2)",
+      "definition": "Eyelid cyst disorder (TM2)"
+    },
+    {
+      "code": "2093954772",
+      "display": "Dry eye disorder (TM2)",
+      "definition": "Dry eye disorder (TM2)"
+    },
+    {
+      "code": "1984074176",
+      "display": "Xeropthalmia disorder (TM2)",
+      "definition": "Xeropthalmia disorder (TM2)"
+    },
+    {
+      "code": "162859231",
+      "display": "Entropion disorder (TM2)",
+      "definition": "Entropion disorder (TM2)"
+    },
+    {
+      "code": "1715778168",
+      "display": "Lagophthalmos disorder (TM2)",
+      "definition": "Lagophthalmos disorder (TM2)"
+    },
+    {
+      "code": "845612393",
+      "display": "Ectropion disorder (TM2)",
+      "definition": "Ectropion disorder (TM2)"
+    },
+    {
+      "code": "492583157",
+      "display": "Pterygium disorder (TM2)",
+      "definition": "Pterygium disorder (TM2)"
+    },
+    {
+      "code": "46846273",
+      "display": "Progressive pterygium disorder (TM2)",
+      "definition": "Progressive pterygium disorder (TM2)"
+    },
+    {
+      "code": "138901037",
+      "display": "Pinguecula disorder (TM2)",
+      "definition": "Pinguecula disorder (TM2)"
+    },
+    {
+      "code": "1712732076",
+      "display": "Lacrimation disorder (TM2)",
+      "definition": "Lacrimation disorder (TM2)"
+    },
+    {
+      "code": "1822134472",
+      "display": "Vitreous opacity disorder (TM2)",
+      "definition": "Vitreous opacity disorder (TM2)"
+    },
+    {
+      "code": "1143150083",
+      "display": "Trichiasis disorder (TM2)",
+      "definition": "Trichiasis disorder (TM2)"
+    },
+    {
+      "code": "735227050",
+      "display": "Eyelid tumour disorder (TM2)",
+      "definition": "Eyelid tumour disorder (TM2)"
+    },
+    {
+      "code": "1362647259",
+      "display": "Hard swelling of eyelid disorder (TM2)",
+      "definition": "Hard swelling of eyelid disorder (TM2)"
+    },
+    {
+      "code": "198059528",
+      "display": "Eyelid wart disorder (TM2)",
+      "definition": "Eyelid wart disorder (TM2)"
+    },
+    {
+      "code": "1846905779",
+      "display": "Excessive blinking disorder (TM2)",
+      "definition": "Excessive blinking disorder (TM2)"
+    },
+    {
+      "code": "1270078591",
+      "display": "Eyelid haematoma disorder (TM2)",
+      "definition": "Eyelid haematoma disorder (TM2)"
+    },
+    {
+      "code": "354274316",
+      "display": "Eyelid discoloration disorder (TM2)",
+      "definition": "Eyelid discoloration disorder (TM2)"
+    },
+    {
+      "code": "529558368",
+      "display": "Ptosis disorder (TM2)",
+      "definition": "Ptosis disorder (TM2)"
+    },
+    {
+      "code": "1440172857",
+      "display": "Eyelid constriction disorder (TM2)",
+      "definition": "Eyelid constriction disorder (TM2)"
+    },
+    {
+      "code": "792575818",
+      "display": "Gravel eyelid disorder (TM2)",
+      "definition": "Gravel eyelid disorder (TM2)"
+    },
+    {
+      "code": "1976287637",
+      "display": "Hordeolum internum disorder (TM2)",
+      "definition": "Hordeolum internum disorder (TM2)"
+    },
+    {
+      "code": "1060871298",
+      "display": "Linear eyelid marks disorder (TM2)",
+      "definition": "Linear eyelid marks disorder (TM2)"
+    },
+    {
+      "code": "901135342",
+      "display": "Palpebral Spring catarrh disorder (TM2)",
+      "definition": "Palpebral Spring catarrh disorder (TM2)"
+    },
+    {
+      "code": "822848978",
+      "display": "Sticky eyelids disorder (TM2)",
+      "definition": "Sticky eyelids disorder (TM2)"
+    },
+    {
+      "code": "1273059747",
+      "display": "Chalazion disorder (TM2)",
+      "definition": "Chalazion disorder (TM2)"
+    },
+    {
+      "code": "1603687979",
+      "display": "Marginal chalazion disorder (TM2)",
+      "definition": "Marginal chalazion disorder (TM2)"
+    },
+    {
+      "code": "978189214",
+      "display": "Stye disorder (TM2)",
+      "definition": "Stye disorder (TM2)"
+    },
+    {
+      "code": "380919205",
+      "display": "Dacryo cystitis disorder (TM2)",
+      "definition": "Dacryo cystitis disorder (TM2)"
+    },
+    {
+      "code": "473561801",
+      "display": "Eyelid pain due to pitta disorder (TM2)",
+      "definition": "Eyelid pain due to pitta disorder (TM2)"
+    },
+    {
+      "code": "917034761",
+      "display": "Multiple meibomitis disorder (TM2)",
+      "definition": "Multiple meibomitis disorder (TM2)"
+    },
+    {
+      "code": "1009086565",
+      "display": "Phlyctens disorder (TM2)",
+      "definition": "Phlyctens disorder (TM2)"
+    },
+    {
+      "code": "1993682290",
+      "display": "Ptilosis disorder (TM2)",
+      "definition": "Ptilosis disorder (TM2)"
+    },
+    {
+      "code": "1478258208",
+      "display": "Non-inflammatory swelling of eye disorder (TM2)",
+      "definition": "Non-inflammatory swelling of eye disorder (TM2)"
+    },
+    {
+      "code": "586586735",
+      "display": "Periorbital polyp disorder (TM2)",
+      "definition": "Periorbital polyp disorder (TM2)"
+    },
+    {
+      "code": "914462183",
+      "display": "Phlyctenular nodule disorder (TM2)",
+      "definition": "Phlyctenular nodule disorder (TM2)"
+    },
+    {
+      "code": "1398421588",
+      "display": "Bloodshot eye disorder (TM2)",
+      "definition": "Bloodshot eye disorder (TM2)"
+    },
+    {
+      "code": "796584235",
+      "display": "Chemosis disorder (TM2)",
+      "definition": "Chemosis disorder (TM2)"
+    },
+    {
+      "code": "636964423",
+      "display": "Trachoma disorder (TM2)",
+      "definition": "Trachoma disorder (TM2)"
+    },
+    {
+      "code": "258368391",
+      "display": "Granulation of eyelids with eruptions similar to fig disorder (TM2)",
+      "definition": "Granulation of eyelids with eruptions similar to fig disorder (TM2)"
+    },
+    {
+      "code": "99337451",
+      "display": "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)",
+      "definition": "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)"
+    },
+    {
+      "code": "88896667",
+      "display": "Diffused granulation of eyelids disorder (TM2)",
+      "definition": "Diffused granulation of eyelids disorder (TM2)"
+    },
+    {
+      "code": "1269174210",
+      "display": "Papillary trachoma disorder (TM2)",
+      "definition": "Papillary trachoma disorder (TM2)"
+    },
+    {
+      "code": "1093380270",
+      "display": "Corneal opacity disorder (TM2)",
+      "definition": "Corneal opacity disorder (TM2)"
+    },
+    {
+      "code": "624686137",
+      "display": "Papilloma disorder (TM2)",
+      "definition": "Papilloma disorder (TM2)"
+    },
+    {
+      "code": "800478037",
+      "display": "Ocular pain disorder (TM2)",
+      "definition": "Ocular pain disorder (TM2)"
+    },
+    {
+      "code": "789701413",
+      "display": "Referred ocular pain disorder (TM2)",
+      "definition": "Referred ocular pain disorder (TM2)"
+    },
+    {
+      "code": "1904639108",
+      "display": "Panopthalmitis disorder (TM2)",
+      "definition": "Panopthalmitis disorder (TM2)"
+    },
+    {
+      "code": "728760921",
+      "display": "Complete blindness disorder (TM2)",
+      "definition": "Complete blindness disorder (TM2)"
+    },
+    {
+      "code": "1369110058",
+      "display": "Haziness of vision disorder (TM2)",
+      "definition": "Haziness of vision disorder (TM2)"
+    },
+    {
+      "code": "899934291",
+      "display": "Maculopathy disorder (TM2)",
+      "definition": "Maculopathy disorder (TM2)"
+    },
+    {
+      "code": "1530794924",
+      "display": "Pthisis bulbi endophthalmity disorder (TM2)",
+      "definition": "Pthisis bulbi endophthalmity disorder (TM2)"
+    },
+    {
+      "code": "1370731720",
+      "display": "Central Opacity of lens disorder (TM2)",
+      "definition": "Central Opacity of lens disorder (TM2)"
+    },
+    {
+      "code": "1360266422",
+      "display": "Sour-food induced eye disorder (TM2)",
+      "definition": "Sour-food induced eye disorder (TM2)"
+    },
+    {
+      "code": "42829604",
+      "display": "Sensitivity of eyes, blurred vision and long sightedness disorder (TM2)",
+      "definition": "Sensitivity of eyes, blurred vision and long sightedness disorder (TM2)"
+    },
+    {
+      "code": "683350676",
+      "display": "Phthisis bulbi disorder (TM2)",
+      "definition": "Phthisis bulbi disorder (TM2)"
+    },
+    {
+      "code": "1427889530",
+      "display": "Lymphangioma disorder (TM2)",
+      "definition": "Lymphangioma disorder (TM2)"
+    },
+    {
+      "code": "2753503",
+      "display": "Ear disorders (TM2)",
+      "definition": "Ear disorders (TM2)"
+    },
+    {
+      "code": "1417408670",
+      "display": "Meneire disease disorder (TM2)",
+      "definition": "Meneire disease disorder (TM2)"
+    },
+    {
+      "code": "33641403",
+      "display": "Ear abscess disorder (TM2)",
+      "definition": "Ear abscess disorder (TM2)"
+    },
+    {
+      "code": "1298183975",
+      "display": "Ear tumour disorder (TM2)",
+      "definition": "Ear tumour disorder (TM2)"
+    },
+    {
+      "code": "738626732",
+      "display": "Aural atresia disorder (TM2)",
+      "definition": "Aural atresia disorder (TM2)"
+    },
+    {
+      "code": "1716609481",
+      "display": "Deafness disorder (TM2)",
+      "definition": "Deafness disorder (TM2)"
+    },
+    {
+      "code": "1915121217",
+      "display": "Impaired hearing disorder (TM2)",
+      "definition": "Impaired hearing disorder (TM2)"
+    },
+    {
+      "code": "147626546",
+      "display": "Congenital deafness disorder (TM2)",
+      "definition": "Congenital deafness disorder (TM2)"
+    },
+    {
+      "code": "48663852",
+      "display": "Otocatarrh disorder (TM2)",
+      "definition": "Otocatarrh disorder (TM2)"
+    },
+    {
+      "code": "202033980",
+      "display": "Otorrhoea disorder (TM2)",
+      "definition": "Otorrhoea disorder (TM2)"
+    },
+    {
+      "code": "109538384",
+      "display": "Pruritus of ear disorder (TM2)",
+      "definition": "Pruritus of ear disorder (TM2)"
+    },
+    {
+      "code": "420578788",
+      "display": "Ear disease due to kapha disorder (TM2)",
+      "definition": "Ear disease due to kapha disorder (TM2)"
+    },
+    {
+      "code": "328999560",
+      "display": "Ear disease due to pitta disorder (TM2)",
+      "definition": "Ear disease due to pitta disorder (TM2)"
+    },
+    {
+      "code": "1375955775",
+      "display": "Disorder of ear due to vitiated blood (TM2)",
+      "definition": "Disorder of ear due to vitiated blood (TM2)"
+    },
+    {
+      "code": "408192604",
+      "display": "Ear disorder due to three dosha (TM2)",
+      "definition": "Ear disorder due to three dosha (TM2)"
+    },
+    {
+      "code": "203655634",
+      "display": "Ear disorder due to vāta (TM2)",
+      "definition": "Ear disorder due to vāta (TM2)"
+    },
+    {
+      "code": "1992916387",
+      "display": "Thin earlobule disorder (TM2)",
+      "definition": "Thin earlobule disorder (TM2)"
+    },
+    {
+      "code": "423151370",
+      "display": "Piercing-induced earlobule inflammation disorder (TM2)",
+      "definition": "Piercing-induced earlobule inflammation disorder (TM2)"
+    },
+    {
+      "code": "2095278783",
+      "display": "Earlobule inflammation disorder (TM2)",
+      "definition": "Earlobule inflammation disorder (TM2)"
+    },
+    {
+      "code": "1696401650",
+      "display": "Dysacousia disorder (TM2)",
+      "definition": "Dysacousia disorder (TM2)"
+    },
+    {
+      "code": "1871753118",
+      "display": "Impacted cerumen disorder (TM2)",
+      "definition": "Impacted cerumen disorder (TM2)"
+    },
+    {
+      "code": "1879459370",
+      "display": "Polyps of ear disorder (TM2)",
+      "definition": "Polyps of ear disorder (TM2)"
+    },
+    {
+      "code": "2055987526",
+      "display": "Tinnitus disorder (TM2)",
+      "definition": "Tinnitus disorder (TM2)"
+    },
+    {
+      "code": "2117498746",
+      "display": "Flute-like tinnitus disorder (TM2)",
+      "definition": "Flute-like tinnitus disorder (TM2)"
+    },
+    {
+      "code": "468572879",
+      "display": "Otalgia disorder (TM2)",
+      "definition": "Otalgia disorder (TM2)"
+    },
+    {
+      "code": "1329635150",
+      "display": "Ear pain due to infection disorder (TM2)",
+      "definition": "Ear pain due to infection disorder (TM2)"
+    },
+    {
+      "code": "1171077154",
+      "display": "Pain in the ears due to aggrevation of Aiyam disorder (TM2)",
+      "definition": "Pain in the ears due to aggrevation of Aiyam disorder (TM2)"
+    },
+    {
+      "code": "1515966870",
+      "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+      "definition": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)"
+    },
+    {
+      "code": "1356232442",
+      "display": "Pain in the ears due to aggrevation of Vaḷi disorder (TM2)",
+      "definition": "Pain in the ears due to aggrevation of Vaḷi disorder (TM2)"
+    },
+    {
+      "code": "1702232830",
+      "display": "Otitis disorder (TM2)",
+      "definition": "Otitis disorder (TM2)"
+    },
+    {
+      "code": "953489325",
+      "display": "Suppurative ottitis disorder (TM2)",
+      "definition": "Suppurative ottitis disorder (TM2)"
+    },
+    {
+      "code": "1462021380",
+      "display": "Pustular otitis media disorder (TM2)",
+      "definition": "Pustular otitis media disorder (TM2)"
+    },
+    {
+      "code": "768498037",
+      "display": "Secretory otitis media disorder (TM2)",
+      "definition": "Secretory otitis media disorder (TM2)"
+    },
+    {
+      "code": "50797083",
+      "display": "Otitis externa disorder (TM2)",
+      "definition": "Otitis externa disorder (TM2)"
+    },
+    {
+      "code": "1725740976",
+      "display": "Tympanic perforation disorder (TM2)",
+      "definition": "Tympanic perforation disorder (TM2)"
+    },
+    {
+      "code": "846328367",
+      "display": "Ear myiasis disorder (TM2)",
+      "definition": "Ear myiasis disorder (TM2)"
+    },
+    {
+      "code": "956060995",
+      "display": "Maggots in the ear cavity disorder (TM2)",
+      "definition": "Maggots in the ear cavity disorder (TM2)"
+    },
+    {
+      "code": "661306615",
+      "display": "Aggravation of Aẕal and worm infestation disorder (TM2)",
+      "definition": "Aggravation of Aẕal and worm infestation disorder (TM2)"
+    },
+    {
+      "code": "770120603",
+      "display": "Pain in ears due to infestations disorder (TM2)",
+      "definition": "Pain in ears due to infestations disorder (TM2)"
+    },
+    {
+      "code": "407334815",
+      "display": "Aural infestation disorder (TM2)",
+      "definition": "Aural infestation disorder (TM2)"
+    },
+    {
+      "code": "466297143",
+      "display": "Pustules of pinna disorder (TM2)",
+      "definition": "Pustules of pinna disorder (TM2)"
+    },
+    {
+      "code": "341642327",
+      "display": "Nose disorders (TM2)",
+      "definition": "Nose disorders (TM2)"
+    },
+    {
+      "code": "832593195",
+      "display": "Epistaxis disorder (TM2)",
+      "definition": "Epistaxis disorder (TM2)"
+    },
+    {
+      "code": "1188098112",
+      "display": "Nasal vestibulitis disorder (TM2)",
+      "definition": "Nasal vestibulitis disorder (TM2)"
+    },
+    {
+      "code": "690047639",
+      "display": "Nasal tumor disorder (TM2)",
+      "definition": "Nasal tumor disorder (TM2)"
+    },
+    {
+      "code": "1405861608",
+      "display": "Anosmia disorder (TM2)",
+      "definition": "Anosmia disorder (TM2)"
+    },
+    {
+      "code": "1467361496",
+      "display": "Dry nose disorder (TM2)",
+      "definition": "Dry nose disorder (TM2)"
+    },
+    {
+      "code": "1576767412",
+      "display": "Atrophic rhinitis disorder (TM2)",
+      "definition": "Atrophic rhinitis disorder (TM2)"
+    },
+    {
+      "code": "651856613",
+      "display": "Nasal polyp disorder (TM2)",
+      "definition": "Nasal polyp disorder (TM2)"
+    },
+    {
+      "code": "1821206400",
+      "display": "Rhinitis disorder (TM2)",
+      "definition": "Rhinitis disorder (TM2)"
+    },
+    {
+      "code": "58514729",
+      "display": "Acute rhinitis disorder (TM2)",
+      "definition": "Acute rhinitis disorder (TM2)"
+    },
+    {
+      "code": "2039884120",
+      "display": "Chronic rhinitis disorder (TM2)",
+      "definition": "Chronic rhinitis disorder (TM2)"
+    },
+    {
+      "code": "593516421",
+      "display": "Sanguino purulent rhinitis disorder (TM2)",
+      "definition": "Sanguino purulent rhinitis disorder (TM2)"
+    },
+    {
+      "code": "1186724400",
+      "display": "Suppurative rhinitis disorder (TM2)",
+      "definition": "Suppurative rhinitis disorder (TM2)"
+    },
+    {
+      "code": "2060698381",
+      "display": "Hypertrophic rhinitis disorder (TM2)",
+      "definition": "Hypertrophic rhinitis disorder (TM2)"
+    },
+    {
+      "code": "612225920",
+      "display": "Coryza and catarrh disorder (TM2)",
+      "definition": "Coryza and catarrh disorder (TM2)"
+    },
+    {
+      "code": "787510292",
+      "display": "Coryza disorder (TM2)",
+      "definition": "Coryza disorder (TM2)"
+    },
+    {
+      "code": "1439789379",
+      "display": "Thick saltish nasal discharge disorder (TM2)",
+      "definition": "Thick saltish nasal discharge disorder (TM2)"
+    },
+    {
+      "code": "528915496",
+      "display": "Nasal obstruction disorder (TM2)",
+      "definition": "Nasal obstruction disorder (TM2)"
+    },
+    {
+      "code": "1886856847",
+      "display": "Oedematous rhinitis disorder (TM2)",
+      "definition": "Oedematous rhinitis disorder (TM2)"
+    },
+    {
+      "code": "178115328",
+      "display": "Ozaena disorder (TM2)",
+      "definition": "Ozaena disorder (TM2)"
+    },
+    {
+      "code": "1349233699",
+      "display": "Sinusitis disorder (TM2)",
+      "definition": "Sinusitis disorder (TM2)"
+    },
+    {
+      "code": "900727192",
+      "display": "Infective sinusitis disorder (TM2)",
+      "definition": "Infective sinusitis disorder (TM2)"
+    },
+    {
+      "code": "240878578",
+      "display": "Sinusitis associated with blister in the nose disorder (TM2)",
+      "definition": "Sinusitis associated with blister in the nose disorder (TM2)"
+    },
+    {
+      "code": "81142942",
+      "display": "Sinusitis caused by increased Aiyam disorder (TM2)",
+      "definition": "Sinusitis caused by increased Aiyam disorder (TM2)"
+    },
+    {
+      "code": "7058082",
+      "display": "Sinusitis caused by increased Aẕal disorder (TM2)",
+      "definition": "Sinusitis caused by increased Aẕal disorder (TM2)"
+    },
+    {
+      "code": "2055292625",
+      "display": "Sinusitis caused by increased Vaḷi disorder (TM2)",
+      "definition": "Sinusitis caused by increased Vaḷi disorder (TM2)"
+    },
+    {
+      "code": "1861634393",
+      "display": "Sinusitis associated with epistaxis disorder (TM2)",
+      "definition": "Sinusitis associated with epistaxis disorder (TM2)"
+    },
+    {
+      "code": "187557102",
+      "display": "Frontal ethmoidal sinusitis disorder (TM2)",
+      "definition": "Frontal ethmoidal sinusitis disorder (TM2)"
+    },
+    {
+      "code": "604378190",
+      "display": "Maxillary ethmoidal sinusitis disorder (TM2)",
+      "definition": "Maxillary ethmoidal sinusitis disorder (TM2)"
+    },
+    {
+      "code": "780907298",
+      "display": "Maxillary sinusitis disorder (TM2)",
+      "definition": "Maxillary sinusitis disorder (TM2)"
+    },
+    {
+      "code": "2115013762",
+      "display": "Parosmia disorder (TM2)",
+      "definition": "Parosmia disorder (TM2)"
+    },
+    {
+      "code": "697120322",
+      "display": "Adenoiditis disorder (TM2)",
+      "definition": "Adenoiditis disorder (TM2)"
+    },
+    {
+      "code": "1387016977",
+      "display": "Early state of adenoids disorder (TM2)",
+      "definition": "Early state of adenoids disorder (TM2)"
+    },
+    {
+      "code": "1857550376",
+      "display": "Neck and throat disorders (TM2)",
+      "definition": "Neck and throat disorders (TM2)"
+    },
+    {
+      "code": "512470411",
+      "display": "Throat tumour disorder (TM2)",
+      "definition": "Throat tumour disorder (TM2)"
+    },
+    {
+      "code": "68853472",
+      "display": "Hypopharyngeal growth disorder (TM2)",
+      "definition": "Hypopharyngeal growth disorder (TM2)"
+    },
+    {
+      "code": "244791692",
+      "display": "Posterior pharyngeal wall tumour disorder (TM2)",
+      "definition": "Posterior pharyngeal wall tumour disorder (TM2)"
+    },
+    {
+      "code": "1203057154",
+      "display": "Laryngeal tumour disorder (TM2)",
+      "definition": "Laryngeal tumour disorder (TM2)"
+    },
+    {
+      "code": "1769763180",
+      "display": "Tumour of pharynx disorder (TM2)",
+      "definition": "Tumour of pharynx disorder (TM2)"
+    },
+    {
+      "code": "328631581",
+      "display": "Retropharyngeal abscess disorder (TM2)",
+      "definition": "Retropharyngeal abscess disorder (TM2)"
+    },
+    {
+      "code": "1647978272",
+      "display": "Pharyngeal abscess disorder (TM2)",
+      "definition": "Pharyngeal abscess disorder (TM2)"
+    },
+    {
+      "code": "1293014912",
+      "display": "Hoarseness of voice disorder (TM2)",
+      "definition": "Hoarseness of voice disorder (TM2)"
+    },
+    {
+      "code": "1201434860",
+      "display": "Hoarseness of voice caused by increased lymph disorder (TM2)",
+      "definition": "Hoarseness of voice caused by increased lymph disorder (TM2)"
+    },
+    {
+      "code": "1736505922",
+      "display": "Indistinct- abnormal voice disorder (TM2)",
+      "definition": "Indistinct- abnormal voice disorder (TM2)"
+    },
+    {
+      "code": "1730628144",
+      "display": "Dysphonia disorder (TM2)",
+      "definition": "Dysphonia disorder (TM2)"
+    },
+    {
+      "code": "1829592366",
+      "display": "Tremulous voice disorder (TM2)",
+      "definition": "Tremulous voice disorder (TM2)"
+    },
+    {
+      "code": "2122024590",
+      "display": "Severe throat inflammation disorder (TM2)",
+      "definition": "Severe throat inflammation disorder (TM2)"
+    },
+    {
+      "code": "2059800754",
+      "display": "Pharyngitis disorder (TM2)",
+      "definition": "Pharyngitis disorder (TM2)"
+    },
+    {
+      "code": "1884010462",
+      "display": "Hypo pharyngeal inflammation disorder (TM2)",
+      "definition": "Hypo pharyngeal inflammation disorder (TM2)"
+    },
+    {
+      "code": "341568331",
+      "display": "Feeling of roughness in throat disorder (TM2)",
+      "definition": "Feeling of roughness in throat disorder (TM2)"
+    },
+    {
+      "code": "517360679",
+      "display": "Goitre disorder (TM2)",
+      "definition": "Goitre disorder (TM2)"
+    },
+    {
+      "code": "510786647",
+      "display": "Tonsillitis disorder (TM2)",
+      "definition": "Tonsillitis disorder (TM2)"
+    },
+    {
+      "code": "1377008485",
+      "display": "Speech disorder (TM2)",
+      "definition": "Speech disorder (TM2)"
+    },
+    {
+      "code": "1295619984",
+      "display": "Lymphadenopathy in throat region disorder (TM2)",
+      "definition": "Lymphadenopathy in throat region disorder (TM2)"
+    },
+    {
+      "code": "2077400596",
+      "display": "Incurable lymphadenopathy disorder (TM2)",
+      "definition": "Incurable lymphadenopathy disorder (TM2)"
+    },
+    {
+      "code": "587239726",
+      "display": "Laryngitis disorder (TM2)",
+      "definition": "Laryngitis disorder (TM2)"
+    },
+    {
+      "code": "335940327",
+      "display": "Cellulitis of cheek disorder (TM2)",
+      "definition": "Cellulitis of cheek disorder (TM2)"
+    },
+    {
+      "code": "1000664379",
+      "display": "Excessive sneezing disorder (TM2)",
+      "definition": "Excessive sneezing disorder (TM2)"
+    },
+    {
+      "code": "1411780914",
+      "display": "Induced sneezing disorder (TM2)",
+      "definition": "Induced sneezing disorder (TM2)"
+    },
+    {
+      "code": "248541167",
+      "display": "Vertex disorder (TM2)",
+      "definition": "Vertex disorder (TM2)"
+    },
+    {
+      "code": "1949997984",
+      "display": "Lingular disorder due to increasing Aẕal (TM2)",
+      "definition": "Lingular disorder due to increasing Aẕal (TM2)"
+    },
+    {
+      "code": "79951649",
+      "display": "Aggravated Aiyam leading to stridor disorder (TM2)",
+      "definition": "Aggravated Aiyam leading to stridor disorder (TM2)"
+    },
+    {
+      "code": "240013389",
+      "display": "Hypernasal speech disorder (TM2)",
+      "definition": "Hypernasal speech disorder (TM2)"
+    },
+    {
+      "code": "1274104313",
+      "display": "Respiratory system disorders (TM2)",
+      "definition": "Respiratory system disorders (TM2)"
+    },
+    {
+      "code": "1252530838",
+      "display": "Bronchial asthma disorder (TM2)",
+      "definition": "Bronchial asthma disorder (TM2)"
+    },
+    {
+      "code": "1328471674",
+      "display": "Bronchial asthma with fever, fainting disorder (TM2)",
+      "definition": "Bronchial asthma with fever, fainting disorder (TM2)"
+    },
+    {
+      "code": "720729039",
+      "display": "Bronchial asthma aggravating with darkness disorder (TM2)",
+      "definition": "Bronchial asthma aggravating with darkness disorder (TM2)"
+    },
+    {
+      "code": "1380109122",
+      "display": "Catarrh-induced asthma disorder (TM2)",
+      "definition": "Catarrh-induced asthma disorder (TM2)"
+    },
+    {
+      "code": "932800247",
+      "display": "Asthma due to Balgham disorder (TM2)",
+      "definition": "Asthma due to Balgham disorder (TM2)"
+    },
+    {
+      "code": "1155955370",
+      "display": "Cough disorder (TM2)",
+      "definition": "Cough disorder (TM2)"
+    },
+    {
+      "code": "1855107064",
+      "display": "Acute bronchitis disorder (TM2)",
+      "definition": "Acute bronchitis disorder (TM2)"
+    },
+    {
+      "code": "880880053",
+      "display": "Chronic bronchitis disorder (TM2)",
+      "definition": "Chronic bronchitis disorder (TM2)"
+    },
+    {
+      "code": "519437541",
+      "display": "Bronchitis disorder (TM2)",
+      "definition": "Bronchitis disorder (TM2)"
+    },
+    {
+      "code": "2066633042",
+      "display": "Asthmatic cough disorder (TM2)",
+      "definition": "Asthmatic cough disorder (TM2)"
+    },
+    {
+      "code": "88128717",
+      "display": "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)",
+      "definition": "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)"
+    },
+    {
+      "code": "288863045",
+      "display": "Cough due to derangement of Aẕal and Aiyam disorder (TM2)",
+      "definition": "Cough due to derangement of Aẕal and Aiyam disorder (TM2)"
+    },
+    {
+      "code": "1809663796",
+      "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+      "definition": "Cough due to derangement of Mukkuṟṟam disorder (TM2)"
+    },
+    {
+      "code": "70057373",
+      "display": "Cough disorder due to haemophobia (TM2)",
+      "definition": "Cough disorder due to haemophobia (TM2)"
+    },
+    {
+      "code": "1643597866",
+      "display": "Cough disorder due to increased Aiyam (TM2)",
+      "definition": "Cough disorder due to increased Aiyam (TM2)"
+    },
+    {
+      "code": "2077975804",
+      "display": "Cough disorder due to increased Aẕal (TM2)",
+      "definition": "Cough disorder due to increased Aẕal (TM2)"
+    },
+    {
+      "code": "1901511568",
+      "display": "Cough disorder due to increased Vaḷi (TM2)",
+      "definition": "Cough disorder due to increased Vaḷi (TM2)"
+    },
+    {
+      "code": "1858087460",
+      "display": "Cough disorder due to seasonal variations (TM2)",
+      "definition": "Cough disorder due to seasonal variations (TM2)"
+    },
+    {
+      "code": "1682804040",
+      "display": "Cough disorder due to waxing and wanning of moon (TM2)",
+      "definition": "Cough disorder due to waxing and wanning of moon (TM2)"
+    },
+    {
+      "code": "1626348408",
+      "display": "Cough disorder occuring in sinusitis (TM2)",
+      "definition": "Cough disorder occuring in sinusitis (TM2)"
+    },
+    {
+      "code": "86750915",
+      "display": "Post puerperal cough disorder (TM2)",
+      "definition": "Post puerperal cough disorder (TM2)"
+    },
+    {
+      "code": "1381279193",
+      "display": "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)",
+      "definition": "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)"
+    },
+    {
+      "code": "1490617013",
+      "display": "Pulmonary insufficiency disorder (TM2)",
+      "definition": "Pulmonary insufficiency disorder (TM2)"
+    },
+    {
+      "code": "1196419841",
+      "display": "Dyspnoea disorder (TM2)",
+      "definition": "Dyspnoea disorder (TM2)"
+    },
+    {
+      "code": "2107857855",
+      "display": "Haemoptysis disorder (TM2)",
+      "definition": "Haemoptysis disorder (TM2)"
+    },
+    {
+      "code": "1999568083",
+      "display": "Pleurisy disorder (TM2)",
+      "definition": "Pleurisy disorder (TM2)"
+    },
+    {
+      "code": "1756894567",
+      "display": "Pneumonia disorder (TM2)",
+      "definition": "Pneumonia disorder (TM2)"
+    },
+    {
+      "code": "1469433359",
+      "display": "Chronic Aiyam leading to cough disorder (TM2)",
+      "definition": "Chronic Aiyam leading to cough disorder (TM2)"
+    },
+    {
+      "code": "604042066",
+      "display": "Heart, blood and circulatory disorders (TM2)",
+      "definition": "Heart, blood and circulatory disorders (TM2)"
+    },
+    {
+      "code": "21381775",
+      "display": "Heart disorders (TM2)",
+      "definition": "Heart disorders (TM2)"
+    },
+    {
+      "code": "1076215290",
+      "display": "Slow heart disorder (TM2)",
+      "definition": "Slow heart disorder (TM2)"
+    },
+    {
+      "code": "381547252",
+      "display": "Heart pain disorder (TM2)",
+      "definition": "Heart pain disorder (TM2)"
+    },
+    {
+      "code": "472929688",
+      "display": "Congestive cardiac failure disorder (TM2)",
+      "definition": "Congestive cardiac failure disorder (TM2)"
+    },
+    {
+      "code": "697311644",
+      "display": "Cardiac disease due to Aẕal with vomiting, giddiness, profuse sweating disorder (TM2)",
+      "definition": "Cardiac disease due to Aẕal with vomiting, giddiness, profuse sweating disorder (TM2)"
+    },
+    {
+      "code": "1674038521",
+      "display": "Chest congestion disorder (TM2)",
+      "definition": "Chest congestion disorder (TM2)"
+    },
+    {
+      "code": "1236474281",
+      "display": "Palpitation disorder (TM2)",
+      "definition": "Palpitation disorder (TM2)"
+    },
+    {
+      "code": "1445326877",
+      "display": "Palpitation disorder due to cold morbid temperament of heart (TM2)",
+      "definition": "Palpitation disorder due to cold morbid temperament of heart (TM2)"
+    },
+    {
+      "code": "1554536305",
+      "display": "Palpitation disorder due to Rīḥ and Bukhār (TM2)",
+      "definition": "Palpitation disorder due to Rīḥ and Bukhār (TM2)"
+    },
+    {
+      "code": "490151622",
+      "display": "Palpitation disorder due to hot morbid temperament of heart (TM2)",
+      "definition": "Palpitation disorder due to hot morbid temperament of heart (TM2)"
+    },
+    {
+      "code": "1320066388",
+      "display": "Palpitation disorder due to increased sensitivity of heart (TM2)",
+      "definition": "Palpitation disorder due to increased sensitivity of heart (TM2)"
+    },
+    {
+      "code": "1524208346",
+      "display": "Palpitation disorder due to obstruction (TM2)",
+      "definition": "Palpitation disorder due to obstruction (TM2)"
+    },
+    {
+      "code": "540239531",
+      "display": "Palpitation disorder due to secondary causes (TM2)",
+      "definition": "Palpitation disorder due to secondary causes (TM2)"
+    },
+    {
+      "code": "1338170370",
+      "display": "Palpitation disorder due to weakness of heart (TM2)",
+      "definition": "Palpitation disorder due to weakness of heart (TM2)"
+    },
+    {
+      "code": "706310583",
+      "display": "Sensation of bouncing of heart disorder (TM2)",
+      "definition": "Sensation of bouncing of heart disorder (TM2)"
+    },
+    {
+      "code": "808797539",
+      "display": "Sensation of upward pulling of heart disorder (TM2)",
+      "definition": "Sensation of upward pulling of heart disorder (TM2)"
+    },
+    {
+      "code": "1070522159",
+      "display": "Heart weakness disorder (TM2)",
+      "definition": "Heart weakness disorder (TM2)"
+    },
+    {
+      "code": "542652059",
+      "display": "Heart dystemperament disorder (TM2)",
+      "definition": "Heart dystemperament disorder (TM2)"
+    },
+    {
+      "code": "718639607",
+      "display": "Cold heart dystemperament disorder (TM2)",
+      "definition": "Cold heart dystemperament disorder (TM2)"
+    },
+    {
+      "code": "1688071994",
+      "display": "Circulatory disorders (TM2)",
+      "definition": "Circulatory disorders (TM2)"
+    },
+    {
+      "code": "990165161",
+      "display": "Varicose veins disorder (TM2)",
+      "definition": "Varicose veins disorder (TM2)"
+    },
+    {
+      "code": "985195023",
+      "display": "Varicose ulcer disorder (TM2)",
+      "definition": "Varicose ulcer disorder (TM2)"
+    },
+    {
+      "code": "623774651",
+      "display": "Arteriosclerosis disorder (TM2)",
+      "definition": "Arteriosclerosis disorder (TM2)"
+    },
+    {
+      "code": "799255767",
+      "display": "Vasoconstriction disorder (TM2)",
+      "definition": "Vasoconstriction disorder (TM2)"
+    },
+    {
+      "code": "723401449",
+      "display": "Vasodilatation disorder (TM2)",
+      "definition": "Vasodilatation disorder (TM2)"
+    },
+    {
+      "code": "1321572188",
+      "display": "Thickened arteries disorder (TM2)",
+      "definition": "Thickened arteries disorder (TM2)"
+    },
+    {
+      "code": "1785833770",
+      "display": "Blood related disorders (TM2)",
+      "definition": "Blood related disorders (TM2)"
+    },
+    {
+      "code": "583544121",
+      "display": "Anaemia disorder (TM2)",
+      "definition": "Anaemia disorder (TM2)"
+    },
+    {
+      "code": "245932057",
+      "display": "Anaemia disorder caused by increased Aiyam (TM2)",
+      "definition": "Anaemia disorder caused by increased Aiyam (TM2)"
+    },
+    {
+      "code": "69535605",
+      "display": "Anaemia disorder caused by increased Aẕal (TM2)",
+      "definition": "Anaemia disorder caused by increased Aẕal (TM2)"
+    },
+    {
+      "code": "464776897",
+      "display": "Pernicious Anaemia disorder (TM2)",
+      "definition": "Pernicious Anaemia disorder (TM2)"
+    },
+    {
+      "code": "289294765",
+      "display": "Anaemia disorder with hypoproteineamia (TM2)",
+      "definition": "Anaemia disorder with hypoproteineamia (TM2)"
+    },
+    {
+      "code": "614350249",
+      "display": "Anaemia disorder due to pica (TM2)",
+      "definition": "Anaemia disorder due to pica (TM2)"
+    },
+    {
+      "code": "1858719948",
+      "display": "Hypoviscous blood disorder (TM2)",
+      "definition": "Hypoviscous blood disorder (TM2)"
+    },
+    {
+      "code": "20474469",
+      "display": "Bleeding disorder disorder (TM2)",
+      "definition": "Bleeding disorder disorder (TM2)"
+    },
+    {
+      "code": "817918159",
+      "display": "Non-suppurating cellulitis disorder (TM2)",
+      "definition": "Non-suppurating cellulitis disorder (TM2)"
+    },
+    {
+      "code": "1740596181",
+      "display": "Petechial haemorrhages disorder (TM2)",
+      "definition": "Petechial haemorrhages disorder (TM2)"
+    },
+    {
+      "code": "1832043705",
+      "display": "Hypertrophy heart disorders (TM2)",
+      "definition": "Hypertrophy heart disorders (TM2)"
+    },
+    {
+      "code": "2015988321",
+      "display": "Intolerable pricking pain in the chest disorder (TM2)",
+      "definition": "Intolerable pricking pain in the chest disorder (TM2)"
+    },
+    {
+      "code": "1300889189",
+      "display": "Precordial pain disorder (TM2)",
+      "definition": "Precordial pain disorder (TM2)"
+    },
+    {
+      "code": "131994370",
+      "display": "Cardiac asthma disorder (TM2)",
+      "definition": "Cardiac asthma disorder (TM2)"
+    },
+    {
+      "code": "1494666522",
+      "display": "Lymphadenopathy disorder (TM2)",
+      "definition": "Lymphadenopathy disorder (TM2)"
+    },
+    {
+      "code": "353597412",
+      "display": "Elephantiasis disorder (TM2)",
+      "definition": "Elephantiasis disorder (TM2)"
+    },
+    {
+      "code": "1516011744",
+      "display": "Elephantiasis of the scrotum disorder (TM2)",
+      "definition": "Elephantiasis of the scrotum disorder (TM2)"
+    },
+    {
+      "code": "1065823595",
+      "display": "Filarial scrotum disorder (TM2)",
+      "definition": "Filarial scrotum disorder (TM2)"
+    },
+    {
+      "code": "645484324",
+      "display": "Burning sensation disorder due to trauma to vulnerable area (TM2)",
+      "definition": "Burning sensation disorder due to trauma to vulnerable area (TM2)"
+    },
+    {
+      "code": "1104895717",
+      "display": "Gastro-intestinal disorders (TM2)",
+      "definition": "Gastro-intestinal disorders (TM2)"
+    },
+    {
+      "code": "1627131462",
+      "display": "Oral cavity disorders (TM2)",
+      "definition": "Oral cavity disorders (TM2)"
+    },
+    {
+      "code": "1918241818",
+      "display": "Stomatitis disorder (TM2)",
+      "definition": "Stomatitis disorder (TM2)"
+    },
+    {
+      "code": "1503156359",
+      "display": "Stomatitis disorder due to derangement of Ṣafrā' (TM2)",
+      "definition": "Stomatitis disorder due to derangement of Ṣafrā' (TM2)"
+    },
+    {
+      "code": "594717944",
+      "display": "Stomatitis disorder due to derangement of Sawdā' (TM2)",
+      "definition": "Stomatitis disorder due to derangement of Sawdā' (TM2)"
+    },
+    {
+      "code": "1283659359",
+      "display": "Stomatitis disorder due to derangement of Balgham (TM2)",
+      "definition": "Stomatitis disorder due to derangement of Balgham (TM2)"
+    },
+    {
+      "code": "693681130",
+      "display": "Stomatitis disorder due to derangement of Dam (TM2)",
+      "definition": "Stomatitis disorder due to derangement of Dam (TM2)"
+    },
+    {
+      "code": "716890575",
+      "display": "Dental abscess disorder (TM2)",
+      "definition": "Dental abscess disorder (TM2)"
+    },
+    {
+      "code": "540493475",
+      "display": "Apical abscess, root abscess disorder (TM2)",
+      "definition": "Apical abscess, root abscess disorder (TM2)"
+    },
+    {
+      "code": "1067560727",
+      "display": "Dental root disorder (TM2)",
+      "definition": "Dental root disorder (TM2)"
+    },
+    {
+      "code": "892078203",
+      "display": "Inflammation disorder of entire oral cavity (TM2)",
+      "definition": "Inflammation disorder of entire oral cavity (TM2)"
+    },
+    {
+      "code": "831626821",
+      "display": "Lip tumour disorder (TM2)",
+      "definition": "Lip tumour disorder (TM2)"
+    },
+    {
+      "code": "1414149104",
+      "display": "Palate tumour disorder (TM2)",
+      "definition": "Palate tumour disorder (TM2)"
+    },
+    {
+      "code": "15169137",
+      "display": "Torus palatinus disorder (TM2)",
+      "definition": "Torus palatinus disorder (TM2)"
+    },
+    {
+      "code": "174772509",
+      "display": "Tongue tumour disorder (TM2)",
+      "definition": "Tongue tumour disorder (TM2)"
+    },
+    {
+      "code": "527540165",
+      "display": "Feeling of astringent taste disorder (TM2)",
+      "definition": "Feeling of astringent taste disorder (TM2)"
+    },
+    {
+      "code": "718400449",
+      "display": "Feeling of sweet taste disorder (TM2)",
+      "definition": "Feeling of sweet taste disorder (TM2)"
+    },
+    {
+      "code": "1950774368",
+      "display": "Coated oral cavity disorder (TM2)",
+      "definition": "Coated oral cavity disorder (TM2)"
+    },
+    {
+      "code": "465030857",
+      "display": "Bruxism disorder (TM2)",
+      "definition": "Bruxism disorder (TM2)"
+    },
+    {
+      "code": "1633499832",
+      "display": "Pyorrhoea disorder (TM2)",
+      "definition": "Pyorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1335130582",
+      "display": "Impacted tooth disorder (TM2)",
+      "definition": "Impacted tooth disorder (TM2)"
+    },
+    {
+      "code": "709874787",
+      "display": "Spongy gums disorder (TM2)",
+      "definition": "Spongy gums disorder (TM2)"
+    },
+    {
+      "code": "2128777698",
+      "display": "Gingivitis disorder (TM2)",
+      "definition": "Gingivitis disorder (TM2)"
+    },
+    {
+      "code": "1953445518",
+      "display": "Halitosis disorder (TM2)",
+      "definition": "Halitosis disorder (TM2)"
+    },
+    {
+      "code": "1811537722",
+      "display": "Blood-smell of mouth disorder (TM2)",
+      "definition": "Blood-smell of mouth disorder (TM2)"
+    },
+    {
+      "code": "1635022934",
+      "display": "Sialorrhoea disorder (TM2)",
+      "definition": "Sialorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1423182930",
+      "display": "Palatitis disorder (TM2)",
+      "definition": "Palatitis disorder (TM2)"
+    },
+    {
+      "code": "491894702",
+      "display": "Uvulitis disorder (TM2)",
+      "definition": "Uvulitis disorder (TM2)"
+    },
+    {
+      "code": "1923091717",
+      "display": "Uvulitis due to derangement of Dam disorder (TM2)",
+      "definition": "Uvulitis due to derangement of Dam disorder (TM2)"
+    },
+    {
+      "code": "139131254",
+      "display": "Uvulitis due to derangement of Sawdā' disorder (TM2)",
+      "definition": "Uvulitis due to derangement of Sawdā' disorder (TM2)"
+    },
+    {
+      "code": "217542474",
+      "display": "Itchy palate disorder (TM2)",
+      "definition": "Itchy palate disorder (TM2)"
+    },
+    {
+      "code": "108709926",
+      "display": "Palatal polyp disorder (TM2)",
+      "definition": "Palatal polyp disorder (TM2)"
+    },
+    {
+      "code": "2103168375",
+      "display": "Sialadenitis disorder (TM2)",
+      "definition": "Sialadenitis disorder (TM2)"
+    },
+    {
+      "code": "923541522",
+      "display": "Ludwig’s angina disorder (TM2)",
+      "definition": "Ludwig’s angina disorder (TM2)"
+    },
+    {
+      "code": "1493015227",
+      "display": "Odontalgia disorder (TM2)",
+      "definition": "Odontalgia disorder (TM2)"
+    },
+    {
+      "code": "571961034",
+      "display": "Bleeding gum disorder (TM2)",
+      "definition": "Bleeding gum disorder (TM2)"
+    },
+    {
+      "code": "2028015639",
+      "display": "Cystic swelling of palate disorder (TM2)",
+      "definition": "Cystic swelling of palate disorder (TM2)"
+    },
+    {
+      "code": "490388898",
+      "display": "Ranula disorder (TM2)",
+      "definition": "Ranula disorder (TM2)"
+    },
+    {
+      "code": "1998792243",
+      "display": "Sub lingual cyst disorder (TM2)",
+      "definition": "Sub lingual cyst disorder (TM2)"
+    },
+    {
+      "code": "2108588383",
+      "display": "Parotitis disorder (TM2)",
+      "definition": "Parotitis disorder (TM2)"
+    },
+    {
+      "code": "419159670",
+      "display": "Periodontitis disorder (TM2)",
+      "definition": "Periodontitis disorder (TM2)"
+    },
+    {
+      "code": "1997169885",
+      "display": "Ectopic eruption disorder (TM2)",
+      "definition": "Ectopic eruption disorder (TM2)"
+    },
+    {
+      "code": "1461120625",
+      "display": "Dental caries disorder (TM2)",
+      "definition": "Dental caries disorder (TM2)"
+    },
+    {
+      "code": "852313030",
+      "display": "Dental cavities disorder (TM2)",
+      "definition": "Dental cavities disorder (TM2)"
+    },
+    {
+      "code": "1770720011",
+      "display": "Pyorrhoea alveolaris disorder (TM2)",
+      "definition": "Pyorrhoea alveolaris disorder (TM2)"
+    },
+    {
+      "code": "61564620",
+      "display": "Dental plaque disorder (TM2)",
+      "definition": "Dental plaque disorder (TM2)"
+    },
+    {
+      "code": "118943988",
+      "display": "Discolouration of teeth disorder (TM2)",
+      "definition": "Discolouration of teeth disorder (TM2)"
+    },
+    {
+      "code": "2113668227",
+      "display": "Odontoseisis disorder (TM2)",
+      "definition": "Odontoseisis disorder (TM2)"
+    },
+    {
+      "code": "206612160",
+      "display": "Supernumerary teeth disorder (TM2)",
+      "definition": "Supernumerary teeth disorder (TM2)"
+    },
+    {
+      "code": "595285536",
+      "display": "Traumatic periodontitis disorder (TM2)",
+      "definition": "Traumatic periodontitis disorder (TM2)"
+    },
+    {
+      "code": "704049524",
+      "display": "Sensitive teeth disorder (TM2)",
+      "definition": "Sensitive teeth disorder (TM2)"
+    },
+    {
+      "code": "166362078",
+      "display": "Disorder during teeth eruption (TM2)",
+      "definition": "Disorder during teeth eruption (TM2)"
+    },
+    {
+      "code": "156093360",
+      "display": "Loose tooth disorder (TM2)",
+      "definition": "Loose tooth disorder (TM2)"
+    },
+    {
+      "code": "1948060500",
+      "display": "Lip chapping and bleeding disorder (TM2)",
+      "definition": "Lip chapping and bleeding disorder (TM2)"
+    },
+    {
+      "code": "2136694040",
+      "display": "Injured lips disorder (TM2)",
+      "definition": "Injured lips disorder (TM2)"
+    },
+    {
+      "code": "251133733",
+      "display": "Itchy swollen lip diorder (TM2)",
+      "definition": "Itchy swollen lip diorder (TM2)"
+    },
+    {
+      "code": "444657837",
+      "display": "Dry chapped lip disorder (TM2)",
+      "definition": "Dry chapped lip disorder (TM2)"
+    },
+    {
+      "code": "1349561784",
+      "display": "Xerostomia disorder (TM2)",
+      "definition": "Xerostomia disorder (TM2)"
+    },
+    {
+      "code": "1526532820",
+      "display": "Pain in tooth due to Vaḷi disorder (TM2)",
+      "definition": "Pain in tooth due to Vaḷi disorder (TM2)"
+    },
+    {
+      "code": "368851113",
+      "display": "Fibroma of palate disorder (TM2)",
+      "definition": "Fibroma of palate disorder (TM2)"
+    },
+    {
+      "code": "2081634195",
+      "display": "Eruptions of oral cavity disorder (TM2)",
+      "definition": "Eruptions of oral cavity disorder (TM2)"
+    },
+    {
+      "code": "650906528",
+      "display": "Tongue fissure disorder (TM2)",
+      "definition": "Tongue fissure disorder (TM2)"
+    },
+    {
+      "code": "1691782809",
+      "display": "Cheilosis disorder (TM2)",
+      "definition": "Cheilosis disorder (TM2)"
+    },
+    {
+      "code": "1851468277",
+      "display": "Gingival ulcers disorder (TM2)",
+      "definition": "Gingival ulcers disorder (TM2)"
+    },
+    {
+      "code": "1543200241",
+      "display": "Cancrum oris disorder (TM2)",
+      "definition": "Cancrum oris disorder (TM2)"
+    },
+    {
+      "code": "524351110",
+      "display": "Ageusia disorder (TM2)",
+      "definition": "Ageusia disorder (TM2)"
+    },
+    {
+      "code": "2137712626",
+      "display": "Abdominal cavity disorders (TM2)",
+      "definition": "Abdominal cavity disorders (TM2)"
+    },
+    {
+      "code": "2027662198",
+      "display": "Haematemesis disorder (TM2)",
+      "definition": "Haematemesis disorder (TM2)"
+    },
+    {
+      "code": "1886136086",
+      "display": "Abdominal distension disorder (TM2)",
+      "definition": "Abdominal distension disorder (TM2)"
+    },
+    {
+      "code": "2061598842",
+      "display": "Tympanites disorder (TM2)",
+      "definition": "Tympanites disorder (TM2)"
+    },
+    {
+      "code": "2051420168",
+      "display": "Borborygmus disorder (TM2)",
+      "definition": "Borborygmus disorder (TM2)"
+    },
+    {
+      "code": "543963543",
+      "display": "Flatulence disorder (TM2)",
+      "definition": "Flatulence disorder (TM2)"
+    },
+    {
+      "code": "1890393526",
+      "display": "Bloating disorder (TM2)",
+      "definition": "Bloating disorder (TM2)"
+    },
+    {
+      "code": "719429371",
+      "display": "Perverted appetite disorder (TM2)",
+      "definition": "Perverted appetite disorder (TM2)"
+    },
+    {
+      "code": "1324466800",
+      "display": "Pica disorder (TM2)",
+      "definition": "Pica disorder (TM2)"
+    },
+    {
+      "code": "1149003012",
+      "display": "Ascites disorder (TM2)",
+      "definition": "Ascites disorder (TM2)"
+    },
+    {
+      "code": "1155257714",
+      "display": "Ascites disorder due to Kapha (TM2)",
+      "definition": "Ascites disorder due to Kapha (TM2)"
+    },
+    {
+      "code": "244070423",
+      "display": "Ascites disorder due to obstructed bowels (TM2)",
+      "definition": "Ascites disorder due to obstructed bowels (TM2)"
+    },
+    {
+      "code": "1417299660",
+      "display": "Ascites due to Pitta disorder (TM2)",
+      "definition": "Ascites due to Pitta disorder (TM2)"
+    },
+    {
+      "code": "781234875",
+      "display": "Intestinal perforation disorder (TM2)",
+      "definition": "Intestinal perforation disorder (TM2)"
+    },
+    {
+      "code": "1096878100",
+      "display": "Ascites disorder due to three dosha (TM2)",
+      "definition": "Ascites disorder due to three dosha (TM2)"
+    },
+    {
+      "code": "616211879",
+      "display": "Ascites disorder due to Vata (TM2)",
+      "definition": "Ascites disorder due to Vata (TM2)"
+    },
+    {
+      "code": "1232861787",
+      "display": "Abdominal enlargement disorder (TM2)",
+      "definition": "Abdominal enlargement disorder (TM2)"
+    },
+    {
+      "code": "1140219191",
+      "display": "Abdominal pain disorder (TM2)",
+      "definition": "Abdominal pain disorder (TM2)"
+    },
+    {
+      "code": "762029774",
+      "display": "Abdomen pain and flatulance disorder (TM2)",
+      "definition": "Abdomen pain and flatulance disorder (TM2)"
+    },
+    {
+      "code": "768349888",
+      "display": "Pain disorder in the lower abdomen (TM2)",
+      "definition": "Pain disorder in the lower abdomen (TM2)"
+    },
+    {
+      "code": "1738275803",
+      "display": "Spasmodic pain in the abdomen disorder (TM2)",
+      "definition": "Spasmodic pain in the abdomen disorder (TM2)"
+    },
+    {
+      "code": "1030587654",
+      "display": "Tenesmus disorder (TM2)",
+      "definition": "Tenesmus disorder (TM2)"
+    },
+    {
+      "code": "678874078",
+      "display": "Gastralgia due to Riyāḥ disorder (TM2)",
+      "definition": "Gastralgia due to Riyāḥ disorder (TM2)"
+    },
+    {
+      "code": "1303209579",
+      "display": "Gastralgia disorder due to derangement of Ṣafrā' (TM2)",
+      "definition": "Gastralgia disorder due to derangement of Ṣafrā' (TM2)"
+    },
+    {
+      "code": "1225846869",
+      "display": "Hot gastralgia disorder (TM2)",
+      "definition": "Hot gastralgia disorder (TM2)"
+    },
+    {
+      "code": "420678092",
+      "display": "Gastralgia disorder due to derangement of Balgham (TM2)",
+      "definition": "Gastralgia disorder due to derangement of Balgham (TM2)"
+    },
+    {
+      "code": "224659014",
+      "display": "Gastralgia disorder due to derangement of Sawdā' (TM2)",
+      "definition": "Gastralgia disorder due to derangement of Sawdā' (TM2)"
+    },
+    {
+      "code": "2005856821",
+      "display": "Asthenic gastralgia disorder (TM2)",
+      "definition": "Asthenic gastralgia disorder (TM2)"
+    },
+    {
+      "code": "2107958569",
+      "display": "Constipation disorder (TM2)",
+      "definition": "Constipation disorder (TM2)"
+    },
+    {
+      "code": "1737019901",
+      "display": "Habitual constipation disorder (TM2)",
+      "definition": "Habitual constipation disorder (TM2)"
+    },
+    {
+      "code": "1476571877",
+      "display": "Secondary constipation disorder (TM2)",
+      "definition": "Secondary constipation disorder (TM2)"
+    },
+    {
+      "code": "34682026",
+      "display": "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)",
+      "definition": "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)"
+    },
+    {
+      "code": "677765624",
+      "display": "Slow transit constipation disorder (TM2)",
+      "definition": "Slow transit constipation disorder (TM2)"
+    },
+    {
+      "code": "1304317005",
+      "display": "Volvulus disorder (TM2)",
+      "definition": "Volvulus disorder (TM2)"
+    },
+    {
+      "code": "430208128",
+      "display": "Malabsorption disorder (TM2)",
+      "definition": "Malabsorption disorder (TM2)"
+    },
+    {
+      "code": "1666089201",
+      "display": "Gastric debility disorder (TM2)",
+      "definition": "Gastric debility disorder (TM2)"
+    },
+    {
+      "code": "213858904",
+      "display": "Diarrhoea disorder (TM2)",
+      "definition": "Diarrhoea disorder (TM2)"
+    },
+    {
+      "code": "1768200173",
+      "display": "Hepatic diarrhoea disorder (TM2)",
+      "definition": "Hepatic diarrhoea disorder (TM2)"
+    },
+    {
+      "code": "1934140217",
+      "display": "Irritable bowel syndrome disorder (TM2)",
+      "definition": "Irritable bowel syndrome disorder (TM2)"
+    },
+    {
+      "code": "2042954837",
+      "display": "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)",
+      "definition": "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)"
+    },
+    {
+      "code": "1716776417",
+      "display": "Diarrhoea disorder due to the involvement of spleen (TM2)",
+      "definition": "Diarrhoea disorder due to the involvement of spleen (TM2)"
+    },
+    {
+      "code": "1826507405",
+      "display": "Blood with diarrhoea disorder due to involvement of intestine (TM2)",
+      "definition": "Blood with diarrhoea disorder due to involvement of intestine (TM2)"
+    },
+    {
+      "code": "759235388",
+      "display": "Diarrhoea disorder due to Aẕal aggrevation (TM2)",
+      "definition": "Diarrhoea disorder due to Aẕal aggrevation (TM2)"
+    },
+    {
+      "code": "2128117934",
+      "display": "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)",
+      "definition": "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)"
+    },
+    {
+      "code": "1789890344",
+      "display": "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)",
+      "definition": "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)"
+    },
+    {
+      "code": "272989015",
+      "display": "Bloody loose stools disorder (TM2)",
+      "definition": "Bloody loose stools disorder (TM2)"
+    },
+    {
+      "code": "2142552576",
+      "display": "Loose stools disorder caused by derangement of Aiyam (TM2)",
+      "definition": "Loose stools disorder caused by derangement of Aiyam (TM2)"
+    },
+    {
+      "code": "443509835",
+      "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+      "definition": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)"
+    },
+    {
+      "code": "4413599",
+      "display": "Loose stools disorder caused by derangement of Vaḷi (TM2)",
+      "definition": "Loose stools disorder caused by derangement of Vaḷi (TM2)"
+    },
+    {
+      "code": "181338099",
+      "display": "Diarrhoea disorder due only to Vāta (TM2)",
+      "definition": "Diarrhoea disorder due only to Vāta (TM2)"
+    },
+    {
+      "code": "358094407",
+      "display": "Loose stools disorder caused by derangement of Aẕal (TM2)",
+      "definition": "Loose stools disorder caused by derangement of Aẕal (TM2)"
+    },
+    {
+      "code": "534098219",
+      "display": "Loose stools disorder occuring in fearness (TM2)",
+      "definition": "Loose stools disorder occuring in fearness (TM2)"
+    },
+    {
+      "code": "459810581",
+      "display": "Diarrhoea disorder during pregnancy (TM2)",
+      "definition": "Diarrhoea disorder during pregnancy (TM2)"
+    },
+    {
+      "code": "2125695650",
+      "display": "Loose stools disorder occuring in fever (TM2)",
+      "definition": "Loose stools disorder occuring in fever (TM2)"
+    },
+    {
+      "code": "1054784997",
+      "display": "Dysentery disorder (TM2)",
+      "definition": "Dysentery disorder (TM2)"
+    },
+    {
+      "code": "877861513",
+      "display": "Dysentery disorder presenting persistent moisture around anus (TM2)",
+      "definition": "Dysentery disorder presenting persistent moisture around anus (TM2)"
+    },
+    {
+      "code": "734393149",
+      "display": "Loose stools disorder with blood and pus (TM2)",
+      "definition": "Loose stools disorder with blood and pus (TM2)"
+    },
+    {
+      "code": "558388305",
+      "display": "Dysentery disorder occuring in pregnancy (TM2)",
+      "definition": "Dysentery disorder occuring in pregnancy (TM2)"
+    },
+    {
+      "code": "350756949",
+      "display": "Aggravated Aiyam disorder leading to dysentery (TM2)",
+      "definition": "Aggravated Aiyam disorder leading to dysentery (TM2)"
+    },
+    {
+      "code": "1589628210",
+      "display": "Dyspepsia disorder (TM2)",
+      "definition": "Dyspepsia disorder (TM2)"
+    },
+    {
+      "code": "827226009",
+      "display": "Dyspepsia with upward tendency disorder (TM2)",
+      "definition": "Dyspepsia with upward tendency disorder (TM2)"
+    },
+    {
+      "code": "1269072874",
+      "display": "Dyspepsia with downward tendency disorder (TM2)",
+      "definition": "Dyspepsia with downward tendency disorder (TM2)"
+    },
+    {
+      "code": "1701691528",
+      "display": "Hyperacidity disorder (TM2)",
+      "definition": "Hyperacidity disorder (TM2)"
+    },
+    {
+      "code": "11955507",
+      "display": "Indigestion disorder (TM2)",
+      "definition": "Indigestion disorder (TM2)"
+    },
+    {
+      "code": "1472822825",
+      "display": "Impaired digestion disorder (TM2)",
+      "definition": "Impaired digestion disorder (TM2)"
+    },
+    {
+      "code": "1564793157",
+      "display": "Indigestion disorder due to Aẕal (TM2)",
+      "definition": "Indigestion disorder due to Aẕal (TM2)"
+    },
+    {
+      "code": "1121071345",
+      "display": "Indigestion disorder due to kapha (TM2)",
+      "definition": "Indigestion disorder due to kapha (TM2)"
+    },
+    {
+      "code": "1214224285",
+      "display": "Food stasis indigestion disorder (TM2)",
+      "definition": "Food stasis indigestion disorder (TM2)"
+    },
+    {
+      "code": "2113921945",
+      "display": "Food stasis (minor) disorder (TM2)",
+      "definition": "Food stasis (minor) disorder (TM2)"
+    },
+    {
+      "code": "1741936461",
+      "display": "Duodenal ulcer disorder (TM2)",
+      "definition": "Duodenal ulcer disorder (TM2)"
+    },
+    {
+      "code": "1834905633",
+      "display": "Gastric ulcer disorder (TM2)",
+      "definition": "Gastric ulcer disorder (TM2)"
+    },
+    {
+      "code": "1925749141",
+      "display": "Gastric disorder due to derangement of aiyam (TM2)",
+      "definition": "Gastric disorder due to derangement of aiyam (TM2)"
+    },
+    {
+      "code": "490283838",
+      "display": "Gastric disorder due to derangementof Vaḷi (TM2)",
+      "definition": "Gastric disorder due to derangementof Vaḷi (TM2)"
+    },
+    {
+      "code": "2028113545",
+      "display": "Gastric disorder due to derangementof Mukkuṟṟam (TM2)",
+      "definition": "Gastric disorder due to derangementof Mukkuṟṟam (TM2)"
+    },
+    {
+      "code": "1095184393",
+      "display": "Gastric disorder due to increased flattulence (TM2)",
+      "definition": "Gastric disorder due to increased flattulence (TM2)"
+    },
+    {
+      "code": "464604886",
+      "display": "Gastric disorder with vomiting (TM2)",
+      "definition": "Gastric disorder with vomiting (TM2)"
+    },
+    {
+      "code": "1546059729",
+      "display": "Stomach abrasion disorder (TM2)",
+      "definition": "Stomach abrasion disorder (TM2)"
+    },
+    {
+      "code": "1101187225",
+      "display": "Gastric dyscrasia disorder (TM2)",
+      "definition": "Gastric dyscrasia disorder (TM2)"
+    },
+    {
+      "code": "1261400053",
+      "display": "Gastritis disorder (TM2)",
+      "definition": "Gastritis disorder (TM2)"
+    },
+    {
+      "code": "1267261317",
+      "display": "Gastritis disorder due to derangement of Balgham (TM2)",
+      "definition": "Gastritis disorder due to derangement of Balgham (TM2)"
+    },
+    {
+      "code": "31404770",
+      "display": "Gastritis disorder due to derangement of Ṣafrā' (TM2)",
+      "definition": "Gastritis disorder due to derangement of Ṣafrā' (TM2)"
+    },
+    {
+      "code": "90350814",
+      "display": "Gastritis disorder due to derangement of Dam (TM2)",
+      "definition": "Gastritis disorder due to derangement of Dam (TM2)"
+    },
+    {
+      "code": "267322290",
+      "display": "Gastritis disorder due to derangement of Sawdā' (TM2)",
+      "definition": "Gastritis disorder due to derangement of Sawdā' (TM2)"
+    },
+    {
+      "code": "1811898151",
+      "display": "Hernia disorder (TM2)",
+      "definition": "Hernia disorder (TM2)"
+    },
+    {
+      "code": "1634924619",
+      "display": "Strangulated inguinal hernia disorder (TM2)",
+      "definition": "Strangulated inguinal hernia disorder (TM2)"
+    },
+    {
+      "code": "1641367611",
+      "display": "Direct inguinal hernia disorder (TM2)",
+      "definition": "Direct inguinal hernia disorder (TM2)"
+    },
+    {
+      "code": "1061345180",
+      "display": "Indirect inguinal hernia disorder (TM2)",
+      "definition": "Indirect inguinal hernia disorder (TM2)"
+    },
+    {
+      "code": "1706338631",
+      "display": "Feeling of abdomen as if enveloped by a cloth disorder (TM2)",
+      "definition": "Feeling of abdomen as if enveloped by a cloth disorder (TM2)"
+    },
+    {
+      "code": "526277942",
+      "display": "Nausea disorder (TM2)",
+      "definition": "Nausea disorder (TM2)"
+    },
+    {
+      "code": "1890576287",
+      "display": "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)",
+      "definition": "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)"
+    },
+    {
+      "code": "359942700",
+      "display": "Retching disorder (TM2)",
+      "definition": "Retching disorder (TM2)"
+    },
+    {
+      "code": "2070365005",
+      "display": "Vomiting of undigested food disorder (TM2)",
+      "definition": "Vomiting of undigested food disorder (TM2)"
+    },
+    {
+      "code": "1911219233",
+      "display": "Distressing pain of stomach disorder (TM2)",
+      "definition": "Distressing pain of stomach disorder (TM2)"
+    },
+    {
+      "code": "368752820",
+      "display": "Feeling of trembling movement of stomach disorder (TM2)",
+      "definition": "Feeling of trembling movement of stomach disorder (TM2)"
+    },
+    {
+      "code": "527900632",
+      "display": "Abdominal lumps disorder (TM2)",
+      "definition": "Abdominal lumps disorder (TM2)"
+    },
+    {
+      "code": "1515569233",
+      "display": "Vomiting disorder (TM2)",
+      "definition": "Vomiting disorder (TM2)"
+    },
+    {
+      "code": "936352029",
+      "display": "Vomiting disorder during the crisis period of disease (TM2)",
+      "definition": "Vomiting disorder during the crisis period of disease (TM2)"
+    },
+    {
+      "code": "1407174024",
+      "display": "Vomiting disorder associated with the disease of organ other than stomach (TM2)",
+      "definition": "Vomiting disorder associated with the disease of organ other than stomach (TM2)"
+    },
+    {
+      "code": "906258493",
+      "display": "Painful acid eructatons disorder (TM2)",
+      "definition": "Painful acid eructatons disorder (TM2)"
+    },
+    {
+      "code": "422549661",
+      "display": "Gastric regurgitation disorder (TM2)",
+      "definition": "Gastric regurgitation disorder (TM2)"
+    },
+    {
+      "code": "1751398427",
+      "display": "Feeling of heaviness of the stomach disorder (TM2)",
+      "definition": "Feeling of heaviness of the stomach disorder (TM2)"
+    },
+    {
+      "code": "151126928",
+      "display": "Weakened appetite disorder (TM2)",
+      "definition": "Weakened appetite disorder (TM2)"
+    },
+    {
+      "code": "114327822",
+      "display": "Eructation disorder (TM2)",
+      "definition": "Eructation disorder (TM2)"
+    },
+    {
+      "code": "1182634130",
+      "display": "Gastro oesophageal reflex disorder (TM2)",
+      "definition": "Gastro oesophageal reflex disorder (TM2)"
+    },
+    {
+      "code": "1978089630",
+      "display": "Liver and Spleen disorders (TM2)",
+      "definition": "Liver and Spleen disorders (TM2)"
+    },
+    {
+      "code": "2021399300",
+      "display": "Liver abscess disorder (TM2)",
+      "definition": "Liver abscess disorder (TM2)"
+    },
+    {
+      "code": "1930425692",
+      "display": "Liver abscess complication disorder (TM2)",
+      "definition": "Liver abscess complication disorder (TM2)"
+    },
+    {
+      "code": "486428659",
+      "display": "Jaundice disorder with anasarca (TM2)",
+      "definition": "Jaundice disorder with anasarca (TM2)"
+    },
+    {
+      "code": "2032525894",
+      "display": "Jaundice disorder (TM2)",
+      "definition": "Jaundice disorder (TM2)"
+    },
+    {
+      "code": "159071881",
+      "display": "Severe jaundice disorder (TM2)",
+      "definition": "Severe jaundice disorder (TM2)"
+    },
+    {
+      "code": "1835754012",
+      "display": "Hepatocellular jaundice disorder (TM2)",
+      "definition": "Hepatocellular jaundice disorder (TM2)"
+    },
+    {
+      "code": "1743177072",
+      "display": "Jaundice disorder with dry and hardened bodily tissues (TM2)",
+      "definition": "Jaundice disorder with dry and hardened bodily tissues (TM2)"
+    },
+    {
+      "code": "37578949",
+      "display": "Obstructive jaundice disorder (TM2)",
+      "definition": "Obstructive jaundice disorder (TM2)"
+    },
+    {
+      "code": "1214940578",
+      "display": "Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)",
+      "definition": "Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)"
+    },
+    {
+      "code": "1122443982",
+      "display": "Advanced stage of jaundice disorder (TM2)",
+      "definition": "Advanced stage of jaundice disorder (TM2)"
+    },
+    {
+      "code": "940431037",
+      "display": "Jaundice disorder of children (TM2)",
+      "definition": "Jaundice disorder of children (TM2)"
+    },
+    {
+      "code": "1476160534",
+      "display": "Jaundice disorder with abdominal pain (TM2)",
+      "definition": "Jaundice disorder with abdominal pain (TM2)"
+    },
+    {
+      "code": "316584861",
+      "display": "Jaundice disorder with dysentery (TM2)",
+      "definition": "Jaundice disorder with dysentery (TM2)"
+    },
+    {
+      "code": "2074245727",
+      "display": "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)",
+      "definition": "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)"
+    },
+    {
+      "code": "1898962227",
+      "display": "Jaundice disorder with gait disturbances and night blindness (TM2)",
+      "definition": "Jaundice disorder with gait disturbances and night blindness (TM2)"
+    },
+    {
+      "code": "1539240179",
+      "display": "Jaundice disorder due to combination two humors (TM2)",
+      "definition": "Jaundice disorder due to combination two humors (TM2)"
+    },
+    {
+      "code": "1909073315",
+      "display": "Jaundice disorder with male sterility (TM2)",
+      "definition": "Jaundice disorder with male sterility (TM2)"
+    },
+    {
+      "code": "336693270",
+      "display": "Jaundice disorder with cardiac dysfunction (TM2)",
+      "definition": "Jaundice disorder with cardiac dysfunction (TM2)"
+    },
+    {
+      "code": "2126452559",
+      "display": "Jaundice disorder caused by increased Aẕal Aiyam (TM2)",
+      "definition": "Jaundice disorder caused by increased Aẕal Aiyam (TM2)"
+    },
+    {
+      "code": "1422639647",
+      "display": "Jaundice disorder caused by increased Vaḷi (TM2)",
+      "definition": "Jaundice disorder caused by increased Vaḷi (TM2)"
+    },
+    {
+      "code": "1264397227",
+      "display": "Jaundice disorder due to aiyam (TM2)",
+      "definition": "Jaundice disorder due to aiyam (TM2)"
+    },
+    {
+      "code": "1630142203",
+      "display": "Jaundice disorder with urethritis (TM2)",
+      "definition": "Jaundice disorder with urethritis (TM2)"
+    },
+    {
+      "code": "604709236",
+      "display": "Jaundice disorder caused by increased Aẕal (TM2)",
+      "definition": "Jaundice disorder caused by increased Aẕal (TM2)"
+    },
+    {
+      "code": "1036498146",
+      "display": "Hepatomegaly disorder (TM2)",
+      "definition": "Hepatomegaly disorder (TM2)"
+    },
+    {
+      "code": "964305630",
+      "display": "Hepatitis disorder (TM2)",
+      "definition": "Hepatitis disorder (TM2)"
+    },
+    {
+      "code": "871859634",
+      "display": "Alcoholic liver disorder (TM2)",
+      "definition": "Alcoholic liver disorder (TM2)"
+    },
+    {
+      "code": "1474812197",
+      "display": "Hepatitis disorder due to derangement of Ṣafrā' (TM2)",
+      "definition": "Hepatitis disorder due to derangement of Ṣafrā' (TM2)"
+    },
+    {
+      "code": "1567260233",
+      "display": "Hepatitis disorder due to derangement of Sawdā' (TM2)",
+      "definition": "Hepatitis disorder due to derangement of Sawdā' (TM2)"
+    },
+    {
+      "code": "1573768761",
+      "display": "Hepatitis disorder due to derangement of Balgham (TM2)",
+      "definition": "Hepatitis disorder due to derangement of Balgham (TM2)"
+    },
+    {
+      "code": "395977566",
+      "display": "Hepatitis disorder due to derangement of Dam (TM2)",
+      "definition": "Hepatitis disorder due to derangement of Dam (TM2)"
+    },
+    {
+      "code": "1298947457",
+      "display": "Cirrhosis of liver disorder (TM2)",
+      "definition": "Cirrhosis of liver disorder (TM2)"
+    },
+    {
+      "code": "931572208",
+      "display": "Hepatalgia disorder (TM2)",
+      "definition": "Hepatalgia disorder (TM2)"
+    },
+    {
+      "code": "502430882",
+      "display": "Hepatic dyscrasia disorder (TM2)",
+      "definition": "Hepatic dyscrasia disorder (TM2)"
+    },
+    {
+      "code": "1490068265",
+      "display": "Hepatic atrophy disorder (TM2)",
+      "definition": "Hepatic atrophy disorder (TM2)"
+    },
+    {
+      "code": "1664819533",
+      "display": "Collection of Riyāḥ into the liver disorder (TM2)",
+      "definition": "Collection of Riyāḥ into the liver disorder (TM2)"
+    },
+    {
+      "code": "1773569569",
+      "display": "Splenic insufficiency disorder (TM2)",
+      "definition": "Splenic insufficiency disorder (TM2)"
+    },
+    {
+      "code": "924358226",
+      "display": "Accumulation of Rīḥ in the spleen disorder (TM2)",
+      "definition": "Accumulation of Rīḥ in the spleen disorder (TM2)"
+    },
+    {
+      "code": "1033187646",
+      "display": "Splenic dyscrasia disorder (TM2)",
+      "definition": "Splenic dyscrasia disorder (TM2)"
+    },
+    {
+      "code": "1186215023",
+      "display": "Splenomegaly disorder (TM2)",
+      "definition": "Splenomegaly disorder (TM2)"
+    },
+    {
+      "code": "990416419",
+      "display": "Gallbladder obstruction disorder (TM2)",
+      "definition": "Gallbladder obstruction disorder (TM2)"
+    },
+    {
+      "code": "1669717543",
+      "display": "Liver obstruction disorder (TM2)",
+      "definition": "Liver obstruction disorder (TM2)"
+    },
+    {
+      "code": "210619783",
+      "display": "Hepatic insufficiency disorder (TM2)",
+      "definition": "Hepatic insufficiency disorder (TM2)"
+    },
+    {
+      "code": "98221538",
+      "display": "Blackish discoloration of the skin disorder (TM2)",
+      "definition": "Blackish discoloration of the skin disorder (TM2)"
+    },
+    {
+      "code": "1901778594",
+      "display": "Anorectal disorders (TM2)",
+      "definition": "Anorectal disorders (TM2)"
+    },
+    {
+      "code": "841741921",
+      "display": "Proctalgia disorder (TM2)",
+      "definition": "Proctalgia disorder (TM2)"
+    },
+    {
+      "code": "1662149539",
+      "display": "Anal fissure disorder (TM2)",
+      "definition": "Anal fissure disorder (TM2)"
+    },
+    {
+      "code": "435722194",
+      "display": "Fistula in ano disorder (TM2)",
+      "definition": "Fistula in ano disorder (TM2)"
+    },
+    {
+      "code": "1125050639",
+      "display": "Faecal fistula disorder (TM2)",
+      "definition": "Faecal fistula disorder (TM2)"
+    },
+    {
+      "code": "651510970",
+      "display": "Ano vesical fistula disorder (TM2)",
+      "definition": "Ano vesical fistula disorder (TM2)"
+    },
+    {
+      "code": "271637227",
+      "display": "Anorectal fistula disorder due to increasing Vaḷi (TM2)",
+      "definition": "Anorectal fistula disorder due to increasing Vaḷi (TM2)"
+    },
+    {
+      "code": "2143379524",
+      "display": "Fistula in ani disorder due to increasing Aẕal (TM2)",
+      "definition": "Fistula in ani disorder due to increasing Aẕal (TM2)"
+    },
+    {
+      "code": "1616349688",
+      "display": "Haemorrhoids disorder (TM2)",
+      "definition": "Haemorrhoids disorder (TM2)"
+    },
+    {
+      "code": "2139302050",
+      "display": "Bleeding piles disorder (TM2)",
+      "definition": "Bleeding piles disorder (TM2)"
+    },
+    {
+      "code": "1353242626",
+      "display": "External bleeding piles disorder with growth in the size of lotus flower (TM2)",
+      "definition": "External bleeding piles disorder with growth in the size of lotus flower (TM2)"
+    },
+    {
+      "code": "1512406894",
+      "display": "External piles disorder with dryness (TM2)",
+      "definition": "External piles disorder with dryness (TM2)"
+    },
+    {
+      "code": "1890865840",
+      "display": "External piles disorder with growth in the size of Amorphallus (TM2)",
+      "definition": "External piles disorder with growth in the size of Amorphallus (TM2)"
+    },
+    {
+      "code": "2050618820",
+      "display": "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)",
+      "definition": "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)"
+    },
+    {
+      "code": "2057192882",
+      "display": "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)",
+      "definition": "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)"
+    },
+    {
+      "code": "604625427",
+      "display": "External piles disorder with growth in the size of Curcuma longa (TM2)",
+      "definition": "External piles disorder with growth in the size of Curcuma longa (TM2)"
+    },
+    {
+      "code": "548686893",
+      "display": "External piles disorder with small growth (TM2)",
+      "definition": "External piles disorder with small growth (TM2)"
+    },
+    {
+      "code": "708438849",
+      "display": "External piles disorder with numerous acne size growth around the anus (TM2)",
+      "definition": "External piles disorder with numerous acne size growth around the anus (TM2)"
+    },
+    {
+      "code": "1311356886",
+      "display": "External piles disorder with skin tag (TM2)",
+      "definition": "External piles disorder with skin tag (TM2)"
+    },
+    {
+      "code": "1151602874",
+      "display": "Pile mass in anus disorder due to increased Vaḷi , Aẕal and Aiyam (TM2)",
+      "definition": "Pile mass in anus disorder due to increased Vaḷi , Aẕal and Aiyam (TM2)"
+    },
+    {
+      "code": "1141088456",
+      "display": "Pile mass resembling tapioca disorder (TM2)",
+      "definition": "Pile mass resembling tapioca disorder (TM2)"
+    },
+    {
+      "code": "1323634092",
+      "display": "Piles associated with glycosuria disorder (TM2)",
+      "definition": "Piles associated with glycosuria disorder (TM2)"
+    },
+    {
+      "code": "351701991",
+      "display": "Piles associated with intestinal pain and increased body heat disorder (TM2)",
+      "definition": "Piles associated with intestinal pain and increased body heat disorder (TM2)"
+    },
+    {
+      "code": "1048731319",
+      "display": "Piles associated with neurological pain and belching disorder (TM2)",
+      "definition": "Piles associated with neurological pain and belching disorder (TM2)"
+    },
+    {
+      "code": "186788531",
+      "display": "Piles associated with penile ulcers disorder (TM2)",
+      "definition": "Piles associated with penile ulcers disorder (TM2)"
+    },
+    {
+      "code": "316426494",
+      "display": "Piles disorder caused by derangement of Aiyam (TM2)",
+      "definition": "Piles disorder caused by derangement of Aiyam (TM2)"
+    },
+    {
+      "code": "408022930",
+      "display": "Piles disorder caused by derangement of Aẕal (TM2)",
+      "definition": "Piles disorder caused by derangement of Aẕal (TM2)"
+    },
+    {
+      "code": "1656429537",
+      "display": "Piles disorder caused by derangement of Vaḷi (TM2)",
+      "definition": "Piles disorder caused by derangement of Vaḷi (TM2)"
+    },
+    {
+      "code": "1748417677",
+      "display": "Piles disorder with abdominal pain and flatulence (TM2)",
+      "definition": "Piles disorder with abdominal pain and flatulence (TM2)"
+    },
+    {
+      "code": "233640248",
+      "display": "Piles disorder with pus exudates from anus (TM2)",
+      "definition": "Piles disorder with pus exudates from anus (TM2)"
+    },
+    {
+      "code": "1203436637",
+      "display": "Congenital haemorrhoid disorder (TM2)",
+      "definition": "Congenital haemorrhoid disorder (TM2)"
+    },
+    {
+      "code": "1295473457",
+      "display": "Haemorrhoid disorder due to Kapha (TM2)",
+      "definition": "Haemorrhoid disorder due to Kapha (TM2)"
+    },
+    {
+      "code": "1738962673",
+      "display": "Haemorrhoid disorder due to Pitta (TM2)",
+      "definition": "Haemorrhoid disorder due to Pitta (TM2)"
+    },
+    {
+      "code": "1831588253",
+      "display": "Haemorroid disorder due to Aẕal aggrevation (TM2)",
+      "definition": "Haemorroid disorder due to Aẕal aggrevation (TM2)"
+    },
+    {
+      "code": "1837916653",
+      "display": "Haemorrhoid disorder due to blood (TM2)",
+      "definition": "Haemorrhoid disorder due to blood (TM2)"
+    },
+    {
+      "code": "1959832913",
+      "display": "Haemorrhoid disorder due to Vata (TM2)",
+      "definition": "Haemorrhoid disorder due to Vata (TM2)"
+    },
+    {
+      "code": "1886206831",
+      "display": "Haemorrhoid disorder due to all the three dosha (TM2)",
+      "definition": "Haemorrhoid disorder due to all the three dosha (TM2)"
+    },
+    {
+      "code": "2061540355",
+      "display": "Proctitis disorder (TM2)",
+      "definition": "Proctitis disorder (TM2)"
+    },
+    {
+      "code": "1086007413",
+      "display": "Rectal prolapse disorder (TM2)",
+      "definition": "Rectal prolapse disorder (TM2)"
+    },
+    {
+      "code": "627082688",
+      "display": "Anal stenosis disorder (TM2)",
+      "definition": "Anal stenosis disorder (TM2)"
+    },
+    {
+      "code": "1341223511",
+      "display": "Anal abscess disorder (TM2)",
+      "definition": "Anal abscess disorder (TM2)"
+    },
+    {
+      "code": "1263330409",
+      "display": "Abscess in the inguinal region disorder (TM2)",
+      "definition": "Abscess in the inguinal region disorder (TM2)"
+    },
+    {
+      "code": "1759348926",
+      "display": "Flank pain disorder (TM2)",
+      "definition": "Flank pain disorder (TM2)"
+    },
+    {
+      "code": "1909309505",
+      "display": "Aggravated Aiyam disorder leading to ulceration in throat (TM2)",
+      "definition": "Aggravated Aiyam disorder leading to ulceration in throat (TM2)"
+    },
+    {
+      "code": "2067818285",
+      "display": "Apthous ulcer disorder (TM2)",
+      "definition": "Apthous ulcer disorder (TM2)"
+    },
+    {
+      "code": "781299392",
+      "display": "Strangury disorder with severe constipation due to Vaḷi (TM2)",
+      "definition": "Strangury disorder with severe constipation due to Vaḷi (TM2)"
+    },
+    {
+      "code": "988193098",
+      "display": "Aẕal and dyspepsia disorder (TM2)",
+      "definition": "Aẕal and dyspepsia disorder (TM2)"
+    },
+    {
+      "code": "1074550073",
+      "display": "Aggrevation of Aẕal associated with black colour vomiting disorder (TM2)",
+      "definition": "Aggrevation of Aẕal associated with black colour vomiting disorder (TM2)"
+    },
+    {
+      "code": "805171090",
+      "display": "Aggrevation of Aẕal causing haematemesis and reddish stools disorder (TM2)",
+      "definition": "Aggrevation of Aẕal causing haematemesis and reddish stools disorder (TM2)"
+    },
+    {
+      "code": "1244021285",
+      "display": "Digestive disorder due to fever in children (TM2)",
+      "definition": "Digestive disorder due to fever in children (TM2)"
+    },
+    {
+      "code": "2079791713",
+      "display": "Lower abdominal pain with accumulation of blood in uterus disorder (TM2)",
+      "definition": "Lower abdominal pain with accumulation of blood in uterus disorder (TM2)"
+    },
+    {
+      "code": "359326104",
+      "display": "Muscular growth in the abdomen and pelvis disorder (TM2)",
+      "definition": "Muscular growth in the abdomen and pelvis disorder (TM2)"
+    },
+    {
+      "code": "535250676",
+      "display": "Papules in the tongue disorder (TM2)",
+      "definition": "Papules in the tongue disorder (TM2)"
+    },
+    {
+      "code": "1289319696",
+      "display": "Anorexia disorder (TM2)",
+      "definition": "Anorexia disorder (TM2)"
+    },
+    {
+      "code": "747718443",
+      "display": "Blennemesis disorder (TM2)",
+      "definition": "Blennemesis disorder (TM2)"
+    },
+    {
+      "code": "1450947418",
+      "display": "Bowel inflammation disorder (TM2)",
+      "definition": "Bowel inflammation disorder (TM2)"
+    },
+    {
+      "code": "1767268402",
+      "display": "Infantile tenesmus disorder (TM2)",
+      "definition": "Infantile tenesmus disorder (TM2)"
+    },
+    {
+      "code": "1290811390",
+      "display": "Hiccough disorder (TM2)",
+      "definition": "Hiccough disorder (TM2)"
+    },
+    {
+      "code": "308160397",
+      "display": "Hiccough disorder due to Rīḥ (TM2)",
+      "definition": "Hiccough disorder due to Rīḥ (TM2)"
+    },
+    {
+      "code": "416514273",
+      "display": "Hiccough disorder due to gastroesophageal reflux (TM2)",
+      "definition": "Hiccough disorder due to gastroesophageal reflux (TM2)"
+    },
+    {
+      "code": "1030035985",
+      "display": "Vyapeta hiccough disorder (TM2)",
+      "definition": "Vyapeta hiccough disorder (TM2)"
+    },
+    {
+      "code": "1385472186",
+      "display": "High sound continous hiccough disorder (TM2)",
+      "definition": "High sound continous hiccough disorder (TM2)"
+    },
+    {
+      "code": "679367881",
+      "display": "Hiccough disorder with severe intensity (TM2)",
+      "definition": "Hiccough disorder with severe intensity (TM2)"
+    },
+    {
+      "code": "1921526292",
+      "display": "Hiccough disorder alleviating with food intake (TM2)",
+      "definition": "Hiccough disorder alleviating with food intake (TM2)"
+    },
+    {
+      "code": "391350177",
+      "display": "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)",
+      "definition": "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)"
+    },
+    {
+      "code": "910706259",
+      "display": "Excessive satiation disorder (TM2)",
+      "definition": "Excessive satiation disorder (TM2)"
+    },
+    {
+      "code": "1285730850",
+      "display": "Insatiation disorder (TM2)",
+      "definition": "Insatiation disorder (TM2)"
+    },
+    {
+      "code": "1490402732",
+      "display": "Umbilical polyp disorder (TM2)",
+      "definition": "Umbilical polyp disorder (TM2)"
+    },
+    {
+      "code": "1024331807",
+      "display": "Retention of stool disorder (TM2)",
+      "definition": "Retention of stool disorder (TM2)"
+    },
+    {
+      "code": "301446694",
+      "display": "Internal burning sensation disorder (TM2)",
+      "definition": "Internal burning sensation disorder (TM2)"
+    },
+    {
+      "code": "460984650",
+      "display": "Dynamic intestinal obstruction disorder (TM2)",
+      "definition": "Dynamic intestinal obstruction disorder (TM2)"
+    },
+    {
+      "code": "837500040",
+      "display": "Severe vomiting and diarrhoea disorder (TM2)",
+      "definition": "Severe vomiting and diarrhoea disorder (TM2)"
+    },
+    {
+      "code": "1542941233",
+      "display": "Urinary and reproductive system disorders (TM2)",
+      "definition": "Urinary and reproductive system disorders (TM2)"
+    },
+    {
+      "code": "344029973",
+      "display": "Urinary system disorders (TM2)",
+      "definition": "Urinary system disorders (TM2)"
+    },
+    {
+      "code": "305626317",
+      "display": "Renal abscess disorder (TM2)",
+      "definition": "Renal abscess disorder (TM2)"
+    },
+    {
+      "code": "198305416",
+      "display": "Retention of urine disorder (TM2)",
+      "definition": "Retention of urine disorder (TM2)"
+    },
+    {
+      "code": "340201268",
+      "display": "Insufficiency of the urinary bladder disorder (TM2)",
+      "definition": "Insufficiency of the urinary bladder disorder (TM2)"
+    },
+    {
+      "code": "728423516",
+      "display": "Uro-celioncus disorder (TM2)",
+      "definition": "Uro-celioncus disorder (TM2)"
+    },
+    {
+      "code": "842404070",
+      "display": "Circular bladder distension disorder (TM2)",
+      "definition": "Circular bladder distension disorder (TM2)"
+    },
+    {
+      "code": "1573366351",
+      "display": "Atonic bladder disorder (TM2)",
+      "definition": "Atonic bladder disorder (TM2)"
+    },
+    {
+      "code": "657284670",
+      "display": "Cystodynia disorder (TM2)",
+      "definition": "Cystodynia disorder (TM2)"
+    },
+    {
+      "code": "165944656",
+      "display": "Renal colic disorder (TM2)",
+      "definition": "Renal colic disorder (TM2)"
+    },
+    {
+      "code": "1816113381",
+      "display": "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)",
+      "definition": "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)"
+    },
+    {
+      "code": "840913416",
+      "display": "Nephritis disorder (TM2)",
+      "definition": "Nephritis disorder (TM2)"
+    },
+    {
+      "code": "764001212",
+      "display": "Hot nephritis disorder (TM2)",
+      "definition": "Hot nephritis disorder (TM2)"
+    },
+    {
+      "code": "654580944",
+      "display": "Hard nephritis disorder (TM2)",
+      "definition": "Hard nephritis disorder (TM2)"
+    },
+    {
+      "code": "312764628",
+      "display": "Anuria due to Vaḷi (pead) disorder (TM2)",
+      "definition": "Anuria due to Vaḷi (pead) disorder (TM2)"
+    },
+    {
+      "code": "1278474101",
+      "display": "Cold nephritis disorder due derangement of Balgham (TM2)",
+      "definition": "Cold nephritis disorder due derangement of Balgham (TM2)"
+    },
+    {
+      "code": "599936478",
+      "display": "Cystitis disorder (TM2)",
+      "definition": "Cystitis disorder (TM2)"
+    },
+    {
+      "code": "1495841197",
+      "display": "Wound of the urinary bladder disorder (TM2)",
+      "definition": "Wound of the urinary bladder disorder (TM2)"
+    },
+    {
+      "code": "1570058131",
+      "display": "Dysuria disorder (TM2)",
+      "definition": "Dysuria disorder (TM2)"
+    },
+    {
+      "code": "1461225727",
+      "display": "Burning micturition disorder (TM2)",
+      "definition": "Burning micturition disorder (TM2)"
+    },
+    {
+      "code": "1718509771",
+      "display": "Urinary tract infection disorder (TM2)",
+      "definition": "Urinary tract infection disorder (TM2)"
+    },
+    {
+      "code": "161471074",
+      "display": "Painful micturition during pregnancy disorder (TM2)",
+      "definition": "Painful micturition during pregnancy disorder (TM2)"
+    },
+    {
+      "code": "1937059347",
+      "display": "Dribbling of urine disorder (TM2)",
+      "definition": "Dribbling of urine disorder (TM2)"
+    },
+    {
+      "code": "1280900475",
+      "display": "Urinary hesitancy disorder (TM2)",
+      "definition": "Urinary hesitancy disorder (TM2)"
+    },
+    {
+      "code": "2059232044",
+      "display": "Residual urination disorder (TM2)",
+      "definition": "Residual urination disorder (TM2)"
+    },
+    {
+      "code": "1882244168",
+      "display": "Thick urine disorder (TM2)",
+      "definition": "Thick urine disorder (TM2)"
+    },
+    {
+      "code": "782160949",
+      "display": "Haematuria disorder (TM2)",
+      "definition": "Haematuria disorder (TM2)"
+    },
+    {
+      "code": "605254489",
+      "display": "Urinary incontinence disorder (TM2)",
+      "definition": "Urinary incontinence disorder (TM2)"
+    },
+    {
+      "code": "2056528326",
+      "display": "Renal insufficiency disorder (TM2)",
+      "definition": "Renal insufficiency disorder (TM2)"
+    },
+    {
+      "code": "8312245",
+      "display": "Urinary stone disorder (TM2)",
+      "definition": "Urinary stone disorder (TM2)"
+    },
+    {
+      "code": "1518906216",
+      "display": "Cystolithiasis disorder (TM2)",
+      "definition": "Cystolithiasis disorder (TM2)"
+    },
+    {
+      "code": "1062405853",
+      "display": "Renal calculi disorder due to Kapha (TM2)",
+      "definition": "Renal calculi disorder due to Kapha (TM2)"
+    },
+    {
+      "code": "79201465",
+      "display": "Renal calculi disorder due to Pitta (TM2)",
+      "definition": "Renal calculi disorder due to Pitta (TM2)"
+    },
+    {
+      "code": "238363605",
+      "display": "Renal calculi disorder due to Sukra (TM2)",
+      "definition": "Renal calculi disorder due to Sukra (TM2)"
+    },
+    {
+      "code": "176731627",
+      "display": "Renal calculi disorder due to Vata (TM2)",
+      "definition": "Renal calculi disorder due to Vata (TM2)"
+    },
+    {
+      "code": "1885487516",
+      "display": "Renal pain disorder (TM2)",
+      "definition": "Renal pain disorder (TM2)"
+    },
+    {
+      "code": "1280110553",
+      "display": "Polyuria disorder (TM2)",
+      "definition": "Polyuria disorder (TM2)"
+    },
+    {
+      "code": "916855720",
+      "display": "Polyuria disorder due to Kapha (TM2)",
+      "definition": "Polyuria disorder due to Kapha (TM2)"
+    },
+    {
+      "code": "1498915073",
+      "display": "Polyuria disorder due to Pitta (TM2)",
+      "definition": "Polyuria disorder due to Pitta (TM2)"
+    },
+    {
+      "code": "1015811254",
+      "display": "Polyuria disorder due to Vāta (TM2)",
+      "definition": "Polyuria disorder due to Vāta (TM2)"
+    },
+    {
+      "code": "1288884347",
+      "display": "Aggravated Aiyam leading to polyurea disorder (TM2)",
+      "definition": "Aggravated Aiyam leading to polyurea disorder (TM2)"
+    },
+    {
+      "code": "1679117842",
+      "display": "Albuminuria disorder (TM2)",
+      "definition": "Albuminuria disorder (TM2)"
+    },
+    {
+      "code": "30335911",
+      "display": "Albunosuria disorder (TM2)",
+      "definition": "Albunosuria disorder (TM2)"
+    },
+    {
+      "code": "786764551",
+      "display": "Ash-coloured urine disorder (TM2)",
+      "definition": "Ash-coloured urine disorder (TM2)"
+    },
+    {
+      "code": "610841707",
+      "display": "Belluria disorder (TM2)",
+      "definition": "Belluria disorder (TM2)"
+    },
+    {
+      "code": "251238827",
+      "display": "Bilirubinuria disorder (TM2)",
+      "definition": "Bilirubinuria disorder (TM2)"
+    },
+    {
+      "code": "74727111",
+      "display": "Chyluria disorder (TM2)",
+      "definition": "Chyluria disorder (TM2)"
+    },
+    {
+      "code": "80973495",
+      "display": "Excess and profuse urination like elephant disorder (TM2)",
+      "definition": "Excess and profuse urination like elephant disorder (TM2)"
+    },
+    {
+      "code": "1297495369",
+      "display": "Frothy urine disorder (TM2)",
+      "definition": "Frothy urine disorder (TM2)"
+    },
+    {
+      "code": "1671394855",
+      "display": "Glycosuria disorder (TM2)",
+      "definition": "Glycosuria disorder (TM2)"
+    },
+    {
+      "code": "427131478",
+      "display": "Gravaluria disorder (TM2)",
+      "definition": "Gravaluria disorder (TM2)"
+    },
+    {
+      "code": "218271200",
+      "display": "Haemoglobinuria disorder (TM2)",
+      "definition": "Haemoglobinuria disorder (TM2)"
+    },
+    {
+      "code": "1759060075",
+      "display": "Hydruria disorder (TM2)",
+      "definition": "Hydruria disorder (TM2)"
+    },
+    {
+      "code": "1207095499",
+      "display": "Indicanuria disorder (TM2)",
+      "definition": "Indicanuria disorder (TM2)"
+    },
+    {
+      "code": "1300199335",
+      "display": "Melanuria disorder (TM2)",
+      "definition": "Melanuria disorder (TM2)"
+    },
+    {
+      "code": "1743673959",
+      "display": "Polyuria disorder with cold urine (TM2)",
+      "definition": "Polyuria disorder with cold urine (TM2)"
+    },
+    {
+      "code": "1835269387",
+      "display": "Polyurea disorder like salt solution (TM2)",
+      "definition": "Polyurea disorder like salt solution (TM2)"
+    },
+    {
+      "code": "1841581435",
+      "display": "Slow pace micturition disorder (TM2)",
+      "definition": "Slow pace micturition disorder (TM2)"
+    },
+    {
+      "code": "1021773498",
+      "display": "Hyper-acidic urine disorder (TM2)",
+      "definition": "Hyper-acidic urine disorder (TM2)"
+    },
+    {
+      "code": "945459334",
+      "display": "Spermaturia disorder (TM2)",
+      "definition": "Spermaturia disorder (TM2)"
+    },
+    {
+      "code": "852965354",
+      "display": "Urine resembling alcohol disorder (TM2)",
+      "definition": "Urine resembling alcohol disorder (TM2)"
+    },
+    {
+      "code": "1455909757",
+      "display": "Urine resembling bone marrow disorder (TM2)",
+      "definition": "Urine resembling bone marrow disorder (TM2)"
+    },
+    {
+      "code": "1548405777",
+      "display": "Urine resembling ghee disorder (TM2)",
+      "definition": "Urine resembling ghee disorder (TM2)"
+    },
+    {
+      "code": "1559067745",
+      "display": "Urine resembling intramuscular fat disorder (TM2)",
+      "definition": "Urine resembling intramuscular fat disorder (TM2)"
+    },
+    {
+      "code": "381325574",
+      "display": "White urine disorder (TM2)",
+      "definition": "White urine disorder (TM2)"
+    },
+    {
+      "code": "683838704",
+      "display": "Bladder tumour disorder (TM2)",
+      "definition": "Bladder tumour disorder (TM2)"
+    },
+    {
+      "code": "575613828",
+      "display": "Bladder carcinoma disorder (TM2)",
+      "definition": "Bladder carcinoma disorder (TM2)"
+    },
+    {
+      "code": "358980461",
+      "display": "Oliguria disorder (TM2)",
+      "definition": "Oliguria disorder (TM2)"
+    },
+    {
+      "code": "1076641430",
+      "display": "Female Reproductive System disorders (TM2)",
+      "definition": "Female Reproductive System disorders (TM2)"
+    },
+    {
+      "code": "2110178918",
+      "display": "Amenorrhoea disorder (TM2)",
+      "definition": "Amenorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1757378199",
+      "display": "Post - menopausal disorder (TM2)",
+      "definition": "Post - menopausal disorder (TM2)"
+    },
+    {
+      "code": "1218706491",
+      "display": "Breast tumour disorder (TM2)",
+      "definition": "Breast tumour disorder (TM2)"
+    },
+    {
+      "code": "1177845017",
+      "display": "Tumour of cervix disorder (TM2)",
+      "definition": "Tumour of cervix disorder (TM2)"
+    },
+    {
+      "code": "31125765",
+      "display": "Muscular growth in the uterus disorder (TM2)",
+      "definition": "Muscular growth in the uterus disorder (TM2)"
+    },
+    {
+      "code": "2066744694",
+      "display": "Pain and swelling in the uterus disorder (TM2)",
+      "definition": "Pain and swelling in the uterus disorder (TM2)"
+    },
+    {
+      "code": "348241885",
+      "display": "Insatiable sexual desire disorder (TM2)",
+      "definition": "Insatiable sexual desire disorder (TM2)"
+    },
+    {
+      "code": "1897534056",
+      "display": "Colpitis disorder (TM2)",
+      "definition": "Colpitis disorder (TM2)"
+    },
+    {
+      "code": "1798710974",
+      "display": "Endocervicitis disorder (TM2)",
+      "definition": "Endocervicitis disorder (TM2)"
+    },
+    {
+      "code": "1639678418",
+      "display": "Bartholin's cyst disorder (TM2)",
+      "definition": "Bartholin's cyst disorder (TM2)"
+    },
+    {
+      "code": "2116905062",
+      "display": "Leucorrhoea disorder (TM2)",
+      "definition": "Leucorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1956695818",
+      "display": "Female infertility disorder (TM2)",
+      "definition": "Female infertility disorder (TM2)"
+    },
+    {
+      "code": "893355711",
+      "display": "Female infertility (permanent infertility) disorder (TM2)",
+      "definition": "Female infertility (permanent infertility) disorder (TM2)"
+    },
+    {
+      "code": "1806178592",
+      "display": "A woman having borne only one child disorder (TM2)",
+      "definition": "A woman having borne only one child disorder (TM2)"
+    },
+    {
+      "code": "2145326742",
+      "display": "A woman having borne only two children disorder (TM2)",
+      "definition": "A woman having borne only two children disorder (TM2)"
+    },
+    {
+      "code": "87417575",
+      "display": "Profluvium seminis disorder (TM2)",
+      "definition": "Profluvium seminis disorder (TM2)"
+    },
+    {
+      "code": "1791252558",
+      "display": "Primary infertility disorder due to under developed reproductive system (TM2)",
+      "definition": "Primary infertility disorder due to under developed reproductive system (TM2)"
+    },
+    {
+      "code": "253752827",
+      "display": "Cervical retroversion or retroflexion disorder (TM2)",
+      "definition": "Cervical retroversion or retroflexion disorder (TM2)"
+    },
+    {
+      "code": "1847361246",
+      "display": "Difficulty in conception disorder (TM2)",
+      "definition": "Difficulty in conception disorder (TM2)"
+    },
+    {
+      "code": "355713327",
+      "display": "Salpingitis disorder (TM2)",
+      "definition": "Salpingitis disorder (TM2)"
+    },
+    {
+      "code": "532571715",
+      "display": "Oophritis disorder (TM2)",
+      "definition": "Oophritis disorder (TM2)"
+    },
+    {
+      "code": "2658295",
+      "display": "Vaginitis disorder (TM2)",
+      "definition": "Vaginitis disorder (TM2)"
+    },
+    {
+      "code": "178595995",
+      "display": "Deflorative vaginitis disorder (TM2)",
+      "definition": "Deflorative vaginitis disorder (TM2)"
+    },
+    {
+      "code": "236502693",
+      "display": "Vaginitis disorder due to excessive Vaḷi (TM2)",
+      "definition": "Vaginitis disorder due to excessive Vaḷi (TM2)"
+    },
+    {
+      "code": "1807946512",
+      "display": "Vaginitis disorder due to excessive coitus (TM2)",
+      "definition": "Vaginitis disorder due to excessive coitus (TM2)"
+    },
+    {
+      "code": "1018953738",
+      "display": "Vaginal pruritus disorder (TM2)",
+      "definition": "Vaginal pruritus disorder (TM2)"
+    },
+    {
+      "code": "909223782",
+      "display": "Vulvitis disorder (TM2)",
+      "definition": "Vulvitis disorder (TM2)"
+    },
+    {
+      "code": "698830546",
+      "display": "Vulvo vaginitis disorder (TM2)",
+      "definition": "Vulvo vaginitis disorder (TM2)"
+    },
+    {
+      "code": "590014910",
+      "display": "Dysmenorrhoea disorder (TM2)",
+      "definition": "Dysmenorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1558016223",
+      "display": "Intermenstrual bleeeding (TM2)",
+      "definition": "Intermenstrual bleeeding (TM2)"
+    },
+    {
+      "code": "1237728775",
+      "display": "Dysmennorrhea disorder due to reproductive organ diseases (TM2)",
+      "definition": "Dysmennorrhea disorder due to reproductive organ diseases (TM2)"
+    },
+    {
+      "code": "992209794",
+      "display": "Hypomenorrhoea disorder (TM2)",
+      "definition": "Hypomenorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1258745981",
+      "display": "Dysfunctional uterine bleeding disorder (TM2)",
+      "definition": "Dysfunctional uterine bleeding disorder (TM2)"
+    },
+    {
+      "code": "564686630",
+      "display": "Abnormal uterine bleeding disorder (TM2)",
+      "definition": "Abnormal uterine bleeding disorder (TM2)"
+    },
+    {
+      "code": "2069762553",
+      "display": "Menorrhagia due to increased Aẕal disorder (TM2)",
+      "definition": "Menorrhagia due to increased Aẕal disorder (TM2)"
+    },
+    {
+      "code": "28632456",
+      "display": "Menorrhagia disorder (TM2)",
+      "definition": "Menorrhagia disorder (TM2)"
+    },
+    {
+      "code": "1850040097",
+      "display": "Uterine polyps disorder (TM2)",
+      "definition": "Uterine polyps disorder (TM2)"
+    },
+    {
+      "code": "194966166",
+      "display": "Uterine prolapse disorder (TM2)",
+      "definition": "Uterine prolapse disorder (TM2)"
+    },
+    {
+      "code": "253977770",
+      "display": "Second degree uterine prolapse disorder (TM2)",
+      "definition": "Second degree uterine prolapse disorder (TM2)"
+    },
+    {
+      "code": "2084803842",
+      "display": "Prolapse of vaginal wall disorder (TM2)",
+      "definition": "Prolapse of vaginal wall disorder (TM2)"
+    },
+    {
+      "code": "1993224814",
+      "display": "Colpostenosis disorder (TM2)",
+      "definition": "Colpostenosis disorder (TM2)"
+    },
+    {
+      "code": "316567291",
+      "display": "Bulky uterus disorder (TM2)",
+      "definition": "Bulky uterus disorder (TM2)"
+    },
+    {
+      "code": "408144279",
+      "display": "Impaired temperament of uterus disorder (TM2)",
+      "definition": "Impaired temperament of uterus disorder (TM2)"
+    },
+    {
+      "code": "418675175",
+      "display": "Physometra disorder (TM2)",
+      "definition": "Physometra disorder (TM2)"
+    },
+    {
+      "code": "1386452098",
+      "display": "Vaginismus disorder (TM2)",
+      "definition": "Vaginismus disorder (TM2)"
+    },
+    {
+      "code": "139848287",
+      "display": "Metritis disorder (TM2)",
+      "definition": "Metritis disorder (TM2)"
+    },
+    {
+      "code": "1925127728",
+      "display": "Endometritis disorder (TM2)",
+      "definition": "Endometritis disorder (TM2)"
+    },
+    {
+      "code": "555005513",
+      "display": "Uterine tumor disorder (TM2)",
+      "definition": "Uterine tumor disorder (TM2)"
+    },
+    {
+      "code": "1116334887",
+      "display": "Spreading uterine tumour disorder (TM2)",
+      "definition": "Spreading uterine tumour disorder (TM2)"
+    },
+    {
+      "code": "347390541",
+      "display": "Uterine weakness disorder (TM2)",
+      "definition": "Uterine weakness disorder (TM2)"
+    },
+    {
+      "code": "1560514156",
+      "display": "Uterine obstruction disorder (TM2)",
+      "definition": "Uterine obstruction disorder (TM2)"
+    },
+    {
+      "code": "898548105",
+      "display": "Uterine ulceration disorder (TM2)",
+      "definition": "Uterine ulceration disorder (TM2)"
+    },
+    {
+      "code": "219194632",
+      "display": "Mastitis disorder (TM2)",
+      "definition": "Mastitis disorder (TM2)"
+    },
+    {
+      "code": "1252104698",
+      "display": "Male Reproductive System disorders (TM2)",
+      "definition": "Male Reproductive System disorders (TM2)"
+    },
+    {
+      "code": "404581329",
+      "display": "Balanitis disorder (TM2)",
+      "definition": "Balanitis disorder (TM2)"
+    },
+    {
+      "code": "2023033138",
+      "display": "Inflammation of penis disorder due to application of ointments etc., (TM2)",
+      "definition": "Inflammation of penis disorder due to application of ointments etc., (TM2)"
+    },
+    {
+      "code": "38171281",
+      "display": "Prepucial tears disorder (TM2)",
+      "definition": "Prepucial tears disorder (TM2)"
+    },
+    {
+      "code": "1389908912",
+      "display": "Hydrocele disorder (TM2)",
+      "definition": "Hydrocele disorder (TM2)"
+    },
+    {
+      "code": "1185897530",
+      "display": "Hydrocele disorder due to increased Aiyam (TM2)",
+      "definition": "Hydrocele disorder due to increased Aiyam (TM2)"
+    },
+    {
+      "code": "594866573",
+      "display": "Erectile dysfunction disorder (TM2)",
+      "definition": "Erectile dysfunction disorder (TM2)"
+    },
+    {
+      "code": "207552813",
+      "display": "Oligospermia disorder (TM2)",
+      "definition": "Oligospermia disorder (TM2)"
+    },
+    {
+      "code": "114468417",
+      "display": "Mustard- size boils on penis disorder (TM2)",
+      "definition": "Mustard- size boils on penis disorder (TM2)"
+    },
+    {
+      "code": "742624129",
+      "display": "Orchitis disorder (TM2)",
+      "definition": "Orchitis disorder (TM2)"
+    },
+    {
+      "code": "651046125",
+      "display": "Anaphrodisia disorder (TM2)",
+      "definition": "Anaphrodisia disorder (TM2)"
+    },
+    {
+      "code": "644455581",
+      "display": "Penile growth disorder (TM2)",
+      "definition": "Penile growth disorder (TM2)"
+    },
+    {
+      "code": "1877747555",
+      "display": "Priapism disorder (TM2)",
+      "definition": "Priapism disorder (TM2)"
+    },
+    {
+      "code": "1800515933",
+      "display": "Prostatic enlargement disorder (TM2)",
+      "definition": "Prostatic enlargement disorder (TM2)"
+    },
+    {
+      "code": "97274534",
+      "display": "Prostatic carcinoma disorder (TM2)",
+      "definition": "Prostatic carcinoma disorder (TM2)"
+    },
+    {
+      "code": "255978954",
+      "display": "Scrotal swelling disorder (TM2)",
+      "definition": "Scrotal swelling disorder (TM2)"
+    },
+    {
+      "code": "266755512",
+      "display": "Premature ejaculation disorder (TM2)",
+      "definition": "Premature ejaculation disorder (TM2)"
+    },
+    {
+      "code": "1169273053",
+      "display": "Spermatorrhoea disorder (TM2)",
+      "definition": "Spermatorrhoea disorder (TM2)"
+    },
+    {
+      "code": "524799490",
+      "display": "Excessive nocturnal emission disorder (TM2)",
+      "definition": "Excessive nocturnal emission disorder (TM2)"
+    },
+    {
+      "code": "1705851505",
+      "display": "Hydrocele disorder due to vitiated fat (TM2)",
+      "definition": "Hydrocele disorder due to vitiated fat (TM2)"
+    },
+    {
+      "code": "173834458",
+      "display": "Hydrocele disorder due to vitiated blood (TM2)",
+      "definition": "Hydrocele disorder due to vitiated blood (TM2)"
+    },
+    {
+      "code": "1871129965",
+      "display": "Hydrocele disorder due to urine coloured fluid (TM2)",
+      "definition": "Hydrocele disorder due to urine coloured fluid (TM2)"
+    },
+    {
+      "code": "375446588",
+      "display": "Phimosis disorder (TM2)",
+      "definition": "Phimosis disorder (TM2)"
+    },
+    {
+      "code": "485325648",
+      "display": "Paraphimosis disorder (TM2)",
+      "definition": "Paraphimosis disorder (TM2)"
+    },
+    {
+      "code": "1429696590",
+      "display": "Pregnancy and childbirth related disorders (TM2)",
+      "definition": "Pregnancy and childbirth related disorders (TM2)"
+    },
+    {
+      "code": "480312815",
+      "display": "Decreased breastmilk disorder (TM2)",
+      "definition": "Decreased breastmilk disorder (TM2)"
+    },
+    {
+      "code": "1919975593",
+      "display": "Puerperial complications disorder (TM2)",
+      "definition": "Puerperial complications disorder (TM2)"
+    },
+    {
+      "code": "1926705369",
+      "display": "General body tiredness during pregnancy disorder (TM2)",
+      "definition": "General body tiredness during pregnancy disorder (TM2)"
+    },
+    {
+      "code": "1651942241",
+      "display": "Disorders due to improper cutting of umbilical cord. (TM2)",
+      "definition": "Disorders due to improper cutting of umbilical cord. (TM2)"
+    },
+    {
+      "code": "412899090",
+      "display": "Vitiated breast milk disorder (TM2)",
+      "definition": "Vitiated breast milk disorder (TM2)"
+    },
+    {
+      "code": "2003692985",
+      "display": "Milk aversion disorder (TM2)",
+      "definition": "Milk aversion disorder (TM2)"
+    },
+    {
+      "code": "313933836",
+      "display": "Recurrent pregnancy loss disorder (TM2)",
+      "definition": "Recurrent pregnancy loss disorder (TM2)"
+    },
+    {
+      "code": "1110925902",
+      "display": "Gonorrhoea disorder (TM2)",
+      "definition": "Gonorrhoea disorder (TM2)"
+    },
+    {
+      "code": "1751464879",
+      "display": "Gonorrhoeal vaginitis disorder (TM2)",
+      "definition": "Gonorrhoeal vaginitis disorder (TM2)"
+    },
+    {
+      "code": "1659411651",
+      "display": "Gonnorheal disorder with papular eruptions (TM2)",
+      "definition": "Gonnorheal disorder with papular eruptions (TM2)"
+    },
+    {
+      "code": "116965462",
+      "display": "Gonnorheal disorder with urolithiasis (TM2)",
+      "definition": "Gonnorheal disorder with urolithiasis (TM2)"
+    },
+    {
+      "code": "209020730",
+      "display": "Thread like white discharge disorder (TM2)",
+      "definition": "Thread like white discharge disorder (TM2)"
+    },
+    {
+      "code": "215144268",
+      "display": "White discharge with pus disorder (TM2)",
+      "definition": "White discharge with pus disorder (TM2)"
+    },
+    {
+      "code": "1183136303",
+      "display": "Yellowish urethreal discharge disorder (TM2)",
+      "definition": "Yellowish urethreal discharge disorder (TM2)"
+    },
+    {
+      "code": "477316338",
+      "display": "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)",
+      "definition": "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)"
+    },
+    {
+      "code": "1721348227",
+      "display": "Syphillis disorder (TM2)",
+      "definition": "Syphillis disorder (TM2)"
+    },
+    {
+      "code": "157813290",
+      "display": "Syphilitic ulcer disorder (TM2)",
+      "definition": "Syphilitic ulcer disorder (TM2)"
+    },
+    {
+      "code": "1823713183",
+      "display": "Syphilitic abscess disorder (TM2)",
+      "definition": "Syphilitic abscess disorder (TM2)"
+    },
+    {
+      "code": "300115813",
+      "display": "Improper sexual activity disorder (TM2)",
+      "definition": "Improper sexual activity disorder (TM2)"
+    },
+    {
+      "code": "1978874866",
+      "display": "Over sexual activity disorder (TM2)",
+      "definition": "Over sexual activity disorder (TM2)"
+    },
+    {
+      "code": "2139004062",
+      "display": "Pain during intercourse disorder (TM2)",
+      "definition": "Pain during intercourse disorder (TM2)"
+    },
+    {
+      "code": "2144939244",
+      "display": "Genital pain disorder (TM2)",
+      "definition": "Genital pain disorder (TM2)"
+    },
+    {
+      "code": "1870184278",
+      "display": "Vaḷi aggrevation with stammering and impotence disorder (TM2)",
+      "definition": "Vaḷi aggrevation with stammering and impotence disorder (TM2)"
+    },
+    {
+      "code": "361909029",
+      "display": "Pre eclampsia disorder (TM2)",
+      "definition": "Pre eclampsia disorder (TM2)"
+    },
+    {
+      "code": "2053370254",
+      "display": "Vitiated Vaḷi along with Aiyam affecting genito urinary pathways disorder (TM2)",
+      "definition": "Vitiated Vaḷi along with Aiyam affecting genito urinary pathways disorder (TM2)"
+    },
+    {
+      "code": "532175929",
+      "display": "Hyderocele disorder due to Kapha (TM2)",
+      "definition": "Hyderocele disorder due to Kapha (TM2)"
+    },
+    {
+      "code": "453364231",
+      "display": "Hyderocele disorder due to Vāta (TM2)",
+      "definition": "Hyderocele disorder due to Vāta (TM2)"
+    },
+    {
+      "code": "1167218086",
+      "display": "Hydrocele disorder due to Pitta (TM2)",
+      "definition": "Hydrocele disorder due to Pitta (TM2)"
+    },
+    {
+      "code": "1373985328",
+      "display": "Scrotal pain disorder (TM2)",
+      "definition": "Scrotal pain disorder (TM2)"
+    },
+    {
+      "code": "722447967",
+      "display": "Tumor in pelvic cavity disorder (TM2)",
+      "definition": "Tumor in pelvic cavity disorder (TM2)"
+    },
+    {
+      "code": "1367002461",
+      "display": "Skin, nail and hair disorders (TM2)",
+      "definition": "Skin, nail and hair disorders (TM2)"
+    },
+    {
+      "code": "1606080290",
+      "display": "Skin disorders (TM2)",
+      "definition": "Skin disorders (TM2)"
+    },
+    {
+      "code": "1447062984",
+      "display": "Dermatitis disorder (TM2)",
+      "definition": "Dermatitis disorder (TM2)"
+    },
+    {
+      "code": "1591164577",
+      "display": "Scrotal dermatitis disorder (TM2)",
+      "definition": "Scrotal dermatitis disorder (TM2)"
+    },
+    {
+      "code": "1415223757",
+      "display": "Impairment of Dam disorder (TM2)",
+      "definition": "Impairment of Dam disorder (TM2)"
+    },
+    {
+      "code": "1271689337",
+      "display": "Malignancy of the skin disorder (TM2)",
+      "definition": "Malignancy of the skin disorder (TM2)"
+    },
+    {
+      "code": "1094833941",
+      "display": "Discoloration of body disorder (TM2)",
+      "definition": "Discoloration of body disorder (TM2)"
+    },
+    {
+      "code": "1960944401",
+      "display": "Black patch disorder (TM2)",
+      "definition": "Black patch disorder (TM2)"
+    },
+    {
+      "code": "712391858",
+      "display": "Hyperpigmented patches on the skin disorder (TM2)",
+      "definition": "Hyperpigmented patches on the skin disorder (TM2)"
+    },
+    {
+      "code": "1166509593",
+      "display": "Dryness of skin disorder (TM2)",
+      "definition": "Dryness of skin disorder (TM2)"
+    },
+    {
+      "code": "1064137322",
+      "display": "Thickening of the skin disorder (TM2)",
+      "definition": "Thickening of the skin disorder (TM2)"
+    },
+    {
+      "code": "295973128",
+      "display": "Eczema disorder (TM2)",
+      "definition": "Eczema disorder (TM2)"
+    },
+    {
+      "code": "1954520243",
+      "display": "Eczema disorder with dry skin (TM2)",
+      "definition": "Eczema disorder with dry skin (TM2)"
+    },
+    {
+      "code": "550689076",
+      "display": "Eczema disorder caused by increase Aiyam (TM2)",
+      "definition": "Eczema disorder caused by increase Aiyam (TM2)"
+    },
+    {
+      "code": "710901344",
+      "display": "Eczema disorder caused by increased Aẕal (TM2)",
+      "definition": "Eczema disorder caused by increased Aẕal (TM2)"
+    },
+    {
+      "code": "902404076",
+      "display": "Eczema disorder occuring in head and ears (TM2)",
+      "definition": "Eczema disorder occuring in head and ears (TM2)"
+    },
+    {
+      "code": "1061433480",
+      "display": "Eczema disorder with joint pain (TM2)",
+      "definition": "Eczema disorder with joint pain (TM2)"
+    },
+    {
+      "code": "182731908",
+      "display": "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)",
+      "definition": "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)"
+    },
+    {
+      "code": "1501415190",
+      "display": "Eczema disorder of the nose (TM2)",
+      "definition": "Eczema disorder of the nose (TM2)"
+    },
+    {
+      "code": "915176895",
+      "display": "Hyperpigmentation of skin in the scalp disorder (TM2)",
+      "definition": "Hyperpigmentation of skin in the scalp disorder (TM2)"
+    },
+    {
+      "code": "1281788366",
+      "display": "Tinea favus disorder (TM2)",
+      "definition": "Tinea favus disorder (TM2)"
+    },
+    {
+      "code": "1222320114",
+      "display": "Foul body smelling disorder (TM2)",
+      "definition": "Foul body smelling disorder (TM2)"
+    },
+    {
+      "code": "1112979614",
+      "display": "Bromidrosis disorder (TM2)",
+      "definition": "Bromidrosis disorder (TM2)"
+    },
+    {
+      "code": "964148685",
+      "display": "Hematidrosis disorder (TM2)",
+      "definition": "Hematidrosis disorder (TM2)"
+    },
+    {
+      "code": "1931497642",
+      "display": "Excess of sweat disorder (TM2)",
+      "definition": "Excess of sweat disorder (TM2)"
+    },
+    {
+      "code": "1715150450",
+      "display": "Scabies disorder (TM2)",
+      "definition": "Scabies disorder (TM2)"
+    },
+    {
+      "code": "1020092589",
+      "display": "Dracunculosis disorder (TM2)",
+      "definition": "Dracunculosis disorder (TM2)"
+    },
+    {
+      "code": "1660768124",
+      "display": "Intertrigo disorder (TM2)",
+      "definition": "Intertrigo disorder (TM2)"
+    },
+    {
+      "code": "1752229904",
+      "display": "An inflammation of folds of the skin surrounding the finger nail disorder (TM2)",
+      "definition": "An inflammation of folds of the skin surrounding the finger nail disorder (TM2)"
+    },
+    {
+      "code": "920582243",
+      "display": "Integumentary disorder (TM2)",
+      "definition": "Integumentary disorder (TM2)"
+    },
+    {
+      "code": "557452938",
+      "display": "Integumentary disorder due to vata (TM2)",
+      "definition": "Integumentary disorder due to vata (TM2)"
+    },
+    {
+      "code": "733456870",
+      "display": "Integumentary disorder due to kapha (TM2)",
+      "definition": "Integumentary disorder due to kapha (TM2)"
+    },
+    {
+      "code": "1336407411",
+      "display": "Integumentary disorder due to pitta (TM2)",
+      "definition": "Integumentary disorder due to pitta (TM2)"
+    },
+    {
+      "code": "1160401439",
+      "display": "Integumentary disorder due to pitta and kapha (TM2)",
+      "definition": "Integumentary disorder due to pitta and kapha (TM2)"
+    },
+    {
+      "code": "1166926447",
+      "display": "Integumentary disorder due to vata and pitta (TM2)",
+      "definition": "Integumentary disorder due to vata and pitta (TM2)"
+    },
+    {
+      "code": "1012096783",
+      "display": "Psoriasis disorder (TM2)",
+      "definition": "Psoriasis disorder (TM2)"
+    },
+    {
+      "code": "1198676574",
+      "display": "Guttate psoriasis disorder (TM2)",
+      "definition": "Guttate psoriasis disorder (TM2)"
+    },
+    {
+      "code": "220575547",
+      "display": "Prurigo nodularis disorder (TM2)",
+      "definition": "Prurigo nodularis disorder (TM2)"
+    },
+    {
+      "code": "1658064274",
+      "display": "Multiple pruritic rashes disorder (TM2)",
+      "definition": "Multiple pruritic rashes disorder (TM2)"
+    },
+    {
+      "code": "406780387",
+      "display": "Ichthyosis disorder (TM2)",
+      "definition": "Ichthyosis disorder (TM2)"
+    },
+    {
+      "code": "1120438080",
+      "display": "Scaling of scalp and forehead skin disorder (TM2)",
+      "definition": "Scaling of scalp and forehead skin disorder (TM2)"
+    },
+    {
+      "code": "655567499",
+      "display": "Vitiligo disorder (TM2)",
+      "definition": "Vitiligo disorder (TM2)"
+    },
+    {
+      "code": "199920818",
+      "display": "Leucoderma disorder caused by increased Aẕal (TM2)",
+      "definition": "Leucoderma disorder caused by increased Aẕal (TM2)"
+    },
+    {
+      "code": "23538654",
+      "display": "Leucoderma disorder caused by increased heat (TM2)",
+      "definition": "Leucoderma disorder caused by increased heat (TM2)"
+    },
+    {
+      "code": "2133870995",
+      "display": "Lentigo disorder (TM2)",
+      "definition": "Lentigo disorder (TM2)"
+    },
+    {
+      "code": "1799833115",
+      "display": "Birth mark - bluish disorder (TM2)",
+      "definition": "Birth mark - bluish disorder (TM2)"
+    },
+    {
+      "code": "245164974",
+      "display": "Birth mark - blackish red disorder (TM2)",
+      "definition": "Birth mark - blackish red disorder (TM2)"
+    },
+    {
+      "code": "565648142",
+      "display": "Congenital black white patch disorder (TM2)",
+      "definition": "Congenital black white patch disorder (TM2)"
+    },
+    {
+      "code": "725269602",
+      "display": "Barley seed - macule disorder (TM2)",
+      "definition": "Barley seed - macule disorder (TM2)"
+    },
+    {
+      "code": "28021156",
+      "display": "Melasma disorder (TM2)",
+      "definition": "Melasma disorder (TM2)"
+    },
+    {
+      "code": "187053776",
+      "display": "Mole disorder (TM2)",
+      "definition": "Mole disorder (TM2)"
+    },
+    {
+      "code": "193038014",
+      "display": "Black red skin lesion disorder (TM2)",
+      "definition": "Black red skin lesion disorder (TM2)"
+    },
+    {
+      "code": "1535278887",
+      "display": "Pityriasis nigra disorder (TM2)",
+      "definition": "Pityriasis nigra disorder (TM2)"
+    },
+    {
+      "code": "1967864905",
+      "display": "Urticaria disorder (TM2)",
+      "definition": "Urticaria disorder (TM2)"
+    },
+    {
+      "code": "262260792",
+      "display": "Nocturnal urticaria disorder (TM2)",
+      "definition": "Nocturnal urticaria disorder (TM2)"
+    },
+    {
+      "code": "467060658",
+      "display": "Urticaria disorder with Kapha predominance (TM2)",
+      "definition": "Urticaria disorder with Kapha predominance (TM2)"
+    },
+    {
+      "code": "2114808325",
+      "display": "Wheal disorder (TM2)",
+      "definition": "Wheal disorder (TM2)"
+    },
+    {
+      "code": "1361484453",
+      "display": "Boil disorder (TM2)",
+      "definition": "Boil disorder (TM2)"
+    },
+    {
+      "code": "1537949129",
+      "display": "Boils in the axilla disorder (TM2)",
+      "definition": "Boils in the axilla disorder (TM2)"
+    },
+    {
+      "code": "1899630601",
+      "display": "Small blisters disorder (TM2)",
+      "definition": "Small blisters disorder (TM2)"
+    },
+    {
+      "code": "2075637605",
+      "display": "Prickly heat disorder (TM2)",
+      "definition": "Prickly heat disorder (TM2)"
+    },
+    {
+      "code": "2064647957",
+      "display": "Pemphigus vulgaris disorder (TM2)",
+      "definition": "Pemphigus vulgaris disorder (TM2)"
+    },
+    {
+      "code": "629643446",
+      "display": "Gas filled blisters disorder (TM2)",
+      "definition": "Gas filled blisters disorder (TM2)"
+    },
+    {
+      "code": "265948938",
+      "display": "Circular eruptions on neck and head disorder due to three dosha (TM2)",
+      "definition": "Circular eruptions on neck and head disorder due to three dosha (TM2)"
+    },
+    {
+      "code": "1428976087",
+      "display": "Skin disorder with broad based eruptions (TM2)",
+      "definition": "Skin disorder with broad based eruptions (TM2)"
+    },
+    {
+      "code": "801539496",
+      "display": "Elevated papule disorder (TM2)",
+      "definition": "Elevated papule disorder (TM2)"
+    },
+    {
+      "code": "1077362447",
+      "display": "Blood blister disorder (TM2)",
+      "definition": "Blood blister disorder (TM2)"
+    },
+    {
+      "code": "636261050",
+      "display": "Papules-lotus thorn disorder (TM2)",
+      "definition": "Papules-lotus thorn disorder (TM2)"
+    },
+    {
+      "code": "1379005742",
+      "display": "Acute spreading eruptions disorder (TM2)",
+      "definition": "Acute spreading eruptions disorder (TM2)"
+    },
+    {
+      "code": "1488736834",
+      "display": "Fig fruit like papules disorder (TM2)",
+      "definition": "Fig fruit like papules disorder (TM2)"
+    },
+    {
+      "code": "1017908949",
+      "display": "Bulb of lotus flower like skin lesion disorder (TM2)",
+      "definition": "Bulb of lotus flower like skin lesion disorder (TM2)"
+    },
+    {
+      "code": "908175801",
+      "display": "Lotus pod lesion disorder (TM2)",
+      "definition": "Lotus pod lesion disorder (TM2)"
+    },
+    {
+      "code": "914758089",
+      "display": "Pig-bite like skin lesion disorder (TM2)",
+      "definition": "Pig-bite like skin lesion disorder (TM2)"
+    },
+    {
+      "code": "2094134446",
+      "display": "Termitarium like skin lesion disorder (TM2)",
+      "definition": "Termitarium like skin lesion disorder (TM2)"
+    },
+    {
+      "code": "640125553",
+      "display": "Pityriasis alba disorder (TM2)",
+      "definition": "Pityriasis alba disorder (TM2)"
+    },
+    {
+      "code": "1556971008",
+      "display": "Annular reddish skin discoloration disorder (TM2)",
+      "definition": "Annular reddish skin discoloration disorder (TM2)"
+    },
+    {
+      "code": "859620521",
+      "display": "Blisters with burning sensation and thickened skin disorder (TM2)",
+      "definition": "Blisters with burning sensation and thickened skin disorder (TM2)"
+    }
+  ]
+}

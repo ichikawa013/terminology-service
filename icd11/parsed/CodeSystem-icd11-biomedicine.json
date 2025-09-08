@@ -1,0 +1,41 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "icd11-tm2",
+  "url": "http://id.who.int/icd/entity/146209201",
+  "version": "2025-09",
+  "name": "ICD11_TM2",
+  "status": "active",
+  "caseSensitive": true,
+  "content": "fragment",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns='http://www.w3.org/1999/xhtml'>ICD-11 TM2 CodeSystem generated from WHO API</div>"
+  },
+  "concept": [
+    {
+      "code": "915343154",
+      "display": "Fever of other or unknown origin",
+      "definition": "An abnormal elevation of body temperature of unknown origin, often as a result of a pathologic process. Fever of unknown origin is defined by the following criteria: 1) temperatures of >38.3°C on several occasions; 2) a duration of fever of >3 weeks; 3) failure to reach a diagnosis despite 1 week of inpatient investigation."
+    },
+    {
+      "code": "1435254666",
+      "display": "Certain infectious or parasitic diseases",
+      "definition": "This chapter includes certain conditions caused by pathogenic organisms or microorganisms, such as bacteria, viruses, parasites or fungi."
+    },
+    {
+      "code": "40398753",
+      "display": "Acute appendicitis",
+      "definition": "Acute inflammation and enlargement of the vermiform appendix. It has been recognised as one of the most common causes of severe acute abdominal pain worldwide. Most cases require appropriate medical treatment or removal of the inflamed appendix. If untreated, mortality is high, mainly because of the risk of rupture leading to peritonitis and shock. In this category acute appendicitis only due to common bacterial infection is included, and appendicitis due to specific organisms is ruled out from here, and described elsewhere."
+    },
+    {
+      "code": "761947693",
+      "display": "Essential hypertension",
+      "definition": "Essential (primary) hypertension, accounting for 95% of all cases of hypertension, is defined as high blood pressure for which a secondary cause cannot be found. Defined through the measurement of the blood pressure using cuff method with a sitting systolic blood pressure above 140mmHg or a sitting diastolic blood pressure above 90mmHg in three consequent measurements. No specific medical cause can be found."
+    },
+    {
+      "code": "1656445230",
+      "display": "Asthma",
+      "definition": "Asthma is a chronic inflammatory disorder of the airways in which many cells and cellular elements play a role. It is characterised by an increased responsiveness of the trachea and bronchi to various stimuli and manifested by a widespread narrowing of the airways that change in severity either spontaneously or as a result of therapy. This leads to recurrent episodes of wheezing, breathlessness, chest tightness, and coughing, particularly at night or in the early morning."
+    }
+  ]
+}
