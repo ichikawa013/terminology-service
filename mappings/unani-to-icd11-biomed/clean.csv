@@ -1,0 +1,51 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+unani-to-icd11-biomed,namaste-unani,A-2,Shaqīqa,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-2.1,Shaqīqa Ḥārra,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-2.2,Shaqīqa Bārida,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-3,‘Iṣāba,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-4,Ḥiss-i-Dimāgh,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5,Sarsām,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.1,Sarsām Damawī/ Qarānīṭus,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.2,Sarsām Ṣafrāwī/ Qarānīṭus Khāliṣ,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.3,Sarsām Sawdāwī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.4,Sarsām Balghamī/ Lītharghus,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.5,Sarsām Ḥaqīqī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-5.6,Sarsām Ghayr Ḥaqīqī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-6,Falghamūnī Dimāghī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-7,Shafāqalūs Dimāghī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-8,Ḥumra Dimāghiyya,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-9,‘Uṭāsh,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-10,Māshrā,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-11,Mā’ al-Ra’s,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12,Subāt,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.1,Subāt Sahrī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.2,Subāt Bārid,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.3,Subāt Ruṭūbī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.4,Subāt Damawī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.5,Subāt Bukhārī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.6,Subāt Ḍu‘fī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-12.7,Subāt Ḍarbī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-13,Sahar,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-13.1,Sahar Yābis,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-13.2,Sahar Ruṭūbī,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-14,Nisyān,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-14.1,Nisyān Bārid Raṭb,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-14.2,Nisyān Bārid Yābis,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-14.3,Nisyān Ḥārr Yābis,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-15,Ikhtlāṭ al-Dhahn,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-16,Hadhayān,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-17,Ḥumq,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-18,Ru‘ūnat,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19,Mālankhūliyā,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19.1,Mālankhūliyā Damawī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19.2,Mālankhūliyā Balghamī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19.4,Mālankhūliyā Sawdāwī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19.5,Quṭrub/ ‘Illa al-Dhi’b/ Junūn Dhi’bī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-19.6,Mālankhūliya Marāqī/ Nafkh Marāqī/ Marāqiyya/ ‘Illat Nāfikha/Sharsūfiya,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-20,Junūn/ Waswās,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-21,Māniyā/ Junūn Saba‘ī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-22,Dā’ al-Kalb,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-23,Ṣubārā,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-24,‘Ishq,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-25,Sadr-o-Duwār,icd11-biomed,761947693,Essential hypertension,1.000,equivalent
+unani-to-icd11-biomed,namaste-unani,A-25.1,Sadr-o-Duwār Dimāghī Damawī,icd11-biomed,761947693,Essential hypertension,1.000,equivalent

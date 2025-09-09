@@ -1,0 +1,468 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "ayurveda-to-icd11-tm2",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/ayurveda-to-icd11-tm2",
+  "version": "1.0.0",
+  "name": "AyurvedaToIcd11Tm2",
+  "title": "AyurvedaToIcd11Tm2 ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:00.757Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for ayurveda-to-icd11-tm2",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "AAB-13",
+          "display": "ATopaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1548101303",
+              "display": "Headache due to internal Rīḥ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "139252550",
+              "display": "Headache due to external Rīḥ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-14",
+          "display": "AkShepakaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "2068261090",
+              "display": "Trigeminal neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SK84-AAB-15",
+          "display": "uccaiHSrutiH (kEvalavAta)",
+          "target": [
+            {
+              "code": "28171409",
+              "display": "Headache due to smell disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-16",
+          "display": "udarAveShTaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "633371261",
+              "display": "Referred headache due to the involvement of the stomach disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "183208669",
+              "display": "Referred headache due to the involvement of the peritoneum disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-17",
+          "display": "udAvartaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "98365649",
+              "display": "Headache due to derangement of Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "793632017",
+              "display": "Headache due to derangement of Ṣafrā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-18",
+          "display": "UrustamBaH/ADhyavAtaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "473685200",
+              "display": "Headache due to derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-19",
+          "display": "UrusAdaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1550804057",
+              "display": "Headache due to excessive coldness disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-20",
+          "display": "ekA~ggarogaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1923491639",
+              "display": "Headache due to excessive hotness disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-21",
+          "display": "oShThaBedaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "2096962667",
+              "display": "Migraine disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SL02-AAB-22",
+          "display": "kaNThodhvaMsaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "267839437",
+              "display": "Headache due to external Bukhārāt disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-23",
+          "display": "karNaSUlaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "28171409",
+              "display": "Headache due to smell disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "2096962667",
+              "display": "Migraine disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-24",
+          "display": "kampaH/vepathuH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1550804057",
+              "display": "Headache due to excessive coldness disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-25-SM1Y",
+          "display": "kaShAyAsyatA (kEvalavAta)",
+          "target": [
+            {
+              "code": "2086317083",
+              "display": "Headache due to infestation disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SP97-AAB-26",
+          "display": "klamaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1456177627",
+              "display": "Headache due to internal Bukhārāt disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SN41-AAB-27",
+          "display": "kArShNyam (kEvalavAta)",
+          "target": [
+            {
+              "code": "256989117",
+              "display": "Inflammatory headache disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-28",
+          "display": "kubjatvam (kEvalavAta)",
+          "target": [
+            {
+              "code": "139252550",
+              "display": "Headache due to external Rīḥ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SP61-AAB-29",
+          "display": "kArSyam (kEvalavAta)",
+          "target": [
+            {
+              "code": "1548101303",
+              "display": "Headache due to internal Rīḥ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SN4C-AAB-30",
+          "display": "keSaBUmisPuTanam (kEvalavAta)",
+          "target": [
+            {
+              "code": "2086317083",
+              "display": "Headache due to infestation disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-31",
+          "display": "kha~jjaH/kha~jjatvam (kEvalavAta)",
+          "target": [
+            {
+              "code": "2096962667",
+              "display": "Migraine disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-32",
+          "display": "garBanASaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1456177627",
+              "display": "Headache due to internal Bukhārāt disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SP45-AAB-33",
+          "display": "grIvAstamBaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "2068261090",
+              "display": "Trigeminal neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-34",
+          "display": "gudaBraMSaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "183208669",
+              "display": "Referred headache due to the involvement of the peritoneum disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SM50-AAB-35",
+          "display": "gudArtiH (kEvalavAta)",
+          "target": [
+            {
+              "code": "1865426792",
+              "display": "Referred headache due to the involvement of the liver disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-36-SP1Y",
+          "display": "gulPa-grahaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "2096962667",
+              "display": "Migraine disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-37",
+          "display": "gRudhrasI (kEvalavAta)",
+          "target": [
+            {
+              "code": "2068261090",
+              "display": "Trigeminal neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "2096962667",
+              "display": "Migraine disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SK91-AAB-38",
+          "display": "ghrANanASaH/nAsAhuNDanam (kEvalavAta)",
+          "target": [
+            {
+              "code": "28171409",
+              "display": "Headache due to smell disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-39SP1Y",
+          "display": "jAnuBedaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "473685200",
+              "display": "Headache due to derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB-40-SP1Y",
+          "display": "jAnuviSleShaH (kEvalavAta)",
+          "target": [
+            {
+              "code": "2044752251",
+              "display": "Headache due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-2.8.13",
+          "display": "pretonmAdaH",
+          "target": [
+            {
+              "code": "799425295",
+              "display": "Paroxysmal disorders (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "SK31-EM-3",
+          "display": "apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "462864539",
+              "display": "Seizure disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.1",
+          "display": "apasmAra-pUrvarUpam",
+          "target": [
+            {
+              "code": "462864539",
+              "display": "Seizure disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.2",
+          "display": "vAtaja-apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.3",
+          "display": "pittaja-apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.4",
+          "display": "kaPaja-apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.5",
+          "display": "sAnnipAtaja-apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-3.6",
+          "display": "Agantuja-apasmAraH",
+          "target": [
+            {
+              "code": "1630797216",
+              "display": "Epilepsy disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1259751946",
+              "display": "Post-traumatic convulsion disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EM-5.1",
+          "display": "vAtajamadAtyayaH",
+          "target": [
+            {
+              "code": "462864539",
+              "display": "Seizure disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

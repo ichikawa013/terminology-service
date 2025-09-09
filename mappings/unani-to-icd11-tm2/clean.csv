@@ -1,0 +1,90 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+unani-to-icd11-tm2,namaste-unani,A-27.2,Kābūs Balghamī,icd11-tm2,98365649,Headache due to derangement of Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,A-27.2,Kābūs Balghamī,icd11-tm2,1212870157,Vertigo and giddiness due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,A-27.2,Kābūs Balghamī,icd11-tm2,1315700352,Stroke due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,B-74,Dam‘a,icd11-tm2,473685200,Headache due to derangement of Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,B-74,Dam‘a,icd11-tm2,1120356705,Vertigo and giddiness due to Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,B-74,Dam‘a,icd11-tm2,644256033,Conjunctivitis derangement of Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-9,Ḍu‘f al-Haḍm,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-9,Ḍu‘f al-Haḍm,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-9,Ḍu‘f al-Haḍm,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-10,Fasād al-Haḍm/ Sū’ al-Haḍm,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,F-10,Fasād al-Haḍm/ Sū’ al-Haḍm,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,F-10,Fasād al-Haḍm/ Sū’ al-Haḍm,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,F-12,Buṭlān al-Haḍm,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-12,Buṭlān al-Haḍm,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-12,Buṭlān al-Haḍm,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-84,Ḍu‘f al-Am‘ā’,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-84,Ḍu‘f al-Am‘ā’,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-84,Ḍu‘f al-Am‘ā’,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-95,Dīdān al-Am‘ā’,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-95,Dīdān al-Am‘ā’,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,F-95,Dīdān al-Am‘ā’,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,H-1,Ḍu‘f al-Bāh,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,H-1,Ḍu‘f al-Bāh,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,H-1,Ḍu‘f al-Bāh,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,M-27,Dā’ al-Fīl,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,M-27,Dā’ al-Fīl,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,M-27,Dā’ al-Fīl,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.1,Dam,icd11-tm2,473685200,Headache due to derangement of Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.1,Dam,icd11-tm2,1120356705,Vertigo and giddiness due to Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.1,Dam,icd11-tm2,644256033,Conjunctivitis derangement of Dam disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.2,Balgham,icd11-tm2,98365649,Headache due to derangement of Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.2,Balgham,icd11-tm2,1212870157,Vertigo and giddiness due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.2,Balgham,icd11-tm2,1315700352,Stroke due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.3,Ṣafrā’,icd11-tm2,793632017,Headache due to derangement of Ṣafrā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.3,Ṣafrā’,icd11-tm2,1113651473,Vertigo and giddiness due to Ṣafrā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.3,Ṣafrā’,icd11-tm2,840015529,Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.4,Sawdā’,icd11-tm2,2044752251,Headache due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.4,Sawdā’,icd11-tm2,137827444,Vertigo and giddiness due to Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-2.3.4,Sawdā’,icd11-tm2,1948824392,Epilepsy due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-13.6,Balgham Mā’ī,icd11-tm2,98365649,Headache due to derangement of Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-13.6,Balgham Mā’ī,icd11-tm2,1212870157,Vertigo and giddiness due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-13.6,Balgham Mā’ī,icd11-tm2,1315700352,Stroke due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-15.4,Sawdā’ Sawdāwī,icd11-tm2,2044752251,Headache due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-15.4,Sawdā’ Sawdāwī,icd11-tm2,137827444,Vertigo and giddiness due to Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-15.4,Sawdā’ Sawdāwī,icd11-tm2,1948824392,Epilepsy due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-113,Al-Bawl al-‘Adīm al-Rā’iḥa,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-113,Al-Bawl al-‘Adīm al-Rā’iḥa,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-113,Al-Bawl al-‘Adīm al-Rā’iḥa,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-159,Al-Nafth al-Aḥmar al-Nāṣi‘,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-159,Al-Nafth al-Aḥmar al-Nāṣi‘,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-159,Al-Nafth al-Aḥmar al-Nāṣi‘,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.784,related
+unani-to-icd11-tm2,namaste-unani,O-184,Al-Badan al-Ḍa‘īf,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-184,Al-Badan al-Ḍa‘īf,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-184,Al-Badan al-Ḍa‘īf,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-329,Taḥrīk-i-A‘ṣāb,icd11-tm2,203655634,Ear disorder due to vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-329,Taḥrīk-i-A‘ṣāb,icd11-tm2,181338099,Diarrhoea disorder due only to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-329,Taḥrīk-i-A‘ṣāb,icd11-tm2,1015811254,Polyuria disorder due to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-395,Ta‘ṭīs,icd11-tm2,203655634,Ear disorder due to vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-395,Ta‘ṭīs,icd11-tm2,181338099,Diarrhoea disorder due only to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-395,Ta‘ṭīs,icd11-tm2,1015811254,Polyuria disorder due to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-412,Ta‘rīq,icd11-tm2,203655634,Ear disorder due to vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-412,Ta‘rīq,icd11-tm2,181338099,Diarrhoea disorder due only to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-412,Ta‘rīq,icd11-tm2,1015811254,Polyuria disorder due to Vāta (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-423,Riyāḍat,icd11-tm2,678874078,Gastralgia due to Riyāḥ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-423,Riyāḍat,icd11-tm2,1664819533,Collection of Riyāḥ into the liver disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-538,Al-Mā’ al-‘Adhb,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-538,Al-Mā’ al-‘Adhb,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-538,Al-Mā’ al-‘Adhb,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-539,Al-Mā’ al-Māliḥ,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-539,Al-Mā’ al-Māliḥ,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-539,Al-Mā’ al-Māliḥ,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,O-565,Ḥifẓ Ṣiḥḥa al-A‘ḍā',icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-565,Ḥifẓ Ṣiḥḥa al-A‘ḍā',icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-565,Ḥifẓ Ṣiḥḥa al-A‘ḍā',icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-576,Ḥifẓ Ṣiḥḥa al-Am‘ā’,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-576,Ḥifẓ Ṣiḥḥa al-Am‘ā’,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,O-576,Ḥifẓ Ṣiḥḥa al-Am‘ā’,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,Q,‘Alāmāt,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,Q,‘Alāmāt,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,Q,‘Alāmāt,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,A-27.4,Kābūs Sawdāwī,icd11-tm2,2044752251,Headache due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,A-27.4,Kābūs Sawdāwī,icd11-tm2,137827444,Vertigo and giddiness due to Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,A-27.4,Kābūs Sawdāwī,icd11-tm2,1948824392,Epilepsy due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,C-5.1,Ṭanīn Balghamī,icd11-tm2,98365649,Headache due to derangement of Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,C-5.1,Ṭanīn Balghamī,icd11-tm2,1212870157,Vertigo and giddiness due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,C-5.1,Ṭanīn Balghamī,icd11-tm2,1315700352,Stroke due to Balgham disorder (TM2),1.000,equivalent
+unani-to-icd11-tm2,namaste-unani,Q-1,Al- ‘Araḍ/Al-A‘rāḍ,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,Q-1,Al- ‘Araḍ/Al-A‘rāḍ,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),0.765,related
+unani-to-icd11-tm2,namaste-unani,Q-1,Al- ‘Araḍ/Al-A‘rāḍ,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),0.765,related

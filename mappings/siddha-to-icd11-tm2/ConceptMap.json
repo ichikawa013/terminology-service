@@ -1,0 +1,1024 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "siddha-to-icd11-tm2",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/siddha-to-icd11-tm2",
+  "version": "1.0.0",
+  "name": "SiddhaToIcd11Tm2",
+  "title": "SiddhaToIcd11Tm2 ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:24.418Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for siddha-to-icd11-tm2",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-siddha",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "DIS",
+          "display": "Disorder",
+          "target": [
+            {
+              "code": "1477455511",
+              "display": "Splitting pain of forehead disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1488428775",
+              "display": "Cephalalgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "316699522",
+              "display": "Heaviness of head disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ADD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AED",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "CAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DCD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EED",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EFD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EGD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EHD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EID",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EJD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "FAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "FBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GFD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HCD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JCB1.1",
+          "display": "Aẕal Ūẕi",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JCC1.1",
+          "display": "Aiya Ūẕi",
+          "target": [
+            {
+              "code": "2065018174",
+              "display": "Aiya aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1214940578",
+              "display": "\"Jaundice disorder due to increased Vaḷi",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "JDD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KDD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KED",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KFD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KHD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "LAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "LBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NDD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PCD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PDD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "QAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RED",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RGD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RJD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TMD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TOD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "VAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "WBD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XDD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "YAD",
+          "display": "Mukkuṟṟam",
+          "target": [
+            {
+              "code": "633060687",
+              "display": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1809663796",
+              "display": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "443509835",
+              "display": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "unani-to-icd11-biomed",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/unani-to-icd11-biomed",
+  "version": "1.0.0",
+  "name": "UnaniToIcd11Biomed",
+  "title": "UnaniToIcd11Biomed ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:57.507Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for unani-to-icd11-biomed",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-unani",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "A-2",
+          "display": "Shaqīqa",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-2.1",
+          "display": "Shaqīqa Ḥārra",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-2.2",
+          "display": "Shaqīqa Bārida",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-3",
+          "display": "‘Iṣāba",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-4",
+          "display": "Ḥiss-i-Dimāgh",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5",
+          "display": "Sarsām",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.1",
+          "display": "Sarsām Damawī/ Qarānīṭus",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.2",
+          "display": "Sarsām Ṣafrāwī/ Qarānīṭus Khāliṣ",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.3",
+          "display": "Sarsām Sawdāwī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.4",
+          "display": "Sarsām Balghamī/ Lītharghus",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.5",
+          "display": "Sarsām Ḥaqīqī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-5.6",
+          "display": "Sarsām Ghayr Ḥaqīqī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-6",
+          "display": "Falghamūnī Dimāghī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-7",
+          "display": "Shafāqalūs Dimāghī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-8",
+          "display": "Ḥumra Dimāghiyya",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-9",
+          "display": "‘Uṭāsh",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-10",
+          "display": "Māshrā",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-11",
+          "display": "Mā’ al-Ra’s",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12",
+          "display": "Subāt",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.1",
+          "display": "Subāt Sahrī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.2",
+          "display": "Subāt Bārid",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.3",
+          "display": "Subāt Ruṭūbī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.4",
+          "display": "Subāt Damawī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.5",
+          "display": "Subāt Bukhārī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.6",
+          "display": "Subāt Ḍu‘fī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-12.7",
+          "display": "Subāt Ḍarbī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-13",
+          "display": "Sahar",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-13.1",
+          "display": "Sahar Yābis",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-13.2",
+          "display": "Sahar Ruṭūbī",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-14",
+          "display": "Nisyān",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-14.1",
+          "display": "Nisyān Bārid Raṭb",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-14.2",
+          "display": "Nisyān Bārid Yābis",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-14.3",
+          "display": "Nisyān Ḥārr Yābis",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-15",
+          "display": "Ikhtlāṭ al-Dhahn",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-16",
+          "display": "Hadhayān",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-17",
+          "display": "Ḥumq",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-18",
+          "display": "Ru‘ūnat",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19",
+          "display": "Mālankhūliyā",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19.1",
+          "display": "Mālankhūliyā Damawī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19.2",
+          "display": "Mālankhūliyā Balghamī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19.4",
+          "display": "Mālankhūliyā Sawdāwī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19.5",
+          "display": "Quṭrub/ ‘Illa al-Dhi’b/ Junūn Dhi’bī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-19.6",
+          "display": "Mālankhūliya Marāqī/ Nafkh Marāqī/ Marāqiyya/ ‘Illat Nāfikha/Sharsūfiya",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-20",
+          "display": "Junūn/ Waswās",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-21",
+          "display": "Māniyā/ Junūn Saba‘ī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-22",
+          "display": "Dā’ al-Kalb",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-23",
+          "display": "Ṣubārā",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-24",
+          "display": "‘Ishq",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-25",
+          "display": "Sadr-o-Duwār",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-25.1",
+          "display": "Sadr-o-Duwār Dimāghī Damawī",
+          "target": [
+            {
+              "code": "761947693",
+              "display": "Essential hypertension",
+              "relationship": "equivalent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

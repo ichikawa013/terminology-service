@@ -1,0 +1,2 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+ayurveda-to-icd11-biomed,namaste-ayurveda,SP51EC-3,jvaraH,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent

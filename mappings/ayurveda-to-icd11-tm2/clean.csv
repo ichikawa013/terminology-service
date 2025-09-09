@@ -1,0 +1,46 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-13,ATopaH (kEvalavAta),icd11-tm2,1548101303,Headache due to internal Rīḥ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-13,ATopaH (kEvalavAta),icd11-tm2,139252550,Headache due to external Rīḥ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-14,AkShepakaH (kEvalavAta),icd11-tm2,2068261090,Trigeminal neuralgia disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SK84-AAB-15,uccaiHSrutiH (kEvalavAta),icd11-tm2,28171409,Headache due to smell disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-16,udarAveShTaH (kEvalavAta),icd11-tm2,633371261,Referred headache due to the involvement of the stomach disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-16,udarAveShTaH (kEvalavAta),icd11-tm2,183208669,Referred headache due to the involvement of the peritoneum disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-17,udAvartaH (kEvalavAta),icd11-tm2,98365649,Headache due to derangement of Balgham disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-17,udAvartaH (kEvalavAta),icd11-tm2,793632017,Headache due to derangement of Ṣafrā’ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-18,UrustamBaH/ADhyavAtaH (kEvalavAta),icd11-tm2,473685200,Headache due to derangement of Dam disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-19,UrusAdaH (kEvalavAta),icd11-tm2,1550804057,Headache due to excessive coldness disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-20,ekA~ggarogaH (kEvalavAta),icd11-tm2,1923491639,Headache due to excessive hotness disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-21,oShThaBedaH (kEvalavAta),icd11-tm2,2096962667,Migraine disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SL02-AAB-22,kaNThodhvaMsaH (kEvalavAta),icd11-tm2,267839437,Headache due to external Bukhārāt disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-23,karNaSUlaH (kEvalavAta),icd11-tm2,28171409,Headache due to smell disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-23,karNaSUlaH (kEvalavAta),icd11-tm2,2096962667,Migraine disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-24,kampaH/vepathuH (kEvalavAta),icd11-tm2,1550804057,Headache due to excessive coldness disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-25-SM1Y,kaShAyAsyatA (kEvalavAta),icd11-tm2,2086317083,Headache due to infestation disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SP97-AAB-26,klamaH (kEvalavAta),icd11-tm2,1456177627,Headache due to internal Bukhārāt disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SN41-AAB-27,kArShNyam (kEvalavAta),icd11-tm2,256989117,Inflammatory headache disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-28,kubjatvam (kEvalavAta),icd11-tm2,139252550,Headache due to external Rīḥ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SP61-AAB-29,kArSyam (kEvalavAta),icd11-tm2,1548101303,Headache due to internal Rīḥ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SN4C-AAB-30,keSaBUmisPuTanam (kEvalavAta),icd11-tm2,2086317083,Headache due to infestation disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-31,kha~jjaH/kha~jjatvam (kEvalavAta),icd11-tm2,2096962667,Migraine disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-32,garBanASaH (kEvalavAta),icd11-tm2,1456177627,Headache due to internal Bukhārāt disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SP45-AAB-33,grIvAstamBaH (kEvalavAta),icd11-tm2,2068261090,Trigeminal neuralgia disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-34,gudaBraMSaH (kEvalavAta),icd11-tm2,183208669,Referred headache due to the involvement of the peritoneum disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SM50-AAB-35,gudArtiH (kEvalavAta),icd11-tm2,1865426792,Referred headache due to the involvement of the liver disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-36-SP1Y,gulPa-grahaH (kEvalavAta),icd11-tm2,2096962667,Migraine disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-37,gRudhrasI (kEvalavAta),icd11-tm2,2068261090,Trigeminal neuralgia disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-37,gRudhrasI (kEvalavAta),icd11-tm2,2096962667,Migraine disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SK91-AAB-38,ghrANanASaH/nAsAhuNDanam (kEvalavAta),icd11-tm2,28171409,Headache due to smell disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-39SP1Y,jAnuBedaH (kEvalavAta),icd11-tm2,473685200,Headache due to derangement of Dam disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,AAB-40-SP1Y,jAnuviSleShaH (kEvalavAta),icd11-tm2,2044752251,Headache due to derangement of Sawdā’ disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-2.8.13,pretonmAdaH,icd11-tm2,799425295,Paroxysmal disorders (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SK31-EM-3,apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,SK31-EM-3,apasmAraH,icd11-tm2,462864539,Seizure disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.1,apasmAra-pUrvarUpam,icd11-tm2,462864539,Seizure disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.1,apasmAra-pUrvarUpam,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.2,vAtaja-apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.3,pittaja-apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.4,kaPaja-apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.5,sAnnipAtaja-apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.6,Agantuja-apasmAraH,icd11-tm2,1630797216,Epilepsy disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-3.6,Agantuja-apasmAraH,icd11-tm2,1259751946,Post-traumatic convulsion disorder (TM2),1.000,equivalent
+ayurveda-to-icd11-tm2,namaste-ayurveda,EM-5.1,vAtajamadAtyayaH,icd11-tm2,462864539,Seizure disorder (TM2),1.000,equivalent

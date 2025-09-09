@@ -1,0 +1,165 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+siddha-to-icd11-biomed,namaste-siddha,A,Vaḷarcitai Māṟṟa Nōykaḷ,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AA,Kallīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AAB1.1,Aẕal Kallīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AAC1,Aiya Kallīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AB,Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABA1.2,Kumpa Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.1,Aẕal Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.2,Aẕal Aiya Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.3,Ūtu Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.4,Vaṟaṭṭu Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.5,Peru Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.6,Aẕaku Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABB1.7,Ceṅkamala Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABC1.1,Aiya Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ABC1.2,Kuṉma Mañcaḷ Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACA1.1,Vaḷi Maṇṇīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACB1.1,Aẕal Maṇṇīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACC1.1,Aiya Maṇṇīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ACD1.1,Mukkuṟṟa Maṇṇīral Nōy,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ADB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ADC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AEB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,AEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BEB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BGB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BHB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BNC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BQC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BSC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BTC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,BVC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,CAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,CAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,DDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ECB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EEB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EFB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EGB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EGC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EHB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EHC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EIB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EIC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EJB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,EJC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GAA,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GFB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GGB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GHB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,GHC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HBC1.4,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,HDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,JDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KEB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KFB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KHB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,KHC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,LAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,LBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,LBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,MCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,MDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,MDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,MEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NEB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,NEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,PAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,PAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,QAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,QAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RBB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RFB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RGB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RGC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RHC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ROB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ROC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RPB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RPC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RQB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RQC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RRB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,RRC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TCB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TCC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TEC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TFB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TFC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TIB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TLB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TMB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,TMC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,VAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,VAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,WAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,WAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,WBC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,XAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,XAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,XDB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,XDC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,YAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,YAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ZAB,Aẕal,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent
+siddha-to-icd11-biomed,namaste-siddha,ZAC,Aiyam,icd11-biomed,915343154,Fever of other or unknown origin,1.000,equivalent

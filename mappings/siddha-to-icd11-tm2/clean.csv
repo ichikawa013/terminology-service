@@ -1,0 +1,144 @@
+dataset,source_system,source_code,source_display,target_system,target_code,target_display,similarity,map_type
+siddha-to-icd11-tm2,namaste-siddha,DIS,Disorder,icd11-tm2,1477455511,Splitting pain of forehead disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DIS,Disorder,icd11-tm2,1488428775,Cephalalgia disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DIS,Disorder,icd11-tm2,316699522,Heaviness of head disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ABD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ABD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ABD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ACD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ACD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ACD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ADD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ADD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,ADD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,AED,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,AED,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,AED,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,CAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,CAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,CAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DCD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DCD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,DCD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EED,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EED,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EED,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EFD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EFD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EFD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EGD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EGD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EGD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EHD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EHD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EHD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EID,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EID,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EID,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EJD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EJD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,EJD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,FBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,GFD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,GFD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,GFD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HCD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HCD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,HCD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JCB1.1,Aẕal Ūẕi,icd11-tm2,1640417330,Aggrevation of Aẕal causing neuralgia disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JCB1.1,Aẕal Ūẕi,icd11-tm2,858983158,Aggrevation of Aẕal causing tremors disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JCB1.1,Aẕal Ūẕi,icd11-tm2,1515966870,Pain in the ears due to aggrevation of Aẕal disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JCC1.1,Aiya Ūẕi,icd11-tm2,2065018174,Aiya aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JCC1.1,Aiya Ūẕi,icd11-tm2,1214940578,"Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)",1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JDD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JDD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,JDD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KDD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KDD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KDD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KED,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KED,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KED,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KFD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KFD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KFD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KHD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KHD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,KHD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,LBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,NDD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,NDD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,NDD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PCD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PCD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PCD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PDD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PDD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,PDD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,QAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,QAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,QAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RED,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RED,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RED,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RGD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RGD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RGD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RJD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RJD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,RJD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TMD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TMD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TMD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TOD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TOD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,TOD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,VAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,VAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,VAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,WBD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,WBD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,WBD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XDD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XDD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,XDD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,YAD,Mukkuṟṟam,icd11-tm2,633060687,Mukkuṟṟam aggravation and headache disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,YAD,Mukkuṟṟam,icd11-tm2,1809663796,Cough due to derangement of Mukkuṟṟam disorder (TM2),1.000,equivalent
+siddha-to-icd11-tm2,namaste-siddha,YAD,Mukkuṟṟam,icd11-tm2,443509835,Loose stools disorder caused by derangement of Mukkuṟṟam (TM2),1.000,equivalent

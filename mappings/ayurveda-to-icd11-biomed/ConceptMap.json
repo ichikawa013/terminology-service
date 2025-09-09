@@ -1,0 +1,32 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "ayurveda-to-icd11-biomed",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/ayurveda-to-icd11-biomed",
+  "version": "1.0.0",
+  "name": "AyurvedaToIcd11Biomed",
+  "title": "AyurvedaToIcd11Biomed ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:57.224Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for ayurveda-to-icd11-biomed",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "SP51EC-3",
+          "display": "jvaraH",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

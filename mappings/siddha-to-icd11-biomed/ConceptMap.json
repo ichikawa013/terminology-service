@@ -1,0 +1,1825 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "siddha-to-icd11-biomed",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/siddha-to-icd11-biomed",
+  "version": "1.0.0",
+  "name": "SiddhaToIcd11Biomed",
+  "title": "SiddhaToIcd11Biomed ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:57.338Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for siddha-to-icd11-biomed",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-siddha",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "A",
+          "display": "Vaḷarcitai Māṟṟa Nōykaḷ",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AA",
+          "display": "Kallīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAB1.1",
+          "display": "Aẕal Kallīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AAC1",
+          "display": "Aiya Kallīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AB",
+          "display": "Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABA1.2",
+          "display": "Kumpa Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.1",
+          "display": "Aẕal Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.2",
+          "display": "Aẕal Aiya Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.3",
+          "display": "Ūtu Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.4",
+          "display": "Vaṟaṭṭu Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.5",
+          "display": "Peru Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.6",
+          "display": "Aẕaku Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABB1.7",
+          "display": "Ceṅkamala Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABC1.1",
+          "display": "Aiya Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ABC1.2",
+          "display": "Kuṉma Mañcaḷ Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACA1.1",
+          "display": "Vaḷi Maṇṇīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACB1.1",
+          "display": "Aẕal Maṇṇīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACC1.1",
+          "display": "Aiya Maṇṇīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ACD1.1",
+          "display": "Mukkuṟṟa Maṇṇīral Nōy",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ADB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ADC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AEB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "AEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BEB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BGB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BHB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BNC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BQC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BSC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BTC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "BVC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "CAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "CAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "DDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ECB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EEB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EFB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EGB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EGC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EHB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EHC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EIB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EIC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EJB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "EJC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GAA",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GFB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GGB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GHB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "GHC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HBC1.4",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "HDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "JDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KEB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KFB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KHB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "KHC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "LAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "LBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "LBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "MCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "MDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "MDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "MEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NEB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "NEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "PAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "QAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "QAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RBB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RFB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RGB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RGC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RHC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ROB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ROC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RPB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RPC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RQB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RQC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RRB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "RRC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TCB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TCC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TEC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TFB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TFC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TIB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TLB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TMB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "TMC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "VAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "VAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "WAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "WAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "WBC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XDB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "XDC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "YAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "YAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ZAB",
+          "display": "Aẕal",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "ZAC",
+          "display": "Aiyam",
+          "target": [
+            {
+              "code": "915343154",
+              "display": "Fever of other or unknown origin",
+              "relationship": "equivalent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

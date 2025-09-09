@@ -1,0 +1,646 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "unani-to-icd11-tm2",
+  "url": "http://namaste.gov.in/fhir/ConceptMap/unani-to-icd11-tm2",
+  "version": "1.0.0",
+  "name": "UnaniToIcd11Tm2",
+  "title": "UnaniToIcd11Tm2 ConceptMap",
+  "status": "draft",
+  "experimental": true,
+  "date": "2025-09-08T19:17:57.091Z",
+  "publisher": "NAMASTE Terms Team",
+  "description": "Auto-generated ConceptMap for unani-to-icd11-tm2",
+  "group": [
+    {
+      "source": "http://namaste.gov.in/fhir/CodeSystem/namaste-unani",
+      "target": "http://id.who.int/icd/release/11/mms",
+      "element": [
+        {
+          "code": "A-27.2",
+          "display": "Kābūs Balghamī",
+          "target": [
+            {
+              "code": "98365649",
+              "display": "Headache due to derangement of Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1212870157",
+              "display": "Vertigo and giddiness due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1315700352",
+              "display": "Stroke due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "B-74",
+          "display": "Dam‘a",
+          "target": [
+            {
+              "code": "473685200",
+              "display": "Headache due to derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1120356705",
+              "display": "Vertigo and giddiness due to Dam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "644256033",
+              "display": "Conjunctivitis derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "F-9",
+          "display": "Ḍu‘f al-Haḍm",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "F-10",
+          "display": "Fasād al-Haḍm/ Sū’ al-Haḍm",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "F-12",
+          "display": "Buṭlān al-Haḍm",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "F-84",
+          "display": "Ḍu‘f al-Am‘ā’",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "F-95",
+          "display": "Dīdān al-Am‘ā’",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "H-1",
+          "display": "Ḍu‘f al-Bāh",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "M-27",
+          "display": "Dā’ al-Fīl",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-2.3.1",
+          "display": "Dam",
+          "target": [
+            {
+              "code": "473685200",
+              "display": "Headache due to derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1120356705",
+              "display": "Vertigo and giddiness due to Dam disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "644256033",
+              "display": "Conjunctivitis derangement of Dam disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-2.3.2",
+          "display": "Balgham",
+          "target": [
+            {
+              "code": "98365649",
+              "display": "Headache due to derangement of Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1212870157",
+              "display": "Vertigo and giddiness due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1315700352",
+              "display": "Stroke due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-2.3.3",
+          "display": "Ṣafrā’",
+          "target": [
+            {
+              "code": "793632017",
+              "display": "Headache due to derangement of Ṣafrā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1113651473",
+              "display": "Vertigo and giddiness due to Ṣafrā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "840015529",
+              "display": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-2.3.4",
+          "display": "Sawdā’",
+          "target": [
+            {
+              "code": "2044752251",
+              "display": "Headache due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "137827444",
+              "display": "Vertigo and giddiness due to Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1948824392",
+              "display": "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-13.6",
+          "display": "Balgham Mā’ī",
+          "target": [
+            {
+              "code": "98365649",
+              "display": "Headache due to derangement of Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1212870157",
+              "display": "Vertigo and giddiness due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1315700352",
+              "display": "Stroke due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-15.4",
+          "display": "Sawdā’ Sawdāwī",
+          "target": [
+            {
+              "code": "2044752251",
+              "display": "Headache due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "137827444",
+              "display": "Vertigo and giddiness due to Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1948824392",
+              "display": "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-113",
+          "display": "Al-Bawl al-‘Adīm al-Rā’iḥa",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "O-159",
+          "display": "Al-Nafth al-Aḥmar al-Nāṣi‘",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "O-184",
+          "display": "Al-Badan al-Ḍa‘īf",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "O-329",
+          "display": "Taḥrīk-i-A‘ṣāb",
+          "target": [
+            {
+              "code": "203655634",
+              "display": "Ear disorder due to vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "181338099",
+              "display": "Diarrhoea disorder due only to Vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1015811254",
+              "display": "Polyuria disorder due to Vāta (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-395",
+          "display": "Ta‘ṭīs",
+          "target": [
+            {
+              "code": "203655634",
+              "display": "Ear disorder due to vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "181338099",
+              "display": "Diarrhoea disorder due only to Vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1015811254",
+              "display": "Polyuria disorder due to Vāta (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-412",
+          "display": "Ta‘rīq",
+          "target": [
+            {
+              "code": "203655634",
+              "display": "Ear disorder due to vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "181338099",
+              "display": "Diarrhoea disorder due only to Vāta (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1015811254",
+              "display": "Polyuria disorder due to Vāta (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-423",
+          "display": "Riyāḍat",
+          "target": [
+            {
+              "code": "678874078",
+              "display": "Gastralgia due to Riyāḥ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1664819533",
+              "display": "Collection of Riyāḥ into the liver disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-538",
+          "display": "Al-Mā’ al-‘Adhb",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "O-539",
+          "display": "Al-Mā’ al-Māliḥ",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        },
+        {
+          "code": "O-565",
+          "display": "Ḥifẓ Ṣiḥḥa al-A‘ḍā'",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "O-576",
+          "display": "Ḥifẓ Ṣiḥḥa al-Am‘ā’",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "Q",
+          "display": "‘Alāmāt",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "A-27.4",
+          "display": "Kābūs Sawdāwī",
+          "target": [
+            {
+              "code": "2044752251",
+              "display": "Headache due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "137827444",
+              "display": "Vertigo and giddiness due to Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1948824392",
+              "display": "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "C-5.1",
+          "display": "Ṭanīn Balghamī",
+          "target": [
+            {
+              "code": "98365649",
+              "display": "Headache due to derangement of Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1212870157",
+              "display": "Vertigo and giddiness due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            },
+            {
+              "code": "1315700352",
+              "display": "Stroke due to Balgham disorder (TM2)",
+              "relationship": "equivalent"
+            }
+          ]
+        },
+        {
+          "code": "Q-1",
+          "display": "Al- ‘Araḍ/Al-A‘rāḍ",
+          "target": [
+            {
+              "code": "1640417330",
+              "display": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "858983158",
+              "display": "Aggrevation of Aẕal causing tremors disorder (TM2)",
+              "relationship": "related-to"
+            },
+            {
+              "code": "1515966870",
+              "display": "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+              "relationship": "related-to"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
