@@ -1,8 +1,10 @@
 import { PrismaClient } from "@prisma/client";
 import fs from "fs-extra";
+import path from "path";
 
 const prisma = new PrismaClient();
 
+// ------------------- IMPORT CODESYSTEM -------------------
 async function importCodeSystem(filePath) {
   const codeSystem = await fs.readJson(filePath);
 
@@ -14,7 +16,7 @@ async function importCodeSystem(filePath) {
 
     if (existing) {
       console.log(
-        `⚠️ Skipped ${filePath} – version ${codeSystem.version} already exists`
+        `⚠️ Skipped CodeSystem ${filePath} – version ${codeSystem.version} already exists`
       );
       return;
     }
@@ -24,7 +26,7 @@ async function importCodeSystem(filePath) {
       new Map(codeSystem.concept.map((c) => [c.code, c])).values()
     );
 
-    // ✅ Insert with version + timestamp
+    // ✅ Insert CodeSystem + Concepts
     await prisma.codeSystem.create({
       data: {
         id: codeSystem.id,
@@ -38,27 +40,67 @@ async function importCodeSystem(filePath) {
           create: uniqueConcepts.map((c) => ({
             code: String(c.code),
             display: String(c.display ?? ""),
-            definition:
-              c.definition !== undefined && c.definition !== null
-                ? String(c.definition)
-                : null,
-            designations: c.designation ? JSON.stringify(c.designation) : null,
-            properties: c.property ? JSON.stringify(c.property) : null,
+            definition: c.definition ?? null,
+            designations: c.designation ?? null,
+            properties: c.property ?? null,
           })),
         },
       },
     });
 
     console.log(
-      `✅ Imported ${filePath} version ${codeSystem.version} into DB with ${uniqueConcepts.length} concepts`
+      `✅ Imported CodeSystem ${filePath} version ${codeSystem.version} with ${uniqueConcepts.length} concepts`
     );
   } catch (err) {
-    console.error(`❌ Failed to import ${filePath}:`, err.message);
+    console.error(`❌ Failed to import CodeSystem ${filePath}:`, err.message);
   }
 }
 
+// ------------------- IMPORT CONCEPTMAP -------------------
+async function importConceptMap(filePath) {
+  const conceptMap = await fs.readJson(filePath);
+
+  try {
+    const existing = await prisma.conceptMap.findFirst({
+      where: { id: conceptMap.id, version: conceptMap.version },
+    });
+
+    if (existing) {
+      console.log(
+        `⚠️ Skipped ConceptMap ${filePath} – version ${conceptMap.version} already exists`
+      );
+      return;
+    }
+
+    // Extract source + target system
+    const group = conceptMap.group?.[0] ?? {};
+    const sourceSystem = group.source ?? "unknown";
+    const targetSystem = group.target ?? "unknown";
+
+    // ✅ Insert ConceptMap with raw JSON
+    await prisma.conceptMap.create({
+      data: {
+        id: conceptMap.id,
+        url: conceptMap.url,
+        version: conceptMap.version,
+        sourceSystem,
+        targetSystem,
+        json: conceptMap,
+        importedAt: new Date(),
+      },
+    });
+
+    console.log(
+      `✅ Imported ConceptMap ${filePath} version ${conceptMap.version} (${sourceSystem} → ${targetSystem})`
+    );
+  } catch (err) {
+    console.error(`❌ Failed to import ConceptMap ${filePath}:`, err.message);
+  }
+}
+
+// ------------------- MAIN -------------------
 async function main() {
-  const files = [
+  const codeSystemFiles = [
     "fhir/CodeSystem-ayurveda.json",
     "fhir/CodeSystem-siddha.json",
     "fhir/CodeSystem-unani.json",
@@ -67,8 +109,23 @@ async function main() {
     "icd11/parsed/CodeSystem-icd11-biomedicine.json",
   ];
 
-  for (const file of files) {
+  const conceptMapFiles = [
+    "mappings/ayurveda-to-icd11-tm2/ConceptMap.json",
+    "mappings/siddha-to-icd11-tm2/ConceptMap.json",
+    "mappings/unani-to-icd11-tm2/ConceptMap.json",
+    "mappings/ayurveda-to-icd11-biomed/ConceptMap.json",
+    "mappings/siddha-to-icd11-biomed/ConceptMap.json",
+    "mappings/unani-to-icd11-biomed/ConceptMap.json",
+  ];
+
+  // Import CodeSystems
+  for (const file of codeSystemFiles) {
     await importCodeSystem(file);
+  }
+
+  // Import ConceptMaps
+  for (const file of conceptMapFiles) {
+    await importConceptMap(file);
   }
 
   await prisma.$disconnect();

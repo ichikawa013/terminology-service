@@ -1,1 +1,84 @@
-git
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model CodeSystem {
+  id         String     @id               // FHIR resource id
+  url        String
+  version    String
+  name       String
+  status     String
+  content    String
+  importedAt DateTime   @default(now())
+  concepts   Concept[]
+}
+
+model Concept {
+  id           Int        @id @default(autoincrement())
+  code         String
+  display      String
+  definition   String?
+  designations Json?       // [{ language, value, use }]
+  properties   Json?       // [{ code, valueString }]
+  codeSystemId String
+  codeSystem   CodeSystem  @relation(fields: [codeSystemId], references: [id])
+
+  @@unique([codeSystemId, code])
+}
+
+model ConceptMap {
+  id           String   @id               // FHIR resource id (string)
+  url          String
+  version      String
+  sourceSystem String
+  targetSystem String
+  json         Json
+  importedAt   DateTime @default(now())
+}
+
+model Patient {
+  id        String     @id @default(cuid())
+  abhaId    String?    @unique
+  data      Json
+  encounters Encounter[]
+  conditions Condition[]
+}
+
+model Encounter {
+  id         String      @id @default(cuid())
+  patientId  String
+  patient    Patient     @relation(fields: [patientId], references: [id])
+  status     String
+  data       Json
+  conditions Condition[]
+}
+
+model Condition {
+  id          String     @id @default(cuid())
+  encounterId String
+  encounter   Encounter  @relation(fields: [encounterId], references: [id])
+  patientId   String
+  patient     Patient    @relation(fields: [patientId], references: [id])
+  namasteCode String
+  icdCode     String?
+  data        Json
+}
+
+model Bundle {
+  id        String   @id @default(cuid())
+  data      Json     // full FHIR Bundle JSON
+  createdAt DateTime @default(now())
+}
+
+model ConditionLog {
+  id          String   @id @default(cuid())
+  namasteCode String
+  icdCode     String?
+  data        Json     // full Condition JSON
+  createdAt   DateTime @default(now())
+}

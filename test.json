@@ -1,0 +1,63 @@
+{
+  "info": {
+    "name": "Terminology API",
+    "_postman_id": "abcd1234-5678-9012-efgh-3456789ijkl",
+    "description": "Collection for testing Fastify Terminology Microservice",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Lookup Concept",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/lookup?q=jvaraH&system=http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["lookup"],
+          "query": [
+            { "key": "q", "value": "jvaraH" },
+            {
+              "key": "system",
+              "value": "http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "FHIR Get CodeSystem (Ayurveda)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/fhir/CodeSystem/namaste-ayurveda",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["fhir", "CodeSystem", "namaste-ayurveda"]
+        }
+      }
+    },
+    {
+      "name": "Translate Concept (Ayurveda → ICD-11)",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"code\": \"SP51EC-3\",\n  \"system\": \"http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda\",\n  \"target\": \"http://id.who.int/icd/release/11/mms\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/translate",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["translate"]
+        }
+      }
+    }
+  ]
+}
