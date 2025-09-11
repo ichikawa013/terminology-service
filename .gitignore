@@ -48,3 +48,4 @@ prisma/generated/
 
 secrets\serviceAccountKey.jsonsecrets/serviceAccountKey.json
 secrets/serviceAccountKey.json
+secrets/serviceAccountKey.json
