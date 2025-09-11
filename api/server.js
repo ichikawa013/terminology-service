@@ -1,16 +1,25 @@
+// api/index.js
 import Fastify from 'fastify';
 import lookupRoutes from './routes/lookup.js';
 import translateRoutes from './routes/translate.js';
 import fhirRoutes from './routes/fhir.js';
 import bundleRoutes from './routes/bundle.js';
+import timelineRoutes from './routes/timeline.js'; // ✅ added
+import { verifyFirebaseToken } from '../middleware/auth.js';
+import whoamiRoutes from './routes/whoami.js';
 
 const server = Fastify({ logger: true });
+
+// ✅ Always use Firebase auth middleware
+server.addHook('preHandler', verifyFirebaseToken);
 
 // Register routes
 server.register(lookupRoutes);
 server.register(translateRoutes);
 server.register(fhirRoutes);
 server.register(bundleRoutes);
+server.register(timelineRoutes); // ✅ new
+server.register(whoamiRoutes);
 
 // Start server
 const start = async () => {

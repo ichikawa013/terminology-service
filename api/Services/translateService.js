@@ -30,20 +30,30 @@ function toFhirTranslateResult(matches, targetSystem) {
 }
 
 export async function translateCode(code, sourceSystem, targetSystem, asFhir = true) {
-  let conceptMap = null;
+  const matches = [];
 
-  // --- DB first
+  // --- DB first (collect from all ConceptMaps, not just one)
   const dbMaps = await prisma.conceptMap.findMany({ where: { sourceSystem, targetSystem } });
   for (const dbMap of dbMaps) {
     const mapJson = typeof dbMap.json === 'string' ? JSON.parse(dbMap.json) : dbMap.json;
-    if (mapJson.group?.some(g => g.element?.some(el => el.code === code))) {
-      conceptMap = mapJson;
-      break;
+    for (const group of mapJson.group || []) {
+      if (group.source !== sourceSystem || group.target !== targetSystem) continue;
+      for (const element of group.element || []) {
+        if (element.code === code) {
+          for (const target of element.target || []) {
+            matches.push({
+              code: target.code,
+              display: target.display,
+              relationship: target.relationship,
+            });
+          }
+        }
+      }
     }
   }
 
-  // --- JSON fallback
-  if (!conceptMap) {
+  // --- JSON fallback if nothing in DB
+  if (!matches.length) {
     const candidates = [
       'ayurveda-to-icd11-biomed/ConceptMap.json',
       'ayurveda-to-icd11-tm2/ConceptMap.json',
@@ -54,31 +64,36 @@ export async function translateCode(code, sourceSystem, targetSystem, asFhir = t
     ];
     for (const f of candidates) {
       const map = await loadJson(path.join(mappingsDir, f));
-      if (map?.group?.some(g => g.source === sourceSystem && g.target === targetSystem)) {
-        conceptMap = map;
-        break;
+      for (const group of map?.group || []) {
+        if (group.source !== sourceSystem || group.target !== targetSystem) continue;
+        for (const element of group.element || []) {
+          if (element.code === code) {
+            for (const target of element.target || []) {
+              matches.push({
+                code: target.code,
+                display: target.display,
+                relationship: target.relationship,
+              });
+            }
+          }
+        }
       }
     }
   }
 
-  if (!conceptMap) {
+  if (!matches.length) {
     return asFhir
-      ? { resourceType: 'OperationOutcome', issue: [{ severity: 'error', code: 'not-found', diagnostics: 'No ConceptMap found' }] }
+      ? {
+          resourceType: 'OperationOutcome',
+          issue: [
+            { severity: 'warning', code: 'not-found', diagnostics: 'No match for code' },
+          ],
+        }
       : { result: [] };
   }
 
-  // --- Find code in ConceptMap
-  for (const group of conceptMap.group || []) {
-    if (group.source !== sourceSystem || group.target !== targetSystem) continue;
-    const element = group.element?.find(el => el.code === code);
-    if (element?.target?.length) {
-      return asFhir
-        ? toFhirTranslateResult(element.target, targetSystem)
-        : { result: element.target.map(t => ({ code: t.code, display: t.display, relationship: t.relationship })) };
-    }
-  }
-
+  // --- Return all matches
   return asFhir
-    ? { resourceType: 'OperationOutcome', issue: [{ severity: 'warning', code: 'not-found', diagnostics: 'No match for code' }] }
-    : { result: [] };
+    ? toFhirTranslateResult(matches, targetSystem)
+    : { result: matches };
 }

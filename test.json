@@ -1,62 +1,40 @@
 {
-  "info": {
-    "name": "Terminology API",
-    "_postman_id": "abcd1234-5678-9012-efgh-3456789ijkl",
-    "description": "Collection for testing Fastify Terminology Microservice",
-    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-  },
-  "item": [
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
     {
-      "name": "Lookup Concept",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "http://localhost:3000/lookup?q=jvaraH&system=http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda",
-          "protocol": "http",
-          "host": ["localhost"],
-          "port": "3000",
-          "path": ["lookup"],
-          "query": [
-            { "key": "q", "value": "jvaraH" },
-            {
-              "key": "system",
-              "value": "http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda"
-            }
+      "resource": {
+        "resourceType": "Patient",
+        "id": "patient-001",
+        "name": [
+          {
+            "family": "Doe",
+            "given": ["John"]
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "encounter-001",
+        "status": "finished",
+        "class": { "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode", "code": "AMB" }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "condition-001",
+        "code": {
+          "coding": [
+            { "system": "NAMASTE", "code": "12345", "display": "Fever" },
+            { "system": "ICD-10", "code": "R50", "display": "Fever" }
           ]
-        }
-      }
-    },
-    {
-      "name": "FHIR Get CodeSystem (Ayurveda)",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "http://localhost:3000/fhir/CodeSystem/namaste-ayurveda",
-          "protocol": "http",
-          "host": ["localhost"],
-          "port": "3000",
-          "path": ["fhir", "CodeSystem", "namaste-ayurveda"]
-        }
-      }
-    },
-    {
-      "name": "Translate Concept (Ayurveda → ICD-11)",
-      "request": {
-        "method": "POST",
-        "header": [{ "key": "Content-Type", "value": "application/json" }],
-        "body": {
-          "mode": "raw",
-          "raw": "{\n  \"code\": \"SP51EC-3\",\n  \"system\": \"http://namaste.gov.in/fhir/CodeSystem/namaste-ayurveda\",\n  \"target\": \"http://id.who.int/icd/release/11/mms\"\n}"
         },
-        "url": {
-          "raw": "http://localhost:3000/translate",
-          "protocol": "http",
-          "host": ["localhost"],
-          "port": "3000",
-          "path": ["translate"]
-        }
+        "subject": { "reference": "Patient/patient-001" },
+        "encounter": { "reference": "Encounter/encounter-001" },
+        "clinicalStatus": { "coding": [{ "system": "http://terminology.hl7.org/CodeSystem/condition-clinical", "code": "active" }] }
       }
     }
   ]
