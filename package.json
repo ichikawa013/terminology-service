@@ -34,7 +34,7 @@
   },
   "scripts": {
     "dev": "nodemon api/server.js",
-    "start": "node api/server.js",
+    "start": "npm api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
