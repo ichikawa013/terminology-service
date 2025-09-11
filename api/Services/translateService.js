@@ -1,3 +1,4 @@
+//api\Services\translateService.js
 import path from 'path';
 import { PrismaClient } from '@prisma/client';
 import { loadJson } from '../utils/loadJson.js';

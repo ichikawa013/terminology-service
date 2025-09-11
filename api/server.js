@@ -1,4 +1,4 @@
-// api/index.js
+// api/server.js
 import Fastify from 'fastify';
 import lookupRoutes from './routes/lookup.js';
 import translateRoutes from './routes/translate.js';

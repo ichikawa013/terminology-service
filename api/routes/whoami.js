@@ -1,3 +1,4 @@
+//api\routes\whoami.js
 export default async function whoamiRoutes(fastify, options) {
   fastify.get('/whoami', async (req, reply) => {
     // req.user is set by authMiddleware.js

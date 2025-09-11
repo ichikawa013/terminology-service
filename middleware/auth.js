@@ -1,4 +1,4 @@
-// authMiddleware.js
+// middleware/auth.js
 import admin from "./firebase.js";
 
 
