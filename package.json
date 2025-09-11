@@ -28,11 +28,12 @@
   "name": "terminology-microservice",
   "version": "1.0.0",
   "description": "",
-  "main": "importToDB.js",
+  "main": "api/server.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
+    "dev": "nodemon api/server.js",
     "start": "node api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
