@@ -9,9 +9,7 @@ if (!process.env.FIREBASE_SERVICE_ACCOUNT_KEY) {
 }
 
 // Read service account JSON
-const serviceAccount = JSON.parse(
-  readFileSync(process.env.FIREBASE_SERVICE_ACCOUNT_KEY, "utf8")
-);
+const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_KEY);
 
 if (!admin.apps.length) {
   admin.initializeApp({
