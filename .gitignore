@@ -46,4 +46,4 @@ Thumbs.db
 # Prisma
 prisma/generated/
 
-secrets\serviceAccountKey.json
+secrets\serviceAccountKey.jsonsecrets/serviceAccountKey.json
