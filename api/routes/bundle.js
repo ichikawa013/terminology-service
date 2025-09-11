@@ -33,16 +33,22 @@ export default async function bundleRoutes(fastify) {
 
       // --- Extract patient demographics ---
       const patientData = {
-        id: patient.id,
+        id: patient.id || "unknown-id",
         name:
-          patient.name
-            ?.map((n) => `${n.given?.join(" ")} ${n.family || ""}`.trim())
-            .join(", ") || "Unknown",
+          Array.isArray(patient.name) && patient.name.length > 0
+            ? patient.name
+                .map((n) =>
+                  `${Array.isArray(n.given) ? n.given.join(" ") : ""} ${
+                    n.family || ""
+                  }`.trim()
+                )
+                .join(", ")
+            : "Unknown",
         gender: patient.gender || "unknown",
         birthDate: patient.birthDate || null,
       };
 
-      // --- Map NAMASTE → ICD using translateService ---
+      // --- Map NAMASTE → ICD ---
       const mappedConditions = [];
 
       for (const cond of conditions) {
@@ -51,20 +57,19 @@ export default async function bundleRoutes(fastify) {
         );
         if (!namasteCoding) continue;
 
-        // Translate code using all ConceptMaps
+        // Translate using all ConceptMaps
         const translated = await translateCode(
           namasteCoding.code,
           namasteCoding.system,
           "http://id.who.int/icd/release/11/mms",
-          false // plain JSON, not FHIR Parameters
+          false
         );
 
         let icdCode = "UNMAPPED";
-
         if (translated?.result?.length > 0) {
           icdCode = translated.result[0].code;
 
-          // Optional: append ICD coding for traceability
+          // Append ICD coding for traceability
           cond.code.coding.push({
             system: "http://id.who.int/icd/release/11/mms",
             code: icdCode,
@@ -79,8 +84,8 @@ export default async function bundleRoutes(fastify) {
       }
 
       // --- Build encounter object ---
+      // --- Build encounter object ---
       const encounterData = {
-        patient: patientData, // include demographics
         encounterId: encounter.id,
         doctorId: req.user?.uid || "unknown-doctor",
         conditions: mappedConditions,
@@ -89,16 +94,24 @@ export default async function bundleRoutes(fastify) {
 
       // --- Dry run mode ---
       if (req.query.dryRun === "true") {
-        console.log("🧪 Dry run – encounter parsed:", encounterData);
+        console.log("🧪 Dry run – encounter parsed:", {
+          ...encounterData,
+          patient: patientData,
+        });
         return reply.send({
           dryRun: true,
           patientId: patient.id,
-          encounter: encounterData,
+          encounter: { ...encounterData, patient: patientData },
         });
       }
 
       // --- Save to Firestore ---
-      const saved = await saveTimelineEntry(patient.id, encounterData);
+      // Pass patientData explicitly
+      const saved = await saveTimelineEntry(
+        patient.id,
+        encounterData,
+        patientData
+      );
       console.log("✅ Encounter saved:", saved.data);
 
       return reply.code(201).send({
